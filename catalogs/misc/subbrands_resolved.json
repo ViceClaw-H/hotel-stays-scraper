@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "EATON",
+    "name": "Eaton HK",
+    "url": "https://www.eatonworkshop.com/en-us/hong-kong/",
+    "synxis_hotel_id": null
+  },
+  {
+    "brand": "EATON",
+    "name": "Eaton DC",
+    "url": "https://www.eatonworkshop.com/en-us/dc/",
+    "synxis_hotel_id": null
+  },
+  {
+    "brand": "YINGNFLO",
+    "name": "Ying'nFlo, Wesley Admiralty, Hong Kong",
+    "url": "https://www.yingnflo.com/en/wesley-admiralty-hong-kong/",
+    "synxis_hotel_id": null
+  },
+  {
+    "brand": "YINGNFLO",
+    "name": "Ying'nFlo, Wan Chai, Hong Kong",
+    "url": "https://www.yingnflo.com/en/wan-chai-hong-kong/",
+    "synxis_hotel_id": null
+  }
+]

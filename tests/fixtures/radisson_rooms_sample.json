@@ -1,0 +1,12 @@
+{
+ "rooms": [
+  {
+   "code": "BSTD------",
+   "name": "Standard Room"
+  },
+  {
+   "code": "JJST------",
+   "name": "Junior Suite"
+  }
+ ]
+}

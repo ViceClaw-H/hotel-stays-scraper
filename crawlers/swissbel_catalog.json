@@ -1,0 +1,20 @@
+[
+  {
+    "id": "swiss_anagata_tanjung_benoa_bali",
+    "slug": "anagata-tanjung-benoa-bali",
+    "brand": "SWISS_BELHOTEL",
+    "name": "Anagata Tanjung Benoa Bali",
+    "city": "Bali",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "latitude": -8.76998699128136,
+    "longitude": 115.21742237578785,
+    "synxis_id": "",
+    "street_address": "Jl. Telaga Waja No.5, Tj. Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",
+    "phone": "+628113978181",
+    "email": "rso-bali@swiss-belhotel.com",
+    "official_url": "https://www.swiss-belhotel.com/hotels/anagata-tanjung-benoa-bali",
+    "loyalty_model": "SBEC_BENEFITS",
+    "lifecycle_status": "ACTIVE"
+  }
+]

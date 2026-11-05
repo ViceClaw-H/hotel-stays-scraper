@@ -1,0 +1,5018 @@
+[
+  {
+    "name": "Regal Riverside Hotel",
+    "slug": "regal-riverside-hotel",
+    "sub_brand": "Regal Hotels",
+    "url": "https://www.ghadiscovery.com/regal-hotels/regal-riverside-hotel"
+  },
+  {
+    "name": "Sunway Putra Hotel",
+    "slug": "sunway-putra-hotel",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-putra-hotel"
+  },
+  {
+    "name": "Corinthia London",
+    "slug": "corinthia-london",
+    "sub_brand": "Corinthia Hotels",
+    "url": "https://www.ghadiscovery.com/corinthia-hotels/corinthia-london"
+  },
+  {
+    "name": "Nh Collection Gran Hotel de Zaragoza",
+    "slug": "nh-collection-gran-hotel-de-zaragoza",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-gran-hotel-de-zaragoza"
+  },
+  {
+    "name": "Kempinski Hotel Ishtar Dead Sea",
+    "slug": "kempinski-hotel-ishtar-dead-sea",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-ishtar-dead-sea"
+  },
+  {
+    "name": "Kempinski Hotel Aqaba Red Sea",
+    "slug": "kempinski-hotel-aqaba-red-sea",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-aqaba-red-sea"
+  },
+  {
+    "name": "Andronis Concept",
+    "slug": "andronis-concept",
+    "sub_brand": "Andronis",
+    "url": "https://www.ghadiscovery.com/andronis/andronis-concept"
+  },
+  {
+    "name": "Andronis Arcadia",
+    "slug": "andronis-arcadia",
+    "sub_brand": "Andronis",
+    "url": "https://www.ghadiscovery.com/andronis/andronis-arcadia"
+  },
+  {
+    "name": "Andronis Boutique Hotel",
+    "slug": "andronis-boutique-hotel",
+    "sub_brand": "Andronis",
+    "url": "https://www.ghadiscovery.com/andronis/andronis-boutique-hotel"
+  },
+  {
+    "name": "Kempinski Hotel Mall of the Emirates Dubai",
+    "slug": "kempinski-hotel-mall-of-the-emirates-dubai",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-mall-of-the-emirates-dubai"
+  },
+  {
+    "name": "Ciragan Palace Kempinski Istanbul",
+    "slug": "ciragan-palace-kempinski-istanbul",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/ciragan-palace-kempinski-istanbul"
+  },
+  {
+    "name": "Parkroyal Yangon",
+    "slug": "parkroyal-yangon",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-yangon"
+  },
+  {
+    "name": "Parkroyal Parramatta",
+    "slug": "parkroyal-parramatta",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-parramatta"
+  },
+  {
+    "name": "Parkroyal Darling Harbour Sydney",
+    "slug": "parkroyal-darling-harbour-sydney",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-darling-harbour-sydney"
+  },
+  {
+    "name": "Parkroyal Collection Pickering Singapore",
+    "slug": "parkroyal-collection-pickering-singapore",
+    "sub_brand": "Parkroyal Collection Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-collection-hotels-resorts/parkroyal-collection-pickering-singapore"
+  },
+  {
+    "name": "Parkroyal Collection Marina Bay Singapore",
+    "slug": "parkroyal-collection-marina-bay-singapore",
+    "sub_brand": "Parkroyal Collection Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-collection-hotels-resorts/parkroyal-collection-marina-bay-singapore"
+  },
+  {
+    "name": "Parkroyal Serviced Suites Kuala Lumpur",
+    "slug": "parkroyal-serviced-suites-kuala-lumpur",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-serviced-suites-kuala-lumpur"
+  },
+  {
+    "name": "Parkroyal Serviced Suites Jakarta",
+    "slug": "parkroyal-serviced-suites-jakarta",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-serviced-suites-jakarta"
+  },
+  {
+    "name": "Parkroyal on Beach Road Singapore",
+    "slug": "parkroyal-on-beach-road-singapore",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-on-beach-road-singapore"
+  },
+  {
+    "name": "Parkroyal Serviced Suites Hanoi",
+    "slug": "parkroyal-serviced-suites-hanoi",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-serviced-suites-hanoi"
+  },
+  {
+    "name": "Parkroyal Suites Bangkok",
+    "slug": "parkroyal-suites-bangkok",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-suites-bangkok"
+  },
+  {
+    "name": "Gurney Bay Hotel A Parkroyal Hotel",
+    "slug": "gurney-bay-hotel-a-parkroyal-hotel",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/gurney-bay-hotel-a-parkroyal-hotel"
+  },
+  {
+    "name": "Parkroyal Penang",
+    "slug": "parkroyal-penang",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-penang"
+  },
+  {
+    "name": "Parkroyal Nay Pyi Taw",
+    "slug": "parkroyal-nay-pyi-taw",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-nay-pyi-taw"
+  },
+  {
+    "name": "Parkroyal Monash Melbourne",
+    "slug": "parkroyal-monash-melbourne",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-monash-melbourne"
+  },
+  {
+    "name": "Parkroyal Melbourne Airport",
+    "slug": "parkroyal-melbourne-airport",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-melbourne-airport"
+  },
+  {
+    "name": "Parkroyal Langkawi Resort",
+    "slug": "parkroyal-langkawi-resort",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-langkawi-resort"
+  },
+  {
+    "name": "Parkroyal Collection Kuala Lumpur",
+    "slug": "parkroyal-collection-kuala-lumpur",
+    "sub_brand": "Parkroyal Collection Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-collection-hotels-resorts/parkroyal-collection-kuala-lumpur"
+  },
+  {
+    "name": "Pan Pacific Vancouver",
+    "slug": "pan-pacific-vancouver",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-vancouver"
+  },
+  {
+    "name": "Olare Mara Kempinski Masai Mara",
+    "slug": "olare-mara-kempinski-masai-mara",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/olare-mara-kempinski-masai-mara"
+  },
+  {
+    "name": "Villa Rosa Kempinski Nairobi",
+    "slug": "villa-rosa-kempinski-nairobi",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/villa-rosa-kempinski-nairobi"
+  },
+  {
+    "name": "Kempinski Seychelles Resort",
+    "slug": "kempinski-seychelles-resort",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-seychelles-resort"
+  },
+  {
+    "name": "Kempinski Hotel Gold Coast City Accra",
+    "slug": "kempinski-hotel-gold-coast-city-accra",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-gold-coast-city-accra"
+  },
+  {
+    "name": "Kempinski Hotel Nanjing",
+    "slug": "kempinski-hotel-nanjing",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-nanjing"
+  },
+  {
+    "name": "Kempinski Hotel Yinchuan",
+    "slug": "kempinski-hotel-yinchuan",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-yinchuan"
+  },
+  {
+    "name": "Sindhorn Kempinski Hotel Bangkok",
+    "slug": "sindhorn-kempinski-hotel-bangkok",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/sindhorn-kempinski-hotel-bangkok"
+  },
+  {
+    "name": "Kempinski Hotel Muscat",
+    "slug": "kempinski-hotel-muscat",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-muscat"
+  },
+  {
+    "name": "Almanac Barcelona",
+    "slug": "almanac-barcelona",
+    "sub_brand": "Almanac Hotels",
+    "url": "https://www.ghadiscovery.com/almanac-hotels/almanac-barcelona"
+  },
+  {
+    "name": "Anantara Palais Hansen Vienna Hotel",
+    "slug": "anantara-palais-hansen-vienna-hotel",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-palais-hansen-vienna-hotel"
+  },
+  {
+    "name": "Pan Pacific Yangon",
+    "slug": "pan-pacific-yangon",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-yangon"
+  },
+  {
+    "name": "Pan Pacific Xiamen",
+    "slug": "pan-pacific-xiamen",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-xiamen"
+  },
+  {
+    "name": "Pan Pacific Tianjin",
+    "slug": "pan-pacific-tianjin",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-tianjin"
+  },
+  {
+    "name": "Pan Pacific Serviced Suites Beach Road Singapore",
+    "slug": "pan-pacific-serviced-suites-beach-road-singapore",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-serviced-suites-beach-road-singapore"
+  },
+  {
+    "name": "Pan Pacific Serviced Suites Nairobi",
+    "slug": "pan-pacific-serviced-suites-nairobi",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-serviced-suites-nairobi"
+  },
+  {
+    "name": "Pan Pacific Serviced Suites Kuala Lumpur",
+    "slug": "pan-pacific-serviced-suites-kuala-lumpur",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-serviced-suites-kuala-lumpur"
+  },
+  {
+    "name": "Pan Pacific Singapore",
+    "slug": "pan-pacific-singapore",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-singapore"
+  },
+  {
+    "name": "Pan Pacific Perth",
+    "slug": "pan-pacific-perth",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-perth"
+  },
+  {
+    "name": "Pan Pacific Beijing",
+    "slug": "pan-pacific-beijing",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-beijing"
+  },
+  {
+    "name": "Pan Pacific Ningbo",
+    "slug": "pan-pacific-ningbo",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-ningbo"
+  },
+  {
+    "name": "Pan Pacific Melbourne",
+    "slug": "pan-pacific-melbourne",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-melbourne"
+  },
+  {
+    "name": "Pan Pacific London",
+    "slug": "pan-pacific-london",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-london"
+  },
+  {
+    "name": "the Hotel Higashiyama Kyoto Tokyu A Pan Pacific Hotel",
+    "slug": "the-hotel-higashiyama-kyoto-tokyu-a-pan-pacific-hotel",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/the-hotel-higashiyama-kyoto-tokyu-a-pan-pacific-hotel"
+  },
+  {
+    "name": "Pan Pacific Jakarta",
+    "slug": "pan-pacific-jakarta",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-jakarta"
+  },
+  {
+    "name": "Pan Pacific Hanoi",
+    "slug": "pan-pacific-hanoi",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-hanoi"
+  },
+  {
+    "name": "Pan Pacific Dalian",
+    "slug": "pan-pacific-dalian",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-dalian"
+  },
+  {
+    "name": "Pan Pacific Sonargaon Dhaka",
+    "slug": "pan-pacific-sonargaon-dhaka",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-sonargaon-dhaka"
+  },
+  {
+    "name": "Marco Polo Jinjiang Hotel",
+    "slug": "marco-polo-jinjiang-hotel",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/marco-polo-jinjiang-hotel"
+  },
+  {
+    "name": "Marco Polo Wuhan",
+    "slug": "marco-polo-wuhan",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/marco-polo-wuhan"
+  },
+  {
+    "name": "Marco Polo Xiamen",
+    "slug": "marco-polo-xiamen",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/marco-polo-xiamen"
+  },
+  {
+    "name": "Maqo Changsha",
+    "slug": "maqo-changsha",
+    "sub_brand": "Maqo",
+    "url": "https://www.ghadiscovery.com/maqo/maqo-changsha"
+  },
+  {
+    "name": "Shaza Doha",
+    "slug": "shaza-doha",
+    "sub_brand": "Shaza Hotels",
+    "url": "https://www.ghadiscovery.com/shaza-hotels/shaza-doha"
+  },
+  {
+    "name": "Kempinski Hotel Xiamen",
+    "slug": "kempinski-hotel-xiamen",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-xiamen"
+  },
+  {
+    "name": "Kempinski Nile Hotel Garden City Cairo",
+    "slug": "kempinski-nile-hotel-garden-city-cairo",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-nile-hotel-garden-city-cairo"
+  },
+  {
+    "name": "Niccolo Suzhou",
+    "slug": "niccolo-suzhou",
+    "sub_brand": "Niccolo Hotels",
+    "url": "https://www.ghadiscovery.com/niccolo-hotels/niccolo-suzhou"
+  },
+  {
+    "name": "Marco Polo Parkside Beijing",
+    "slug": "marco-polo-parkside-beijing",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/marco-polo-parkside-beijing"
+  },
+  {
+    "name": "Marco Polo Ortigas",
+    "slug": "marco-polo-ortigas",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/marco-polo-ortigas"
+  },
+  {
+    "name": "Nikki Beach Resort Spa Dubai",
+    "slug": "nikki-beach-resort-spa-dubai",
+    "sub_brand": "Nikki Beach Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nikki-beach-hotels-resorts/nikki-beach-resort-spa-dubai"
+  },
+  {
+    "name": "Marco Polo Plaza Cebu",
+    "slug": "marco-polo-plaza-cebu",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/marco-polo-plaza-cebu"
+  },
+  {
+    "name": "Corinthia Budapest",
+    "slug": "corinthia-budapest",
+    "sub_brand": "Corinthia Hotels",
+    "url": "https://www.ghadiscovery.com/corinthia-hotels/corinthia-budapest"
+  },
+  {
+    "name": "Park Apartments Dubai Edge by Rotana",
+    "slug": "park-apartments-dubai-edge-by-rotana",
+    "sub_brand": "Edge by Rotana",
+    "url": "https://www.ghadiscovery.com/edge-by-rotana/park-apartments-dubai-edge-by-rotana"
+  },
+  {
+    "name": "Nour Arjaan by Rotana",
+    "slug": "nour-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/nour-arjaan-by-rotana"
+  },
+  {
+    "name": "Grand Rotana Resort Spa",
+    "slug": "grand-rotana-resort-spa",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/grand-rotana-resort-spa"
+  },
+  {
+    "name": "the Capitol Kempinski Hotel Singapore",
+    "slug": "the-capitol-kempinski-hotel-singapore",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/the-capitol-kempinski-hotel-singapore"
+  },
+  {
+    "name": "Kempinski Hotel Das Tirol Jochberg",
+    "slug": "kempinski-hotel-das-tirol-jochberg",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-das-tirol-jochberg"
+  },
+  {
+    "name": "Anantara Bazaruto Island Resort",
+    "slug": "anantara-bazaruto-island-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-bazaruto-island-resort"
+  },
+  {
+    "name": "Kempinski Hotel Berchtesgaden",
+    "slug": "kempinski-hotel-berchtesgaden",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-berchtesgaden"
+  },
+  {
+    "name": "Oaks Brisbane on Margaret Suites",
+    "slug": "oaks-brisbane-on-margaret-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-on-margaret-suites"
+  },
+  {
+    "name": "Oaks Brisbane on Felix Suites",
+    "slug": "oaks-brisbane-on-felix-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-on-felix-suites"
+  },
+  {
+    "name": "Oaks Brisbane River City Suites",
+    "slug": "oaks-brisbane-river-city-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-river-city-suites"
+  },
+  {
+    "name": "Centro Olaya by Rotana",
+    "slug": "centro-olaya-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-olaya-by-rotana"
+  },
+  {
+    "name": "Al Bandar Rotana Creek",
+    "slug": "al-bandar-rotana-creek",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/al-bandar-rotana-creek"
+  },
+  {
+    "name": "Oaks Brisbane on Charlotte Suites",
+    "slug": "oaks-brisbane-on-charlotte-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-on-charlotte-suites"
+  },
+  {
+    "name": "the River Lee",
+    "slug": "the-river-lee",
+    "sub_brand": "Doyle Collection",
+    "url": "https://www.ghadiscovery.com/doyle-collection/the-river-lee"
+  },
+  {
+    "name": "Atheel Hotel Kafd",
+    "slug": "atheel-hotel-kafd",
+    "sub_brand": "Adeera",
+    "url": "https://www.ghadiscovery.com/adeera/atheel-hotel-kafd"
+  },
+  {
+    "name": "Nh Bangkok Sukhumvit Boulevard",
+    "slug": "nh-bangkok-sukhumvit-boulevard",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bangkok-sukhumvit-boulevard"
+  },
+  {
+    "name": "Nh Maldives Kuda Rah Resort",
+    "slug": "nh-maldives-kuda-rah-resort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-maldives-kuda-rah-resort"
+  },
+  {
+    "name": "Avani Melbourne Jazz Corner Residences",
+    "slug": "avani-melbourne-jazz-corner-residences",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-melbourne-jazz-corner-residences"
+  },
+  {
+    "name": "Avani Melbourne Box Hill Residences",
+    "slug": "avani-melbourne-box-hill-residences",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-melbourne-box-hill-residences"
+  },
+  {
+    "name": "Avani Adelaide Residences",
+    "slug": "avani-adelaide-residences",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-adelaide-residences"
+  },
+  {
+    "name": "Anantara Tented Camp Kafue River",
+    "slug": "anantara-tented-camp-kafue-river",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-tented-camp-kafue-river"
+  },
+  {
+    "name": "Avani Windhoek Hotel Casino",
+    "slug": "avani-windhoek-hotel-casino",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-windhoek-hotel-casino"
+  },
+  {
+    "name": "Avani Maseru Hotel",
+    "slug": "avani-maseru-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-maseru-hotel"
+  },
+  {
+    "name": "Avani Lesotho Hotel Casino",
+    "slug": "avani-lesotho-hotel-casino",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-lesotho-hotel-casino"
+  },
+  {
+    "name": "Avani Gaborone Resort Casino",
+    "slug": "avani-gaborone-resort-casino",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-gaborone-resort-casino"
+  },
+  {
+    "name": "Anantara Stanley Livingstone Victoria Falls Hotel",
+    "slug": "anantara-stanley-livingstone-victoria-falls-hotel",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-stanley-livingstone-victoria-falls-hotel"
+  },
+  {
+    "name": "Avani Victoria Falls Resort",
+    "slug": "avani-victoria-falls-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-victoria-falls-resort"
+  },
+  {
+    "name": "the Royal Livingstone Victoria Falls Zambia Hotel by Anantara",
+    "slug": "the-royal-livingstone-victoria-falls-zambia-hotel-by-anantara",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/the-royal-livingstone-victoria-falls-zambia-hotel-by-anantara"
+  },
+  {
+    "name": "Avani Pemba Beach Hotel",
+    "slug": "avani-pemba-beach-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-pemba-beach-hotel"
+  },
+  {
+    "name": "Nh Johannesburg Sandton",
+    "slug": "nh-johannesburg-sandton",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-johannesburg-sandton"
+  },
+  {
+    "name": "Avani Barbarons Seychelles Resort",
+    "slug": "avani-barbarons-seychelles-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-barbarons-seychelles-resort"
+  },
+  {
+    "name": "Anantara Maia Seychelles Villas",
+    "slug": "anantara-maia-seychelles-villas",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-maia-seychelles-villas"
+  },
+  {
+    "name": "Al Baleed Resort Salalah by Anantara",
+    "slug": "al-baleed-resort-salalah-by-anantara",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/al-baleed-resort-salalah-by-anantara"
+  },
+  {
+    "name": "Anantara Al Jabal Al Akhdar Resort",
+    "slug": "anantara-al-jabal-al-akhdar-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-al-jabal-al-akhdar-resort"
+  },
+  {
+    "name": "Al Najada Doha Hotel Apartments by Oaks",
+    "slug": "al-najada-doha-hotel-apartments-by-oaks",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/al-najada-doha-hotel-apartments-by-oaks"
+  },
+  {
+    "name": "Al Najada Doha Hotel by Tivoli",
+    "slug": "al-najada-doha-hotel-by-tivoli",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/al-najada-doha-hotel-by-tivoli"
+  },
+  {
+    "name": "Souq Waqif Boutique Hotels by Tivoli",
+    "slug": "souq-waqif-boutique-hotels-by-tivoli",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/souq-waqif-boutique-hotels-by-tivoli"
+  },
+  {
+    "name": "Souq Al Wakra Hotel Qatar by Tivoli",
+    "slug": "souq-al-wakra-hotel-qatar-by-tivoli",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/souq-al-wakra-hotel-qatar-by-tivoli"
+  },
+  {
+    "name": "Banana Island Resort Doha by Anantara",
+    "slug": "banana-island-resort-doha-by-anantara",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/banana-island-resort-doha-by-anantara"
+  },
+  {
+    "name": "Anantara Mina Ras Al Khaimah Resort",
+    "slug": "anantara-mina-ras-al-khaimah-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-mina-ras-al-khaimah-resort"
+  },
+  {
+    "name": "la Suite Dubai Hotel Apartments",
+    "slug": "la-suite-dubai-hotel-apartments",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/la-suite-dubai-hotel-apartments"
+  },
+  {
+    "name": "Dukes the Palm Dubai Hotel",
+    "slug": "dukes-the-palm-dubai-hotel",
+    "sub_brand": "Minor Hotels",
+    "url": "https://www.ghadiscovery.com/minor-hotels/dukes-the-palm-dubai-hotel"
+  },
+  {
+    "name": "Nh Collection Dubai the Palm",
+    "slug": "nh-collection-dubai-the-palm",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-dubai-the-palm"
+  },
+  {
+    "name": "Avani Palm View Dubai Hotel Suites",
+    "slug": "avani-palm-view-dubai-hotel-suites",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-palm-view-dubai-hotel-suites"
+  },
+  {
+    "name": "Avani Ibn Battuta Dubai Hotel",
+    "slug": "avani-ibn-battuta-dubai-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-ibn-battuta-dubai-hotel"
+  },
+  {
+    "name": "Avani Deira Dubai Hotel",
+    "slug": "avani-deira-dubai-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-deira-dubai-hotel"
+  },
+  {
+    "name": "Anantara Downtown Dubai Hotel",
+    "slug": "anantara-downtown-dubai-hotel",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-downtown-dubai-hotel"
+  },
+  {
+    "name": "Anantara the Palm Dubai Resort",
+    "slug": "anantara-the-palm-dubai-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-the-palm-dubai-resort"
+  },
+  {
+    "name": "Anantara Santorini Abu Dhabi Retreat",
+    "slug": "anantara-santorini-abu-dhabi-retreat",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-santorini-abu-dhabi-retreat"
+  },
+  {
+    "name": "Anantara Sir Bani Yas Island Al Sahel Villa Resort",
+    "slug": "anantara-sir-bani-yas-island-al-sahel-villa-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-sir-bani-yas-island-al-sahel-villa-resort"
+  },
+  {
+    "name": "Anantara Sir Bani Yas Island Al Yamm Villa Resort",
+    "slug": "anantara-sir-bani-yas-island-al-yamm-villa-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-sir-bani-yas-island-al-yamm-villa-resort"
+  },
+  {
+    "name": "Desert Islands Resort Spa by Anantara",
+    "slug": "desert-islands-resort-spa-by-anantara",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/desert-islands-resort-spa-by-anantara"
+  },
+  {
+    "name": "Qasr Al Sarab Desert Resort by Anantara",
+    "slug": "qasr-al-sarab-desert-resort-by-anantara",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/qasr-al-sarab-desert-resort-by-anantara"
+  },
+  {
+    "name": "Anantara Rasananda Koh Phangan Villas",
+    "slug": "anantara-rasananda-koh-phangan-villas",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-rasananda-koh-phangan-villas"
+  },
+  {
+    "name": "Anantara Mai Khao Phuket Villas",
+    "slug": "anantara-mai-khao-phuket-villas",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-mai-khao-phuket-villas"
+  },
+  {
+    "name": "Avani Sukhumvit Bangkok Hotel",
+    "slug": "avani-sukhumvit-bangkok-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-sukhumvit-bangkok-hotel"
+  },
+  {
+    "name": "Avani Lanexang Vientiane Hotel",
+    "slug": "avani-lanexang-vientiane-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-lanexang-vientiane-hotel"
+  },
+  {
+    "name": "Avani Ratchada Bangkok Hotel",
+    "slug": "avani-ratchada-bangkok-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-ratchada-bangkok-hotel"
+  },
+  {
+    "name": "Avani Quy Nhon Resort",
+    "slug": "avani-quy-nhon-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-quy-nhon-resort"
+  },
+  {
+    "name": "Anantara Quy Nhon Villas",
+    "slug": "anantara-quy-nhon-villas",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-quy-nhon-villas"
+  },
+  {
+    "name": "Anantara Golden Triangle Elephant Camp Resort",
+    "slug": "anantara-golden-triangle-elephant-camp-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-golden-triangle-elephant-camp-resort"
+  },
+  {
+    "name": "Anantara Guiyang Resort",
+    "slug": "anantara-guiyang-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-guiyang-resort"
+  },
+  {
+    "name": "Nh Collection Maldives Reethi Resort",
+    "slug": "nh-collection-maldives-reethi-resort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-maldives-reethi-resort"
+  },
+  {
+    "name": "Nh Collection Maldives Havodda Resort",
+    "slug": "nh-collection-maldives-havodda-resort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-maldives-havodda-resort"
+  },
+  {
+    "name": "Nh Hua Hin",
+    "slug": "nh-hua-hin",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-hua-hin"
+  },
+  {
+    "name": "Oaks Chengdu at Cultural Heritage Park",
+    "slug": "oaks-chengdu-at-cultural-heritage-park",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-chengdu-at-cultural-heritage-park"
+  },
+  {
+    "name": "Tivoli Chengdu at Cultural Heritage Park",
+    "slug": "tivoli-chengdu-at-cultural-heritage-park",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-chengdu-at-cultural-heritage-park"
+  },
+  {
+    "name": "Anantara Desaru Coast Resort Villas",
+    "slug": "anantara-desaru-coast-resort-villas",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-desaru-coast-resort-villas"
+  },
+  {
+    "name": "Avani Pattaya Resort",
+    "slug": "avani-pattaya-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-pattaya-resort"
+  },
+  {
+    "name": "Fcc Angkor by Avani",
+    "slug": "fcc-angkor-by-avani",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/fcc-angkor-by-avani"
+  },
+  {
+    "name": "Anantara Ubud Bali Resort",
+    "slug": "anantara-ubud-bali-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-ubud-bali-resort"
+  },
+  {
+    "name": "Anantara Angkor Resort",
+    "slug": "anantara-angkor-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-angkor-resort"
+  },
+  {
+    "name": "Avani Kalutara Resort",
+    "slug": "avani-kalutara-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-kalutara-resort"
+  },
+  {
+    "name": "Anantara Kalutara Resort",
+    "slug": "anantara-kalutara-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-kalutara-resort"
+  },
+  {
+    "name": "Nh Boat Lagoon Phuket Resort",
+    "slug": "nh-boat-lagoon-phuket-resort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-boat-lagoon-phuket-resort"
+  },
+  {
+    "name": "Anantara Hua Hin Resort",
+    "slug": "anantara-hua-hin-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-hua-hin-resort"
+  },
+  {
+    "name": "Avani Hua Hin Resort",
+    "slug": "avani-hua-hin-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-hua-hin-resort"
+  },
+  {
+    "name": "Avani Luang Prabang Hotel",
+    "slug": "avani-luang-prabang-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-luang-prabang-hotel"
+  },
+  {
+    "name": "Hotel Vier Jahreszeiten Kempinski Munich",
+    "slug": "hotel-vier-jahreszeiten-kempinski-munich",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/hotel-vier-jahreszeiten-kempinski-munich"
+  },
+  {
+    "name": "Hotel Taschenbergpalais Kempinski Dresden",
+    "slug": "hotel-taschenbergpalais-kempinski-dresden",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/hotel-taschenbergpalais-kempinski-dresden"
+  },
+  {
+    "name": "Oaks Casuarina Santai Resort",
+    "slug": "oaks-casuarina-santai-resort",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-casuarina-santai-resort"
+  },
+  {
+    "name": "Avani Melbourne Central Residences",
+    "slug": "avani-melbourne-central-residences",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-melbourne-central-residences"
+  },
+  {
+    "name": "Oaks Brisbane Mews Suites",
+    "slug": "oaks-brisbane-mews-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-mews-suites"
+  },
+  {
+    "name": "Capella Singapore",
+    "slug": "capella-singapore",
+    "sub_brand": "Capella Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/capella-hotels-and-resorts/capella-singapore"
+  },
+  {
+    "name": "Oaks Brisbane Lexicon Suites",
+    "slug": "oaks-brisbane-lexicon-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-lexicon-suites"
+  },
+  {
+    "name": "Oaks Brisbane Festival Suites",
+    "slug": "oaks-brisbane-festival-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-festival-suites"
+  },
+  {
+    "name": "Oaks Brisbane Aurora Suites",
+    "slug": "oaks-brisbane-aurora-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-aurora-suites"
+  },
+  {
+    "name": "Oaks Cypress Lakes Resort",
+    "slug": "oaks-cypress-lakes-resort",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-cypress-lakes-resort"
+  },
+  {
+    "name": "Capella Taipei",
+    "slug": "capella-taipei",
+    "sub_brand": "Capella Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/capella-hotels-and-resorts/capella-taipei"
+  },
+  {
+    "name": "Oaks Glenelg Plaza Pier Suites",
+    "slug": "oaks-glenelg-plaza-pier-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-glenelg-plaza-pier-suites"
+  },
+  {
+    "name": "Oaks Adelaide Horizons Suites",
+    "slug": "oaks-adelaide-horizons-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-adelaide-horizons-suites"
+  },
+  {
+    "name": "Istay Precinct Adelaide",
+    "slug": "istay-precinct-adelaide",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/istay-precinct-adelaide"
+  },
+  {
+    "name": "Auckland Harbour Suites",
+    "slug": "auckland-harbour-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/auckland-harbour-suites"
+  },
+  {
+    "name": "Capella Ubud Bali",
+    "slug": "capella-ubud-bali",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/capella-ubud-bali"
+  },
+  {
+    "name": "the Marmara Taksim",
+    "slug": "the-marmara-taksim",
+    "sub_brand": "the Marmara Hotels",
+    "url": "https://www.ghadiscovery.com/the-marmara-hotels/the-marmara-taksim"
+  },
+  {
+    "name": "Viceroy Snowmass",
+    "slug": "viceroy-snowmass",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/viceroy-snowmass"
+  },
+  {
+    "name": "Anantara Palazzo Naiadi Rome Hotel",
+    "slug": "anantara-palazzo-naiadi-rome-hotel",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/anantara-palazzo-naiadi-rome-hotel"
+  },
+  {
+    "name": "Sugar Beach A Viceroy Resort",
+    "slug": "sugar-beach-a-viceroy-resort",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/sugar-beach-a-viceroy-resort"
+  },
+  {
+    "name": "Siam Kempinski Hotel Bangkok",
+    "slug": "siam-kempinski-hotel-bangkok",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/siam-kempinski-hotel-bangkok"
+  },
+  {
+    "name": "Ja Mar Hall",
+    "slug": "ja-mar-hall",
+    "sub_brand": "Ja Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/ja-resorts-hotels/ja-mar-hall"
+  },
+  {
+    "name": "Niyama Private Islands Maldives",
+    "slug": "niyama-private-islands-maldives",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/niyama-private-islands-maldives"
+  },
+  {
+    "name": "Ja Manafaru",
+    "slug": "ja-manafaru",
+    "sub_brand": "Ja Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/ja-resorts-hotels/ja-manafaru"
+  },
+  {
+    "name": "Bloom Arjaan by Rotana",
+    "slug": "bloom-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/bloom-arjaan-by-rotana"
+  },
+  {
+    "name": "the Cove Rotana Resort",
+    "slug": "the-cove-rotana-resort",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/the-cove-rotana-resort"
+  },
+  {
+    "name": "Niccolo Chengdu",
+    "slug": "niccolo-chengdu",
+    "sub_brand": "Niccolo Hotels",
+    "url": "https://www.ghadiscovery.com/niccolo-hotels/niccolo-chengdu"
+  },
+  {
+    "name": "Corinthia Rome",
+    "slug": "corinthia-rome",
+    "sub_brand": "Corinthia Hotels",
+    "url": "https://www.ghadiscovery.com/corinthia-hotels/corinthia-rome"
+  },
+  {
+    "name": "Ja Hatta Fort Hotel",
+    "slug": "ja-hatta-fort-hotel",
+    "sub_brand": "Ja Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/ja-resorts-hotels/ja-hatta-fort-hotel"
+  },
+  {
+    "name": "Viceroy Chicago",
+    "slug": "viceroy-chicago",
+    "sub_brand": "Viceroy",
+    "url": "https://www.ghadiscovery.com/viceroy/viceroy-chicago"
+  },
+  {
+    "name": "Rotana Ras Al Khaimah the Mangroves",
+    "slug": "rotana-ras-al-khaimah-the-mangroves",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/rotana-ras-al-khaimah-the-mangroves"
+  },
+  {
+    "name": "Anantara Layan Phuket Resort",
+    "slug": "anantara-layan-phuket-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-layan-phuket-resort"
+  },
+  {
+    "name": "Oaks Brisbane Casino Tower Suites",
+    "slug": "oaks-brisbane-casino-tower-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-brisbane-casino-tower-suites"
+  },
+  {
+    "name": "Oaks Adelaide Embassy Suites",
+    "slug": "oaks-adelaide-embassy-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-adelaide-embassy-suites"
+  },
+  {
+    "name": "Oaks Glenelg Liberty Suites",
+    "slug": "oaks-glenelg-liberty-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-glenelg-liberty-suites"
+  },
+  {
+    "name": "Grand Hotel Des Bains Kempinski St",
+    "slug": "grand-hotel-des-bains-kempinski-st",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/grand-hotel-des-bains-kempinski-st"
+  },
+  {
+    "name": "Kempinski Palace Cairo",
+    "slug": "kempinski-palace-cairo",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-palace-cairo"
+  },
+  {
+    "name": "Kempinski Hotel Guiyang",
+    "slug": "kempinski-hotel-guiyang",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-guiyang"
+  },
+  {
+    "name": "Titanium Members",
+    "slug": "titanium-members",
+    "sub_brand": "Complimentary Breakfast",
+    "url": "https://www.ghadiscovery.com/complimentary-breakfast/titanium-members"
+  },
+  {
+    "name": "Viceroy Santa Monica",
+    "slug": "viceroy-santa-monica",
+    "sub_brand": "Viceroy",
+    "url": "https://www.ghadiscovery.com/viceroy/viceroy-santa-monica"
+  },
+  {
+    "name": "Nh Bangkok Asoke",
+    "slug": "nh-bangkok-asoke",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bangkok-asoke"
+  },
+  {
+    "name": "Marsa Malaz Kempinski the Pearl Doha",
+    "slug": "marsa-malaz-kempinski-the-pearl-doha",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/marsa-malaz-kempinski-the-pearl-doha"
+  },
+  {
+    "name": "Edge Al Rabie Riyadh",
+    "slug": "edge-al-rabie-riyadh",
+    "sub_brand": "Edge by Rotana",
+    "url": "https://www.ghadiscovery.com/edge-by-rotana/edge-al-rabie-riyadh"
+  },
+  {
+    "name": "Capella Bangkok",
+    "slug": "capella-bangkok",
+    "sub_brand": "Capella Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/capella-hotels-and-resorts/capella-bangkok"
+  },
+  {
+    "name": "Brand Wide Offer",
+    "slug": "brand-wide-offer",
+    "sub_brand": "Ja Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/ja-resorts-hotels/brand-wide-offer"
+  },
+  {
+    "name": "Oaks Lake Crackenback Resort",
+    "slug": "oaks-lake-crackenback-resort",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-lake-crackenback-resort"
+  },
+  {
+    "name": "Rotana Jabal Omar Makkah",
+    "slug": "rotana-jabal-omar-makkah",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/rotana-jabal-omar-makkah"
+  },
+  {
+    "name": "Nikki Beach Resort Spa Santorini",
+    "slug": "nikki-beach-resort-spa-santorini",
+    "sub_brand": "Nikki Beach Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nikki-beach-hotels-resorts/nikki-beach-resort-spa-santorini"
+  },
+  {
+    "name": "Paramount Hotel Midtown",
+    "slug": "paramount-hotel-midtown",
+    "sub_brand": "Paramount Hotels",
+    "url": "https://www.ghadiscovery.com/paramount-hotels/paramount-hotel-midtown"
+  },
+  {
+    "name": "Paramount Hotel Dubai",
+    "slug": "paramount-hotel-dubai",
+    "sub_brand": "Paramount Hotels",
+    "url": "https://www.ghadiscovery.com/paramount-hotels/paramount-hotel-dubai"
+  },
+  {
+    "name": "Saii Koh Samui Villas",
+    "slug": "saii-koh-samui-villas",
+    "sub_brand": "Saii Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/saii-hotels-resorts/saii-koh-samui-villas"
+  },
+  {
+    "name": "Sea Containers London",
+    "slug": "sea-containers-london",
+    "sub_brand": "Lore Group",
+    "url": "https://www.ghadiscovery.com/lore-group/sea-containers-london"
+  },
+  {
+    "name": "Viceroy Washington Dc",
+    "slug": "viceroy-washington-dc",
+    "sub_brand": "Viceroy",
+    "url": "https://www.ghadiscovery.com/viceroy/viceroy-washington-dc"
+  },
+  {
+    "name": "Kempinski Hotel Brazzaville",
+    "slug": "kempinski-hotel-brazzaville",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-brazzaville"
+  },
+  {
+    "name": "Augustine Hotel Prague",
+    "slug": "augustine-hotel-prague",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/augustine-hotel-prague"
+  },
+  {
+    "name": "Viceroy Riviera Maya",
+    "slug": "viceroy-riviera-maya",
+    "sub_brand": "Viceroy",
+    "url": "https://www.ghadiscovery.com/viceroy/viceroy-riviera-maya"
+  },
+  {
+    "name": "Kempinski Hotel Hangzhou",
+    "slug": "kempinski-hotel-hangzhou",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-hangzhou"
+  },
+  {
+    "name": "the Dupont Circle",
+    "slug": "the-dupont-circle",
+    "sub_brand": "Doyle Collection",
+    "url": "https://www.ghadiscovery.com/doyle-collection/the-dupont-circle"
+  },
+  {
+    "name": "Hotel Zena",
+    "slug": "hotel-zena",
+    "sub_brand": "Viceroy",
+    "url": "https://www.ghadiscovery.com/viceroy/hotel-zena"
+  },
+  {
+    "name": "Kempinski Hotel Jinan",
+    "slug": "kempinski-hotel-jinan",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-jinan"
+  },
+  {
+    "name": "Tivoli la Vie Muscat Hotel Residences",
+    "slug": "tivoli-la-vie-muscat-hotel-residences",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-la-vie-muscat-hotel-residences"
+  },
+  {
+    "name": "Hotel Indonesia Kempinski Jakarta",
+    "slug": "hotel-indonesia-kempinski-jakarta",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/hotel-indonesia-kempinski-jakarta"
+  },
+  {
+    "name": "Grand Kempinski Hotel Shanghai",
+    "slug": "grand-kempinski-hotel-shanghai",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/grand-kempinski-hotel-shanghai"
+  },
+  {
+    "name": "Palma Bay Rotana Resort",
+    "slug": "palma-bay-rotana-resort",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/palma-bay-rotana-resort"
+  },
+  {
+    "name": "Tivoli Kopke Porto Gaia Hotel",
+    "slug": "tivoli-kopke-porto-gaia-hotel",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-kopke-porto-gaia-hotel"
+  },
+  {
+    "name": "Airalo",
+    "slug": "airalo",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/airalo"
+  },
+  {
+    "name": "the Marmara Suadiye Residence",
+    "slug": "the-marmara-suadiye-residence",
+    "sub_brand": "the Marmara Hotels",
+    "url": "https://www.ghadiscovery.com/the-marmara-hotels/the-marmara-suadiye-residence"
+  },
+  {
+    "name": "Club Avandra",
+    "slug": "club-avandra",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/club-avandra"
+  },
+  {
+    "name": "Kempinski Palace Engelberg",
+    "slug": "kempinski-palace-engelberg",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/kempinski-palace-engelberg"
+  },
+  {
+    "name": "the Marmara Camlica Residence",
+    "slug": "the-marmara-camlica-residence",
+    "sub_brand": "the Marmara Hotels",
+    "url": "https://www.ghadiscovery.com/the-marmara-hotels/the-marmara-camlica-residence"
+  },
+  {
+    "name": "the Marmara Antalya",
+    "slug": "the-marmara-antalya",
+    "sub_brand": "the Marmara Hotels",
+    "url": "https://www.ghadiscovery.com/the-marmara-hotels/the-marmara-antalya"
+  },
+  {
+    "name": "Outrigger Kauai Beach Resort Spa",
+    "slug": "outrigger-kauai-beach-resort-spa",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-kauai-beach-resort-spa"
+  },
+  {
+    "name": "Divani Palace Acropolis",
+    "slug": "divani-palace-acropolis",
+    "sub_brand": "Divani Collection Hotels",
+    "url": "https://www.ghadiscovery.com/divani-collection-hotels/divani-palace-acropolis"
+  },
+  {
+    "name": "Divani Caravel",
+    "slug": "divani-caravel",
+    "sub_brand": "Divani Collection Hotels",
+    "url": "https://www.ghadiscovery.com/divani-collection-hotels/divani-caravel"
+  },
+  {
+    "name": "Divani Palace Larissa",
+    "slug": "divani-palace-larissa",
+    "sub_brand": "Divani Collection Hotels",
+    "url": "https://www.ghadiscovery.com/divani-collection-hotels/divani-palace-larissa"
+  },
+  {
+    "name": "Divani Meteora Hotel",
+    "slug": "divani-meteora-hotel",
+    "sub_brand": "Divani Collection Hotels",
+    "url": "https://www.ghadiscovery.com/divani-collection-hotels/divani-meteora-hotel"
+  },
+  {
+    "name": "Divani Apollon Palace Thalasso",
+    "slug": "divani-apollon-palace-thalasso",
+    "sub_brand": "Divani Collection Hotels",
+    "url": "https://www.ghadiscovery.com/divani-collection-hotels/divani-apollon-palace-thalasso"
+  },
+  {
+    "name": "Anantara Convento Di Amalfi Grand Hotel",
+    "slug": "anantara-convento-di-amalfi-grand-hotel",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-convento-di-amalfi-grand-hotel"
+  },
+  {
+    "name": "Mybenefits Uk Sweepstakes",
+    "slug": "mybenefits-uk-sweepstakes",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/mybenefits-uk-sweepstakes"
+  },
+  {
+    "name": "Mybenefits Uk",
+    "slug": "mybenefits-uk",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/mybenefits-uk"
+  },
+  {
+    "name": "Kempinski Hotel the Dome Belek",
+    "slug": "kempinski-hotel-the-dome-belek",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-the-dome-belek"
+  },
+  {
+    "name": "Kempinski Hotel Beijing Yansha Center",
+    "slug": "kempinski-hotel-beijing-yansha-center",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-beijing-yansha-center"
+  },
+  {
+    "name": "Test Brand Scavenger Hunt Eiyw Kpoubwfnnomh7ygkq",
+    "slug": "test-brand-scavenger-hunt-eiyw-kpoubwfnnomh7ygkq",
+    "sub_brand": "Test Landing Page",
+    "url": "https://www.ghadiscovery.com/test-landing-page/test-brand-scavenger-hunt-eiyw-kpoubwfnnomh7ygkq"
+  },
+  {
+    "name": "Kempinski Hotel Chongqing",
+    "slug": "kempinski-hotel-chongqing",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-chongqing"
+  },
+  {
+    "name": "the Apurva Kempinski Bali",
+    "slug": "the-apurva-kempinski-bali",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/the-apurva-kempinski-bali"
+  },
+  {
+    "name": "the Leela Coorg Forest Sanctuary",
+    "slug": "the-leela-coorg-forest-sanctuary",
+    "sub_brand": "Leela",
+    "url": "https://www.ghadiscovery.com/leela/the-leela-coorg-forest-sanctuary"
+  },
+  {
+    "name": "Outrigger Phi Phi Island Resort",
+    "slug": "outrigger-phi-phi-island-resort",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-phi-phi-island-resort"
+  },
+  {
+    "name": "Park Rotana",
+    "slug": "park-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/park-rotana"
+  },
+  {
+    "name": "Al Jaddaf Rotana Suite Hotel",
+    "slug": "al-jaddaf-rotana-suite-hotel",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/al-jaddaf-rotana-suite-hotel"
+  },
+  {
+    "name": "Burgu Arjaan by Rotana",
+    "slug": "burgu-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/burgu-arjaan-by-rotana"
+  },
+  {
+    "name": "Avani Mooloolaba Beach Hotel",
+    "slug": "avani-mooloolaba-beach-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-mooloolaba-beach-hotel"
+  },
+  {
+    "name": "Porta Rossa Hotel Firenze Colbert Collection",
+    "slug": "porta-rossa-hotel-firenze-colbert-collection",
+    "sub_brand": "Colbert Collection",
+    "url": "https://www.ghadiscovery.com/colbert-collection/porta-rossa-hotel-firenze-colbert-collection"
+  },
+  {
+    "name": "Nuo Hotel Beijing",
+    "slug": "nuo-hotel-beijing",
+    "sub_brand": "Nuo",
+    "url": "https://www.ghadiscovery.com/nuo/nuo-hotel-beijing"
+  },
+  {
+    "name": "Kempinski Al Othman Hotel Al Khobar",
+    "slug": "kempinski-al-othman-hotel-al-khobar",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-al-othman-hotel-al-khobar"
+  },
+  {
+    "name": "Pan Pacific Orchard Singapore",
+    "slug": "pan-pacific-orchard-singapore",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-orchard-singapore"
+  },
+  {
+    "name": "Kempinski Hotel Fuzhou",
+    "slug": "kempinski-hotel-fuzhou",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-fuzhou"
+  },
+  {
+    "name": "Beijing Hotel Nuo",
+    "slug": "beijing-hotel-nuo",
+    "sub_brand": "Nuo",
+    "url": "https://www.ghadiscovery.com/nuo/beijing-hotel-nuo"
+  },
+  {
+    "name": "Djibouti Palace Kempinski",
+    "slug": "djibouti-palace-kempinski",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/djibouti-palace-kempinski"
+  },
+  {
+    "name": "Kempinski Hotel Chengdu",
+    "slug": "kempinski-hotel-chengdu",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-chengdu"
+  },
+  {
+    "name": "Kempinski Hotel Soma Bay",
+    "slug": "kempinski-hotel-soma-bay",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-soma-bay"
+  },
+  {
+    "name": "Viceroy at Ombria Algarve",
+    "slug": "viceroy-at-ombria-algarve",
+    "sub_brand": "Viceroy",
+    "url": "https://www.ghadiscovery.com/viceroy/viceroy-at-ombria-algarve"
+  },
+  {
+    "name": "Dent Blanche Resort",
+    "slug": "dent-blanche-resort",
+    "sub_brand": "Temptingplaces Collection",
+    "url": "https://www.ghadiscovery.com/temptingplaces-collection/dent-blanche-resort"
+  },
+  {
+    "name": "Chateau D Augerville",
+    "slug": "chateau-d-augerville",
+    "sub_brand": "Temptingplaces Collection",
+    "url": "https://www.ghadiscovery.com/temptingplaces-collection/chateau-d-augerville"
+  },
+  {
+    "name": "Kin Plaza Arjaan by Rotana",
+    "slug": "kin-plaza-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/kin-plaza-arjaan-by-rotana"
+  },
+  {
+    "name": "Amwaj Rotana Jumeirah Beach",
+    "slug": "amwaj-rotana-jumeirah-beach",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/amwaj-rotana-jumeirah-beach"
+  },
+  {
+    "name": "Babylon Rotana",
+    "slug": "babylon-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/babylon-rotana"
+  },
+  {
+    "name": "Nh Madrid Paseo de la Habana",
+    "slug": "nh-madrid-paseo-de-la-habana",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-madrid-paseo-de-la-habana"
+  },
+  {
+    "name": "Majestic Arjaan by Rotana",
+    "slug": "majestic-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/majestic-arjaan-by-rotana"
+  },
+  {
+    "name": "Nova M Hotel Edge by Rotana",
+    "slug": "nova-m-hotel-edge-by-rotana",
+    "sub_brand": "Edge by Rotana",
+    "url": "https://www.ghadiscovery.com/edge-by-rotana/nova-m-hotel-edge-by-rotana"
+  },
+  {
+    "name": "Centro Waha by Rotana",
+    "slug": "centro-waha-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-waha-by-rotana"
+  },
+  {
+    "name": "Centro Shaheen by Rotana",
+    "slug": "centro-shaheen-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-shaheen-by-rotana"
+  },
+  {
+    "name": "Riggs Washington Dc",
+    "slug": "riggs-washington-dc",
+    "sub_brand": "Lore Group",
+    "url": "https://www.ghadiscovery.com/lore-group/riggs-washington-dc"
+  },
+  {
+    "name": "One Hundred Shoreditch",
+    "slug": "one-hundred-shoreditch",
+    "sub_brand": "Lore Group",
+    "url": "https://www.ghadiscovery.com/lore-group/one-hundred-shoreditch"
+  },
+  {
+    "name": "Cinnamon Lodge Habarana",
+    "slug": "cinnamon-lodge-habarana",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-lodge-habarana"
+  },
+  {
+    "name": "Cinnamon Bey Beruwala",
+    "slug": "cinnamon-bey-beruwala",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-bey-beruwala"
+  },
+  {
+    "name": "Cinnamon Red Colombo",
+    "slug": "cinnamon-red-colombo",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-red-colombo"
+  },
+  {
+    "name": "Al Rawda Arjaan by Rotana",
+    "slug": "al-rawda-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/al-rawda-arjaan-by-rotana"
+  },
+  {
+    "name": "Centro Corniche by Rotana",
+    "slug": "centro-corniche-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-corniche-by-rotana"
+  },
+  {
+    "name": "Kempinski Hotel Cancun",
+    "slug": "kempinski-hotel-cancun",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-cancun"
+  },
+  {
+    "name": "Tivoli Avenida Liberdade Lisboa",
+    "slug": "tivoli-avenida-liberdade-lisboa",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/tivoli-avenida-liberdade-lisboa"
+  },
+  {
+    "name": "Cinnamon Citadel Kandy",
+    "slug": "cinnamon-citadel-kandy",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-citadel-kandy"
+  },
+  {
+    "name": "Avani Chaweng Samui Hotel Beach Club",
+    "slug": "avani-chaweng-samui-hotel-beach-club",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-chaweng-samui-hotel-beach-club"
+  },
+  {
+    "name": "Rotana Corniche",
+    "slug": "rotana-corniche",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/rotana-corniche"
+  },
+  {
+    "name": "Nh Collection Barcelona Podium",
+    "slug": "nh-collection-barcelona-podium",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-barcelona-podium"
+  },
+  {
+    "name": "the Marmara Bodrum",
+    "slug": "the-marmara-bodrum",
+    "sub_brand": "the Marmara Hotels",
+    "url": "https://www.ghadiscovery.com/the-marmara-hotels/the-marmara-bodrum"
+  },
+  {
+    "name": "the Marmara Pera",
+    "slug": "the-marmara-pera",
+    "sub_brand": "the Marmara Hotels",
+    "url": "https://www.ghadiscovery.com/the-marmara-hotels/the-marmara-pera"
+  },
+  {
+    "name": "Niccolo Changsha",
+    "slug": "niccolo-changsha",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/niccolo-changsha"
+  },
+  {
+    "name": "Asia Oceania and Africa Promotion",
+    "slug": "asia-oceania-and-africa-promotion",
+    "sub_brand": "Promotions",
+    "url": "https://www.ghadiscovery.com/promotions/asia-oceania-and-africa-promotion"
+  },
+  {
+    "name": "Capella Sydney",
+    "slug": "capella-sydney",
+    "sub_brand": "Capella Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/capella-hotels-and-resorts/capella-sydney"
+  },
+  {
+    "name": "Saadiyat Rotana Resort Villas",
+    "slug": "saadiyat-rotana-resort-villas",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/saadiyat-rotana-resort-villas"
+  },
+  {
+    "name": "Sedra Arjaan by Rotana",
+    "slug": "sedra-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/sedra-arjaan-by-rotana"
+  },
+  {
+    "name": "Centro Al Manhal by Rotana",
+    "slug": "centro-al-manhal-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-al-manhal-by-rotana"
+  },
+  {
+    "name": "Anantara the Marker Dublin Hotel",
+    "slug": "anantara-the-marker-dublin-hotel",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-the-marker-dublin-hotel"
+  },
+  {
+    "name": "the Sukhothai Bangkok",
+    "slug": "the-sukhothai-bangkok",
+    "sub_brand": "the Sukhothai Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/the-sukhothai-hotels-resorts/the-sukhothai-bangkok"
+  },
+  {
+    "name": "Anantara Siam Bangkok Hotel",
+    "slug": "anantara-siam-bangkok-hotel",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-siam-bangkok-hotel"
+  },
+  {
+    "name": "Fivelements Retreat Bali",
+    "slug": "fivelements-retreat-bali",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/fivelements-retreat-bali"
+  },
+  {
+    "name": "Centro Mada Amman by Rotana",
+    "slug": "centro-mada-amman-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-mada-amman-by-rotana"
+  },
+  {
+    "name": "Sunway Resort Hotel",
+    "slug": "sunway-resort-hotel",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-resort-hotel"
+  },
+  {
+    "name": "Sunway Lagoon Hotel",
+    "slug": "sunway-lagoon-hotel",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-lagoon-hotel"
+  },
+  {
+    "name": "Sunway Pyramid Hotel",
+    "slug": "sunway-pyramid-hotel",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-pyramid-hotel"
+  },
+  {
+    "name": "Nh Collection Palacio de Aranjuez",
+    "slug": "nh-collection-palacio-de-aranjuez",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-palacio-de-aranjuez"
+  },
+  {
+    "name": "Tivoli Doelen Amsterdam",
+    "slug": "tivoli-doelen-amsterdam",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-doelen-amsterdam"
+  },
+  {
+    "name": "Nh Collection Palazzo Verona",
+    "slug": "nh-collection-palazzo-verona",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-palazzo-verona"
+  },
+  {
+    "name": "Nh Collection Caceres Palacio de Oquendo",
+    "slug": "nh-collection-caceres-palacio-de-oquendo",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-caceres-palacio-de-oquendo"
+  },
+  {
+    "name": "Nh Muenchen Airport",
+    "slug": "nh-muenchen-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-muenchen-airport"
+  },
+  {
+    "name": "Corinthia Palace",
+    "slug": "corinthia-palace",
+    "sub_brand": "Corinthia Hotels",
+    "url": "https://www.ghadiscovery.com/corinthia-hotels/corinthia-palace"
+  },
+  {
+    "name": "Grand Hotel Kempinski Riga",
+    "slug": "grand-hotel-kempinski-riga",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/grand-hotel-kempinski-riga"
+  },
+  {
+    "name": "Niccolo Chongqing",
+    "slug": "niccolo-chongqing",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/niccolo-chongqing"
+  },
+  {
+    "name": "Capella Hanoi",
+    "slug": "capella-hanoi",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/capella-hanoi"
+  },
+  {
+    "name": "Capella Tufu Bay Hainan",
+    "slug": "capella-tufu-bay-hainan",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/capella-tufu-bay-hainan"
+  },
+  {
+    "name": "Anantara Peace Haven Tangalle Resort",
+    "slug": "anantara-peace-haven-tangalle-resort",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/anantara-peace-haven-tangalle-resort"
+  },
+  {
+    "name": "Hotel Adlon Kempinski Berlin",
+    "slug": "hotel-adlon-kempinski-berlin",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/hotel-adlon-kempinski-berlin"
+  },
+  {
+    "name": "Hotel Cafe Royal",
+    "slug": "hotel-cafe-royal",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/hotel-cafe-royal"
+  },
+  {
+    "name": "Kempinski Royal Residence Nymphenburg",
+    "slug": "kempinski-royal-residence-nymphenburg",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/kempinski-royal-residence-nymphenburg"
+  },
+  {
+    "name": "the Leela Palace Jaipur",
+    "slug": "the-leela-palace-jaipur",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-leela-palace-jaipur"
+  },
+  {
+    "name": "the Westbury",
+    "slug": "the-westbury",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-westbury"
+  },
+  {
+    "name": "the Leela Palace Chennai",
+    "slug": "the-leela-palace-chennai",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-leela-palace-chennai"
+  },
+  {
+    "name": "the Leela Palace Bengaluru",
+    "slug": "the-leela-palace-bengaluru",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-leela-palace-bengaluru"
+  },
+  {
+    "name": "Mamilla",
+    "slug": "mamilla",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/mamilla"
+  },
+  {
+    "name": "Anantara Kihavah Maldives Villas",
+    "slug": "anantara-kihavah-maldives-villas",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/anantara-kihavah-maldives-villas"
+  },
+  {
+    "name": "Naladhu Private Island Maldives",
+    "slug": "naladhu-private-island-maldives",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/naladhu-private-island-maldives"
+  },
+  {
+    "name": "Portrait Firenze",
+    "slug": "portrait-firenze",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/portrait-firenze"
+  },
+  {
+    "name": "Nay Palad Hideaway",
+    "slug": "nay-palad-hideaway",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/nay-palad-hideaway"
+  },
+  {
+    "name": "the David Kempinski Tel Aviv",
+    "slug": "the-david-kempinski-tel-aviv",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-david-kempinski-tel-aviv"
+  },
+  {
+    "name": "Castaway Island Fiji Resort",
+    "slug": "castaway-island-fiji-resort",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/castaway-island-fiji-resort"
+  },
+  {
+    "name": "the Surrey A Corinthia Hotel New York",
+    "slug": "the-surrey-a-corinthia-hotel-new-york",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-surrey-a-corinthia-hotel-new-york"
+  },
+  {
+    "name": "the Residence Bintan",
+    "slug": "the-residence-bintan",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-residence-bintan"
+  },
+  {
+    "name": "the Residence Maldives at Dhigurah",
+    "slug": "the-residence-maldives-at-dhigurah",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-residence-maldives-at-dhigurah"
+  },
+  {
+    "name": "Hotel Lungarno",
+    "slug": "hotel-lungarno",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/hotel-lungarno"
+  },
+  {
+    "name": "Portrait Roma",
+    "slug": "portrait-roma",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/portrait-roma"
+  },
+  {
+    "name": "Anantara New York Palace Budapest Hotel",
+    "slug": "anantara-new-york-palace-budapest-hotel",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/anantara-new-york-palace-budapest-hotel"
+  },
+  {
+    "name": "the Siam",
+    "slug": "the-siam",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-siam"
+  },
+  {
+    "name": "Lanson Place Causeway Bay Hong Kong",
+    "slug": "lanson-place-causeway-bay-hong-kong",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/lanson-place-causeway-bay-hong-kong"
+  },
+  {
+    "name": "the Residence Maldives at Falhumaafushi",
+    "slug": "the-residence-maldives-at-falhumaafushi",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-residence-maldives-at-falhumaafushi"
+  },
+  {
+    "name": "Anantara Koh Yao Yai Resort Villas",
+    "slug": "anantara-koh-yao-yai-resort-villas",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/anantara-koh-yao-yai-resort-villas"
+  },
+  {
+    "name": "Anantara Plaza Nice Hotel",
+    "slug": "anantara-plaza-nice-hotel",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-plaza-nice-hotel"
+  },
+  {
+    "name": "the Leela Palace Udaipur",
+    "slug": "the-leela-palace-udaipur",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-leela-palace-udaipur"
+  },
+  {
+    "name": "the Murray Hong Kong A Niccolo Hotel",
+    "slug": "the-murray-hong-kong-a-niccolo-hotel",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/the-murray-hong-kong-a-niccolo-hotel"
+  },
+  {
+    "name": "Capella Shanghai Jian Ye Li",
+    "slug": "capella-shanghai-jian-ye-li",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/capella-shanghai-jian-ye-li"
+  },
+  {
+    "name": "Corinthia St Petersburg",
+    "slug": "corinthia-st-petersburg",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/corinthia-st-petersburg"
+  },
+  {
+    "name": "Pulitzer Amsterdam",
+    "slug": "pulitzer-amsterdam",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/pulitzer-amsterdam"
+  },
+  {
+    "name": "Avani Khao Lak Resort",
+    "slug": "avani-khao-lak-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-khao-lak-resort"
+  },
+  {
+    "name": "the Leela Palace New Delhi",
+    "slug": "the-leela-palace-new-delhi",
+    "sub_brand": "Leela",
+    "url": "https://www.ghadiscovery.com/leela/the-leela-palace-new-delhi"
+  },
+  {
+    "name": "Nhow Roma Vittorio Veneto",
+    "slug": "nhow-roma-vittorio-veneto",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nhow-roma-vittorio-veneto"
+  },
+  {
+    "name": "Nh Pisa",
+    "slug": "nh-pisa",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-pisa"
+  },
+  {
+    "name": "Nh Pamplona Iruna Park",
+    "slug": "nh-pamplona-iruna-park",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-pamplona-iruna-park"
+  },
+  {
+    "name": "Nh Ciudad de Zaragoza",
+    "slug": "nh-ciudad-de-zaragoza",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-ciudad-de-zaragoza"
+  },
+  {
+    "name": "Istay by Nh Zaragoza Sport Hotel",
+    "slug": "istay-by-nh-zaragoza-sport-hotel",
+    "sub_brand": "Istay Hotels",
+    "url": "https://www.ghadiscovery.com/istay-hotels/istay-by-nh-zaragoza-sport-hotel"
+  },
+  {
+    "name": "the H Dubai",
+    "slug": "the-h-dubai",
+    "sub_brand": "Story Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/story-hotels-resorts/the-h-dubai"
+  },
+  {
+    "name": "Anantara Xishuangbanna Resort",
+    "slug": "anantara-xishuangbanna-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-xishuangbanna-resort"
+  },
+  {
+    "name": "Al Maya Island Resort",
+    "slug": "al-maya-island-resort",
+    "sub_brand": "Story Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/story-hotels-resorts/al-maya-island-resort"
+  },
+  {
+    "name": "the Leela Hyderabad",
+    "slug": "the-leela-hyderabad",
+    "sub_brand": "Leela",
+    "url": "https://www.ghadiscovery.com/leela/the-leela-hyderabad"
+  },
+  {
+    "name": "the Banjaran Hotsprings Retreat",
+    "slug": "the-banjaran-hotsprings-retreat",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/the-banjaran-hotsprings-retreat"
+  },
+  {
+    "name": "Capital Centre Arjaan by Rotana",
+    "slug": "capital-centre-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/capital-centre-arjaan-by-rotana"
+  },
+  {
+    "name": "Divani Escape",
+    "slug": "divani-escape",
+    "sub_brand": "Divani Collection Hotels",
+    "url": "https://www.ghadiscovery.com/divani-collection-hotels/divani-escape"
+  },
+  {
+    "name": "Centro Capital Centre by Rotana",
+    "slug": "centro-capital-centre-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-capital-centre-by-rotana"
+  },
+  {
+    "name": "Pearl Rotana Capital Centre",
+    "slug": "pearl-rotana-capital-centre",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/pearl-rotana-capital-centre"
+  },
+  {
+    "name": "Tivoli Marina Vilamoura Algarve Resort",
+    "slug": "tivoli-marina-vilamoura-algarve-resort",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-marina-vilamoura-algarve-resort"
+  },
+  {
+    "name": "the Sukhothai Shanghai",
+    "slug": "the-sukhothai-shanghai",
+    "sub_brand": "the Sukhothai Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/the-sukhothai-hotels-resorts/the-sukhothai-shanghai"
+  },
+  {
+    "name": "the Leela Gandhinagar",
+    "slug": "the-leela-gandhinagar",
+    "sub_brand": "Leela",
+    "url": "https://www.ghadiscovery.com/leela/the-leela-gandhinagar"
+  },
+  {
+    "name": "Nh Ourense",
+    "slug": "nh-ourense",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-ourense"
+  },
+  {
+    "name": "Nh Collection Mexico City Reforma",
+    "slug": "nh-collection-mexico-city-reforma",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-mexico-city-reforma"
+  },
+  {
+    "name": "Nh Collection Bogota Hacienda Royal",
+    "slug": "nh-collection-bogota-hacienda-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-bogota-hacienda-royal"
+  },
+  {
+    "name": "Nh Luz Huelva",
+    "slug": "nh-luz-huelva",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-luz-huelva"
+  },
+  {
+    "name": "Nh Logrono Herencia Rioja",
+    "slug": "nh-logrono-herencia-rioja",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-logrono-herencia-rioja"
+  },
+  {
+    "name": "Nh Erlangen",
+    "slug": "nh-erlangen",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-erlangen"
+  },
+  {
+    "name": "Nh City Centre Amsterdam",
+    "slug": "nh-city-centre-amsterdam",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-city-centre-amsterdam"
+  },
+  {
+    "name": "Nh Amsterdam Schiphol Airport",
+    "slug": "nh-amsterdam-schiphol-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-amsterdam-schiphol-airport"
+  },
+  {
+    "name": "Nh Collection Salamanca Palacio de Castellanos",
+    "slug": "nh-collection-salamanca-palacio-de-castellanos",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-salamanca-palacio-de-castellanos"
+  },
+  {
+    "name": "Anantara Hoi An Resort",
+    "slug": "anantara-hoi-an-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-hoi-an-resort"
+  },
+  {
+    "name": "the Leela Ambience Gurugram Hotel Residences",
+    "slug": "the-leela-ambience-gurugram-hotel-residences",
+    "sub_brand": "Leela",
+    "url": "https://www.ghadiscovery.com/leela/the-leela-ambience-gurugram-hotel-residences"
+  },
+  {
+    "name": "Sunway Velocity Hotel",
+    "slug": "sunway-velocity-hotel",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-velocity-hotel"
+  },
+  {
+    "name": "Story Rabat",
+    "slug": "story-rabat",
+    "sub_brand": "Story Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/story-hotels-resorts/story-rabat"
+  },
+  {
+    "name": "Story Seychelles",
+    "slug": "story-seychelles",
+    "sub_brand": "Story Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/story-hotels-resorts/story-seychelles"
+  },
+  {
+    "name": "Story le Carrousel Rabat",
+    "slug": "story-le-carrousel-rabat",
+    "sub_brand": "Story Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/story-hotels-resorts/story-le-carrousel-rabat"
+  },
+  {
+    "name": "Kempinski Hotel Grand Arena Bansko",
+    "slug": "kempinski-hotel-grand-arena-bansko",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-grand-arena-bansko"
+  },
+  {
+    "name": "Corinthia Lisbon",
+    "slug": "corinthia-lisbon",
+    "sub_brand": "Corinthia Hotels",
+    "url": "https://www.ghadiscovery.com/corinthia-hotels/corinthia-lisbon"
+  },
+  {
+    "name": "Kocatas Mansions Istanbul",
+    "slug": "kocatas-mansions-istanbul",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/kocatas-mansions-istanbul"
+  },
+  {
+    "name": "Mybenefits Uae",
+    "slug": "mybenefits-uae",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/mybenefits-uae"
+  },
+  {
+    "name": "Nh Vienna Airport Conference Center",
+    "slug": "nh-vienna-airport-conference-center",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-vienna-airport-conference-center"
+  },
+  {
+    "name": "Nh Collection Prague",
+    "slug": "nh-collection-prague",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-prague"
+  },
+  {
+    "name": "Nh Amsterdam Noord",
+    "slug": "nh-amsterdam-noord",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-amsterdam-noord"
+  },
+  {
+    "name": "Nh Berlin Kurfuerstendamm",
+    "slug": "nh-berlin-kurfuerstendamm",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-berlin-kurfuerstendamm"
+  },
+  {
+    "name": "Blacklane For Red",
+    "slug": "blacklane-for-red",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/blacklane-for-red"
+  },
+  {
+    "name": "Oaks Ibn Battuta Gate Dubai",
+    "slug": "oaks-ibn-battuta-gate-dubai",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-ibn-battuta-gate-dubai"
+  },
+  {
+    "name": "Corinthia Bucharest",
+    "slug": "corinthia-bucharest",
+    "sub_brand": "Corinthia Hotels",
+    "url": "https://www.ghadiscovery.com/corinthia-hotels/corinthia-bucharest"
+  },
+  {
+    "name": "Shinta Mani Wild",
+    "slug": "shinta-mani-wild",
+    "sub_brand": "the Set",
+    "url": "https://www.ghadiscovery.com/the-set/shinta-mani-wild"
+  },
+  {
+    "name": "Nh Collection San Sebastian Aranzazu",
+    "slug": "nh-collection-san-sebastian-aranzazu",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-san-sebastian-aranzazu"
+  },
+  {
+    "name": "Tivoli Oriente Lisboa Hotel",
+    "slug": "tivoli-oriente-lisboa-hotel",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-oriente-lisboa-hotel"
+  },
+  {
+    "name": "Blacklane",
+    "slug": "blacklane",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/blacklane"
+  },
+  {
+    "name": "Nh Collection Madrid Eurobuilding",
+    "slug": "nh-collection-madrid-eurobuilding",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-madrid-eurobuilding"
+  },
+  {
+    "name": "Gha Discovery in Santorini2",
+    "slug": "gha-discovery-in-santorini2",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-santorini2"
+  },
+  {
+    "name": "Ja Ocean View Hotel",
+    "slug": "ja-ocean-view-hotel",
+    "sub_brand": "Ja Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/ja-resorts-hotels/ja-ocean-view-hotel"
+  },
+  {
+    "name": "Santiburi Koh Samui",
+    "slug": "santiburi-koh-samui",
+    "sub_brand": "Saii Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/saii-hotels-resorts/santiburi-koh-samui"
+  },
+  {
+    "name": "Amman Rotana",
+    "slug": "amman-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/amman-rotana"
+  },
+  {
+    "name": "Gha Discovery in Uae",
+    "slug": "gha-discovery-in-uae",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-uae"
+  },
+  {
+    "name": "Hikka Tranz by Cinnamon",
+    "slug": "hikka-tranz-by-cinnamon",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/hikka-tranz-by-cinnamon"
+  },
+  {
+    "name": "Habarana Village by Cinnamon",
+    "slug": "habarana-village-by-cinnamon",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/habarana-village-by-cinnamon"
+  },
+  {
+    "name": "Cinnamon Bentota Beach",
+    "slug": "cinnamon-bentota-beach",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-bentota-beach"
+  },
+  {
+    "name": "Trinco Blu by Cinnamon",
+    "slug": "trinco-blu-by-cinnamon",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/trinco-blu-by-cinnamon"
+  },
+  {
+    "name": "Kandy Myst by Cinnamon",
+    "slug": "kandy-myst-by-cinnamon",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/kandy-myst-by-cinnamon"
+  },
+  {
+    "name": "Kempinski the Boulevard Dubai",
+    "slug": "kempinski-the-boulevard-dubai",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-the-boulevard-dubai"
+  },
+  {
+    "name": "Ja Beach Hotel",
+    "slug": "ja-beach-hotel",
+    "sub_brand": "Ja Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/ja-resorts-hotels/ja-beach-hotel"
+  },
+  {
+    "name": "Ja Palm Tree Court",
+    "slug": "ja-palm-tree-court",
+    "sub_brand": "Ja Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/ja-resorts-hotels/ja-palm-tree-court"
+  },
+  {
+    "name": "Green Collection 2026",
+    "slug": "green-collection-2026",
+    "sub_brand": "Promotions",
+    "url": "https://www.ghadiscovery.com/promotions/green-collection-2026"
+  },
+  {
+    "name": "Capella Kyoto",
+    "slug": "capella-kyoto",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/capella-kyoto"
+  },
+  {
+    "name": "Kempinski Hotel Taiyuan",
+    "slug": "kempinski-hotel-taiyuan",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-taiyuan"
+  },
+  {
+    "name": "Ja Lake View Hotel",
+    "slug": "ja-lake-view-hotel",
+    "sub_brand": "Ja Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/ja-resorts-hotels/ja-lake-view-hotel"
+  },
+  {
+    "name": "Middle East Promotion",
+    "slug": "middle-east-promotion",
+    "sub_brand": "Promotions",
+    "url": "https://www.ghadiscovery.com/promotions/middle-east-promotion"
+  },
+  {
+    "name": "Kempinski Hotel San Lawrenz Gozo Malta",
+    "slug": "kempinski-hotel-san-lawrenz-gozo-malta",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-san-lawrenz-gozo-malta"
+  },
+  {
+    "name": "Frutt Mountain Resort",
+    "slug": "frutt-mountain-resort",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/frutt-mountain-resort"
+  },
+  {
+    "name": "Platinum Members",
+    "slug": "platinum-members",
+    "sub_brand": "Fast Track To Higher Status",
+    "url": "https://www.ghadiscovery.com/fast-track-to-higher-status/platinum-members"
+  },
+  {
+    "name": "Gold Members",
+    "slug": "gold-members",
+    "sub_brand": "Fast Track To Higher Status",
+    "url": "https://www.ghadiscovery.com/fast-track-to-higher-status/gold-members"
+  },
+  {
+    "name": "Andronis Minois",
+    "slug": "andronis-minois",
+    "sub_brand": "Andronis",
+    "url": "https://www.ghadiscovery.com/andronis/andronis-minois"
+  },
+  {
+    "name": "the Maslow Sandton",
+    "slug": "the-maslow-sandton",
+    "sub_brand": "Sun International",
+    "url": "https://www.ghadiscovery.com/sun-international/the-maslow-sandton"
+  },
+  {
+    "name": "Kempinski Hotel Shenzhen",
+    "slug": "kempinski-hotel-shenzhen",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-shenzhen"
+  },
+  {
+    "name": "Adriatic Istria Resort",
+    "slug": "adriatic-istria-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/adriatic-istria-resort"
+  },
+  {
+    "name": "Kempinski Hotel Corvinus Budapest",
+    "slug": "kempinski-hotel-corvinus-budapest",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-corvinus-budapest"
+  },
+  {
+    "name": "Sunway Hotel Phnom Penh",
+    "slug": "sunway-hotel-phnom-penh",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-hotel-phnom-penh"
+  },
+  {
+    "name": "Nh Lagos Algarve Resort",
+    "slug": "nh-lagos-algarve-resort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-lagos-algarve-resort"
+  },
+  {
+    "name": "Istay by Nh Berlin City Ost Hotel",
+    "slug": "istay-by-nh-berlin-city-ost-hotel",
+    "sub_brand": "Istay Hotels",
+    "url": "https://www.ghadiscovery.com/istay-hotels/istay-by-nh-berlin-city-ost-hotel"
+  },
+  {
+    "name": "Lanson Place Mall of Asia Manila",
+    "slug": "lanson-place-mall-of-asia-manila",
+    "sub_brand": "Lanson Place",
+    "url": "https://www.ghadiscovery.com/lanson-place/lanson-place-mall-of-asia-manila"
+  },
+  {
+    "name": "Hotel Palace Portoroz",
+    "slug": "hotel-palace-portoroz",
+    "sub_brand": "Minor Hotels",
+    "url": "https://www.ghadiscovery.com/minor-hotels/hotel-palace-portoroz"
+  },
+  {
+    "name": "Minor 1st Anniversary Promo Participating Properties",
+    "slug": "minor-1st-anniversary-promo-participating-properties",
+    "sub_brand": "Promotions",
+    "url": "https://www.ghadiscovery.com/promotions/minor-1st-anniversary-promo-participating-properties"
+  },
+  {
+    "name": "Tivoli Palazzo 1880 Lecce Hotel",
+    "slug": "tivoli-palazzo-1880-lecce-hotel",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-palazzo-1880-lecce-hotel"
+  },
+  {
+    "name": "Saii Phi Phi Island Village",
+    "slug": "saii-phi-phi-island-village",
+    "sub_brand": "Saii Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/saii-hotels-resorts/saii-phi-phi-island-village"
+  },
+  {
+    "name": "Cerulean Tower Tokyu Hotel A Pan Pacific Partner Hotel",
+    "slug": "cerulean-tower-tokyu-hotel-a-pan-pacific-partner-hotel",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/cerulean-tower-tokyu-hotel-a-pan-pacific-partner-hotel"
+  },
+  {
+    "name": "Saii Laguna Phuket",
+    "slug": "saii-laguna-phuket",
+    "sub_brand": "Saii Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/saii-hotels-resorts/saii-laguna-phuket"
+  },
+  {
+    "name": "Tivoli la Caleta Tenerife Resort",
+    "slug": "tivoli-la-caleta-tenerife-resort",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-la-caleta-tenerife-resort"
+  },
+  {
+    "name": "Lexham Gardens by Cheval Maison",
+    "slug": "lexham-gardens-by-cheval-maison",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/lexham-gardens-by-cheval-maison"
+  },
+  {
+    "name": "Esplanade Zagreb Hotel",
+    "slug": "esplanade-zagreb-hotel",
+    "sub_brand": "Almanac Hotels",
+    "url": "https://www.ghadiscovery.com/almanac-hotels/esplanade-zagreb-hotel"
+  },
+  {
+    "name": "Sixt",
+    "slug": "sixt",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/sixt"
+  },
+  {
+    "name": "Lyle Washington Dc",
+    "slug": "lyle-washington-dc",
+    "sub_brand": "Lore Group",
+    "url": "https://www.ghadiscovery.com/lore-group/lyle-washington-dc"
+  },
+  {
+    "name": "Almanac Palais Vienna",
+    "slug": "almanac-palais-vienna",
+    "sub_brand": "Almanac Hotels",
+    "url": "https://www.ghadiscovery.com/almanac-hotels/almanac-palais-vienna"
+  },
+  {
+    "name": "Almanac X Alcron Prague",
+    "slug": "almanac-x-alcron-prague",
+    "sub_brand": "Almanac Hotels",
+    "url": "https://www.ghadiscovery.com/almanac-hotels/almanac-x-alcron-prague"
+  },
+  {
+    "name": "Al Marwa Rayhaan by Rotana",
+    "slug": "al-marwa-rayhaan-by-rotana",
+    "sub_brand": "Rayhaan Hotels Resorts by Rotana",
+    "url": "https://www.ghadiscovery.com/rayhaan-hotels-resorts-by-rotana/al-marwa-rayhaan-by-rotana"
+  },
+  {
+    "name": "Klarna",
+    "slug": "klarna",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/klarna"
+  },
+  {
+    "name": "Sunway Hotel Hanoi",
+    "slug": "sunway-hotel-hanoi",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-hotel-hanoi"
+  },
+  {
+    "name": "Cabanas",
+    "slug": "cabanas",
+    "sub_brand": "Sun International",
+    "url": "https://www.ghadiscovery.com/sun-international/cabanas"
+  },
+  {
+    "name": "Nh Prague City",
+    "slug": "nh-prague-city",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-prague-city"
+  },
+  {
+    "name": "Nh Hannover",
+    "slug": "nh-hannover",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-hannover"
+  },
+  {
+    "name": "Nh Hamburg Altona",
+    "slug": "nh-hamburg-altona",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-hamburg-altona"
+  },
+  {
+    "name": "Nh Collection Milano Touring",
+    "slug": "nh-collection-milano-touring",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-milano-touring"
+  },
+  {
+    "name": "Cheval Gloucester Park",
+    "slug": "cheval-gloucester-park",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-gloucester-park"
+  },
+  {
+    "name": "Downtown Rotana",
+    "slug": "downtown-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/downtown-rotana"
+  },
+  {
+    "name": "Viceroy Los Cabos",
+    "slug": "viceroy-los-cabos",
+    "sub_brand": "Viceroy",
+    "url": "https://www.ghadiscovery.com/viceroy/viceroy-los-cabos"
+  },
+  {
+    "name": "Nh Puebla Finsa",
+    "slug": "nh-puebla-finsa",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-puebla-finsa"
+  },
+  {
+    "name": "Nh Puebla Centro Historico",
+    "slug": "nh-puebla-centro-historico",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-puebla-centro-historico"
+  },
+  {
+    "name": "Nh Madrid Barajas Airport",
+    "slug": "nh-madrid-barajas-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-madrid-barajas-airport"
+  },
+  {
+    "name": "Avani Fares Maldives Resort",
+    "slug": "avani-fares-maldives-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-fares-maldives-resort"
+  },
+  {
+    "name": "the Croke Park",
+    "slug": "the-croke-park",
+    "sub_brand": "Doyle Collection",
+    "url": "https://www.ghadiscovery.com/doyle-collection/the-croke-park"
+  },
+  {
+    "name": "Cheval Maison Expo City Dubai",
+    "slug": "cheval-maison-expo-city-dubai",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-maison-expo-city-dubai"
+  },
+  {
+    "name": "Dar Rayhaan by Rotana",
+    "slug": "dar-rayhaan-by-rotana",
+    "sub_brand": "Rayhaan Hotels Resorts by Rotana",
+    "url": "https://www.ghadiscovery.com/rayhaan-hotels-resorts-by-rotana/dar-rayhaan-by-rotana"
+  },
+  {
+    "name": "Riviera Rayhaan by Rotana",
+    "slug": "riviera-rayhaan-by-rotana",
+    "sub_brand": "Rayhaan Hotels Resorts by Rotana",
+    "url": "https://www.ghadiscovery.com/rayhaan-hotels-resorts-by-rotana/riviera-rayhaan-by-rotana"
+  },
+  {
+    "name": "Verdi Santarem",
+    "slug": "verdi-santarem",
+    "sub_brand": "Verdi Hotels",
+    "url": "https://www.ghadiscovery.com/verdi-hotels/verdi-santarem"
+  },
+  {
+    "name": "Carnival City Hotel",
+    "slug": "carnival-city-hotel",
+    "sub_brand": "Sun International",
+    "url": "https://www.ghadiscovery.com/sun-international/carnival-city-hotel"
+  },
+  {
+    "name": "Kempinski Hotel Khan Palace Ulaanbaatar",
+    "slug": "kempinski-hotel-khan-palace-ulaanbaatar",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-khan-palace-ulaanbaatar"
+  },
+  {
+    "name": "Regal Hongkong Hotel",
+    "slug": "regal-hongkong-hotel",
+    "sub_brand": "Regal Hotels",
+    "url": "https://www.ghadiscovery.com/regal-hotels/regal-hongkong-hotel"
+  },
+  {
+    "name": "Sibaya Lodge",
+    "slug": "sibaya-lodge",
+    "sub_brand": "Sun International",
+    "url": "https://www.ghadiscovery.com/sun-international/sibaya-lodge"
+  },
+  {
+    "name": "Kempinski Residences Guangzhou",
+    "slug": "kempinski-residences-guangzhou",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-residences-guangzhou"
+  },
+  {
+    "name": "Hotel Park Ave Nyc",
+    "slug": "hotel-park-ave-nyc",
+    "sub_brand": "Lore Group",
+    "url": "https://www.ghadiscovery.com/lore-group/hotel-park-ave-nyc"
+  },
+  {
+    "name": "Johari Rotana",
+    "slug": "johari-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/johari-rotana"
+  },
+  {
+    "name": "Edge Seligerskaya by Rotana",
+    "slug": "edge-seligerskaya-by-rotana",
+    "sub_brand": "Edge by Rotana",
+    "url": "https://www.ghadiscovery.com/edge-by-rotana/edge-seligerskaya-by-rotana"
+  },
+  {
+    "name": "Edge Vinogradovo by Rotana",
+    "slug": "edge-vinogradovo-by-rotana",
+    "sub_brand": "Edge by Rotana",
+    "url": "https://www.ghadiscovery.com/edge-by-rotana/edge-vinogradovo-by-rotana"
+  },
+  {
+    "name": "Nh Bogota Urban 93 Royal",
+    "slug": "nh-bogota-urban-93-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bogota-urban-93-royal"
+  },
+  {
+    "name": "Nh Collection Bogota Wtc Royal",
+    "slug": "nh-collection-bogota-wtc-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-bogota-wtc-royal"
+  },
+  {
+    "name": "Bristoria Hotel Yangzhou",
+    "slug": "bristoria-hotel-yangzhou",
+    "sub_brand": "Bristoria Hotels",
+    "url": "https://www.ghadiscovery.com/bristoria-hotels/bristoria-hotel-yangzhou"
+  },
+  {
+    "name": "Outrigger Waikiki Beach Resort",
+    "slug": "outrigger-waikiki-beach-resort",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-waikiki-beach-resort"
+  },
+  {
+    "name": "Outrigger Reef Waikiki Beach Resort",
+    "slug": "outrigger-reef-waikiki-beach-resort",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-reef-waikiki-beach-resort"
+  },
+  {
+    "name": "2026",
+    "slug": "2026",
+    "sub_brand": "Member Survey",
+    "url": "https://www.ghadiscovery.com/member-survey/2026"
+  },
+  {
+    "name": "Nh Collection Barranquilla Smartsuites Royal",
+    "slug": "nh-collection-barranquilla-smartsuites-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-barranquilla-smartsuites-royal"
+  },
+  {
+    "name": "Nh Bogota Pavillon Royal",
+    "slug": "nh-bogota-pavillon-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bogota-pavillon-royal"
+  },
+  {
+    "name": "Viceroy Kopaonik Serbia",
+    "slug": "viceroy-kopaonik-serbia",
+    "sub_brand": "Viceroy",
+    "url": "https://www.ghadiscovery.com/viceroy/viceroy-kopaonik-serbia"
+  },
+  {
+    "name": "Istay by Nh Ciudad de Valencia Hotel",
+    "slug": "istay-by-nh-ciudad-de-valencia-hotel",
+    "sub_brand": "Istay Hotels",
+    "url": "https://www.ghadiscovery.com/istay-hotels/istay-by-nh-ciudad-de-valencia-hotel"
+  },
+  {
+    "name": "Momentus Hotel Alexandra",
+    "slug": "momentus-hotel-alexandra",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/momentus-hotel-alexandra"
+  },
+  {
+    "name": "Avani Living Queen S Wharf Residences",
+    "slug": "avani-living-queen-s-wharf-residences",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-living-queen-s-wharf-residences"
+  },
+  {
+    "name": "Myconian Utopia",
+    "slug": "myconian-utopia",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/myconian-utopia"
+  },
+  {
+    "name": "Myconian Korali",
+    "slug": "myconian-korali",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/myconian-korali"
+  },
+  {
+    "name": "Myconian Ambassador",
+    "slug": "myconian-ambassador",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/myconian-ambassador"
+  },
+  {
+    "name": "Erbil Rotana",
+    "slug": "erbil-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/erbil-rotana"
+  },
+  {
+    "name": "City Centre Rotana Doha",
+    "slug": "city-centre-rotana-doha",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/city-centre-rotana-doha"
+  },
+  {
+    "name": "Slemani Rotana",
+    "slug": "slemani-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/slemani-rotana"
+  },
+  {
+    "name": "Onyx Rotana",
+    "slug": "onyx-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/onyx-rotana"
+  },
+  {
+    "name": "Al Ain Rotana",
+    "slug": "al-ain-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/al-ain-rotana"
+  },
+  {
+    "name": "Khalidiya Palace Rayhaan by Rotana",
+    "slug": "khalidiya-palace-rayhaan-by-rotana",
+    "sub_brand": "Rayhaan Hotels Resorts by Rotana",
+    "url": "https://www.ghadiscovery.com/rayhaan-hotels-resorts-by-rotana/khalidiya-palace-rayhaan-by-rotana"
+  },
+  {
+    "name": "Al Maha Arjaan by Rotana",
+    "slug": "al-maha-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/al-maha-arjaan-by-rotana"
+  },
+  {
+    "name": "Jumeira Rotana",
+    "slug": "jumeira-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/jumeira-rotana"
+  },
+  {
+    "name": "Arabian Park Dubai Edge by Rotana",
+    "slug": "arabian-park-dubai-edge-by-rotana",
+    "sub_brand": "Edge by Rotana",
+    "url": "https://www.ghadiscovery.com/edge-by-rotana/arabian-park-dubai-edge-by-rotana"
+  },
+  {
+    "name": "Centro Barsha by Rotana",
+    "slug": "centro-barsha-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-barsha-by-rotana"
+  },
+  {
+    "name": "Centro Sharjah by Rotana",
+    "slug": "centro-sharjah-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-sharjah-by-rotana"
+  },
+  {
+    "name": "Centro Capital Doha by Rotana",
+    "slug": "centro-capital-doha-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-capital-doha-by-rotana"
+  },
+  {
+    "name": "Hala Arjaan by Rotana",
+    "slug": "hala-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/hala-arjaan-by-rotana"
+  },
+  {
+    "name": "Gefinor Rotana",
+    "slug": "gefinor-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/gefinor-rotana"
+  },
+  {
+    "name": "Fujairah Rotana Resort Spa",
+    "slug": "fujairah-rotana-resort-spa",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/fujairah-rotana-resort-spa"
+  },
+  {
+    "name": "Towers Rotana",
+    "slug": "towers-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/towers-rotana"
+  },
+  {
+    "name": "Centro Salama by Rotana",
+    "slug": "centro-salama-by-rotana",
+    "sub_brand": "Centro by Rotana",
+    "url": "https://www.ghadiscovery.com/centro-by-rotana/centro-salama-by-rotana"
+  },
+  {
+    "name": "Beond",
+    "slug": "beond",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/beond"
+  },
+  {
+    "name": "Stay Beond With Gha Discovery",
+    "slug": "stay-beond-with-gha-discovery",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/stay-beond-with-gha-discovery"
+  },
+  {
+    "name": "Raouche Arjaan by Rotana",
+    "slug": "raouche-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/raouche-arjaan-by-rotana"
+  },
+  {
+    "name": "Oaks Melbourne on Market Hotel",
+    "slug": "oaks-melbourne-on-market-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-melbourne-on-market-hotel"
+  },
+  {
+    "name": "Oaks Perth Hotel",
+    "slug": "oaks-perth-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-perth-hotel"
+  },
+  {
+    "name": "Oaks Broome Hotel",
+    "slug": "oaks-broome-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-broome-hotel"
+  },
+  {
+    "name": "Ameron Neuschwanstein Alpsee Resort Spa",
+    "slug": "ameron-neuschwanstein-alpsee-resort-spa",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/ameron-neuschwanstein-alpsee-resort-spa"
+  },
+  {
+    "name": "Regala Skycity Hotel",
+    "slug": "regala-skycity-hotel",
+    "sub_brand": "Regal Hotels",
+    "url": "https://www.ghadiscovery.com/regal-hotels/regala-skycity-hotel"
+  },
+  {
+    "name": "Tivoli President Milano Hotel",
+    "slug": "tivoli-president-milano-hotel",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-president-milano-hotel"
+  },
+  {
+    "name": "Damac Hills 2 Hotel Edge by Rotana",
+    "slug": "damac-hills-2-hotel-edge-by-rotana",
+    "sub_brand": "Edge by Rotana",
+    "url": "https://www.ghadiscovery.com/edge-by-rotana/damac-hills-2-hotel-edge-by-rotana"
+  },
+  {
+    "name": "Arjaan by Rotana Dubai Media City",
+    "slug": "arjaan-by-rotana-dubai-media-city",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/arjaan-by-rotana-dubai-media-city"
+  },
+  {
+    "name": "Nh Milano 2",
+    "slug": "nh-milano-2",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-milano-2"
+  },
+  {
+    "name": "Anantara Bophut Koh Samui Resort",
+    "slug": "anantara-bophut-koh-samui-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-bophut-koh-samui-resort"
+  },
+  {
+    "name": "Anantara Veli Maldives Resort",
+    "slug": "anantara-veli-maldives-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-veli-maldives-resort"
+  },
+  {
+    "name": "Erbil Arjaan by Rotana",
+    "slug": "erbil-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/erbil-arjaan-by-rotana"
+  },
+  {
+    "name": "Anantara Dhigu Maldives Resort",
+    "slug": "anantara-dhigu-maldives-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-dhigu-maldives-resort"
+  },
+  {
+    "name": "Oaks Port Douglas Resort",
+    "slug": "oaks-port-douglas-resort",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-port-douglas-resort"
+  },
+  {
+    "name": "Oaks Darwin Elan Hotel",
+    "slug": "oaks-darwin-elan-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-darwin-elan-hotel"
+  },
+  {
+    "name": "Oaks Cable Beach Resort",
+    "slug": "oaks-cable-beach-resort",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-cable-beach-resort"
+  },
+  {
+    "name": "Ellaidhoo Maldives by Cinnamon",
+    "slug": "ellaidhoo-maldives-by-cinnamon",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/ellaidhoo-maldives-by-cinnamon"
+  },
+  {
+    "name": "Cinnamon Dhonveli Maldives",
+    "slug": "cinnamon-dhonveli-maldives",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-dhonveli-maldives"
+  },
+  {
+    "name": "Cinnamon Velifushi Maldives",
+    "slug": "cinnamon-velifushi-maldives",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-velifushi-maldives"
+  },
+  {
+    "name": "Cheval Calico House",
+    "slug": "cheval-calico-house",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-calico-house"
+  },
+  {
+    "name": "Regal Airport Hotel",
+    "slug": "regal-airport-hotel",
+    "sub_brand": "Regal Hotels",
+    "url": "https://www.ghadiscovery.com/regal-hotels/regal-airport-hotel"
+  },
+  {
+    "name": "Panorama by Verdi Hotels",
+    "slug": "panorama-by-verdi-hotels",
+    "sub_brand": "Verdi Hotels",
+    "url": "https://www.ghadiscovery.com/verdi-hotels/panorama-by-verdi-hotels"
+  },
+  {
+    "name": "Lanson Place Parliament Gardens Melbourne",
+    "slug": "lanson-place-parliament-gardens-melbourne",
+    "sub_brand": "Lanson Place",
+    "url": "https://www.ghadiscovery.com/lanson-place/lanson-place-parliament-gardens-melbourne"
+  },
+  {
+    "name": "Regal Kowloon Hotel",
+    "slug": "regal-kowloon-hotel",
+    "sub_brand": "Regal Hotels",
+    "url": "https://www.ghadiscovery.com/regal-hotels/regal-kowloon-hotel"
+  },
+  {
+    "name": "Outrigger Waikiki Paradise Hotel",
+    "slug": "outrigger-waikiki-paradise-hotel",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-waikiki-paradise-hotel"
+  },
+  {
+    "name": "Lanson Place Bukit Ceylon Kuala Lumpur",
+    "slug": "lanson-place-bukit-ceylon-kuala-lumpur",
+    "sub_brand": "Lanson Place",
+    "url": "https://www.ghadiscovery.com/lanson-place/lanson-place-bukit-ceylon-kuala-lumpur"
+  },
+  {
+    "name": "Two Macdonnell Road Hong Kong",
+    "slug": "two-macdonnell-road-hong-kong",
+    "sub_brand": "Lanson Place",
+    "url": "https://www.ghadiscovery.com/lanson-place/two-macdonnell-road-hong-kong"
+  },
+  {
+    "name": "Gha Discovery in Florence",
+    "slug": "gha-discovery-in-florence",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-florence"
+  },
+  {
+    "name": "Leikanger Fjordhotel",
+    "slug": "leikanger-fjordhotel",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/leikanger-fjordhotel"
+  },
+  {
+    "name": "Utsikten Hotel Resort",
+    "slug": "utsikten-hotel-resort",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/utsikten-hotel-resort"
+  },
+  {
+    "name": "the Residence Douz",
+    "slug": "the-residence-douz",
+    "sub_brand": "the Residence by Cenizaro",
+    "url": "https://www.ghadiscovery.com/the-residence-by-cenizaro/the-residence-douz"
+  },
+  {
+    "name": "Tivoli Mofarrej Sao Paulo Hotel",
+    "slug": "tivoli-mofarrej-sao-paulo-hotel",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-mofarrej-sao-paulo-hotel"
+  },
+  {
+    "name": "Oaks Melbourne St Kilda Road Hotel",
+    "slug": "oaks-melbourne-st-kilda-road-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-melbourne-st-kilda-road-hotel"
+  },
+  {
+    "name": "Oaks Wellington Hotel",
+    "slug": "oaks-wellington-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-wellington-hotel"
+  },
+  {
+    "name": "Oaks Mackay Rivermarque Hotel",
+    "slug": "oaks-mackay-rivermarque-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-mackay-rivermarque-hotel"
+  },
+  {
+    "name": "Oaks Gladstone Grand Hotel",
+    "slug": "oaks-gladstone-grand-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-gladstone-grand-hotel"
+  },
+  {
+    "name": "Avani Riverside Bangkok Hotel",
+    "slug": "avani-riverside-bangkok-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-riverside-bangkok-hotel"
+  },
+  {
+    "name": "Skogstad Hotel Mountain Resort",
+    "slug": "skogstad-hotel-mountain-resort",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/skogstad-hotel-mountain-resort"
+  },
+  {
+    "name": "Seljord Hotel",
+    "slug": "seljord-hotel",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/seljord-hotel"
+  },
+  {
+    "name": "Roemskog Spa Resort",
+    "slug": "roemskog-spa-resort",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/roemskog-spa-resort"
+  },
+  {
+    "name": "Ramme Fjordhotell",
+    "slug": "ramme-fjordhotell",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/ramme-fjordhotell"
+  },
+  {
+    "name": "Grand Hotel Aasgaardstrand",
+    "slug": "grand-hotel-aasgaardstrand",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/grand-hotel-aasgaardstrand"
+  },
+  {
+    "name": "Nh Savona Darsena",
+    "slug": "nh-savona-darsena",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-savona-darsena"
+  },
+  {
+    "name": "Nh Gran Hotel Casino Extremadura",
+    "slug": "nh-gran-hotel-casino-extremadura",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-gran-hotel-casino-extremadura"
+  },
+  {
+    "name": "Tivoli Coimbra Hotel",
+    "slug": "tivoli-coimbra-hotel",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-coimbra-hotel"
+  },
+  {
+    "name": "Nh Brugge",
+    "slug": "nh-brugge",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-brugge"
+  },
+  {
+    "name": "Nh Marina Portimao Resort",
+    "slug": "nh-marina-portimao-resort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-marina-portimao-resort"
+  },
+  {
+    "name": "Tvedestrand Fjordhotel",
+    "slug": "tvedestrand-fjordhotel",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/tvedestrand-fjordhotel"
+  },
+  {
+    "name": "Grand Hotel Arendal",
+    "slug": "grand-hotel-arendal",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/grand-hotel-arendal"
+  },
+  {
+    "name": "Morgedal Hotel",
+    "slug": "morgedal-hotel",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/morgedal-hotel"
+  },
+  {
+    "name": "Cheval Harrington Court",
+    "slug": "cheval-harrington-court",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-harrington-court"
+  },
+  {
+    "name": "Brattrein Hotel",
+    "slug": "brattrein-hotel",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/brattrein-hotel"
+  },
+  {
+    "name": "Hotel Kong Carl",
+    "slug": "hotel-kong-carl",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/hotel-kong-carl"
+  },
+  {
+    "name": "Hotel Wassilioff",
+    "slug": "hotel-wassilioff",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/hotel-wassilioff"
+  },
+  {
+    "name": "Nh la Avanzada",
+    "slug": "nh-la-avanzada",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-la-avanzada"
+  },
+  {
+    "name": "Tivoli Portopiccolo Sistiana Wellness Resort Spa",
+    "slug": "tivoli-portopiccolo-sistiana-wellness-resort-spa",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-portopiccolo-sistiana-wellness-resort-spa"
+  },
+  {
+    "name": "Nh Collection Madrid Palacio de Tepa",
+    "slug": "nh-collection-madrid-palacio-de-tepa",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-madrid-palacio-de-tepa"
+  },
+  {
+    "name": "Nh Milano Congress Centre",
+    "slug": "nh-milano-congress-centre",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-milano-congress-centre"
+  },
+  {
+    "name": "Nh Firenze",
+    "slug": "nh-firenze",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-firenze"
+  },
+  {
+    "name": "Nh Collection Quito Royal",
+    "slug": "nh-collection-quito-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-quito-royal"
+  },
+  {
+    "name": "Nh Madrid Balboa",
+    "slug": "nh-madrid-balboa",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-madrid-balboa"
+  },
+  {
+    "name": "Nh Ancona",
+    "slug": "nh-ancona",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-ancona"
+  },
+  {
+    "name": "Corinthia Brussels",
+    "slug": "corinthia-brussels",
+    "sub_brand": "Corinthia Hotels",
+    "url": "https://www.ghadiscovery.com/corinthia-hotels/corinthia-brussels"
+  },
+  {
+    "name": "Cinnamon Grand Colombo",
+    "slug": "cinnamon-grand-colombo",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-grand-colombo"
+  },
+  {
+    "name": "Parkroyal A Famosa Melaka Resort",
+    "slug": "parkroyal-a-famosa-melaka-resort",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-a-famosa-melaka-resort"
+  },
+  {
+    "name": "Nh Guadalajara Studios",
+    "slug": "nh-guadalajara-studios",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-guadalajara-studios"
+  },
+  {
+    "name": "Tivoli Maiorana Belem Para Hotel",
+    "slug": "tivoli-maiorana-belem-para-hotel",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-maiorana-belem-para-hotel"
+  },
+  {
+    "name": "Sunway Hotel Big Box",
+    "slug": "sunway-hotel-big-box",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-hotel-big-box"
+  },
+  {
+    "name": "Cheval Knightsbridge",
+    "slug": "cheval-knightsbridge",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-knightsbridge"
+  },
+  {
+    "name": "Membership Promotions",
+    "slug": "membership-promotions",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/membership-promotions"
+  },
+  {
+    "name": "Elysia Wellness Retreat",
+    "slug": "elysia-wellness-retreat",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/elysia-wellness-retreat"
+  },
+  {
+    "name": "Cheval Phoenix House",
+    "slug": "cheval-phoenix-house",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-phoenix-house"
+  },
+  {
+    "name": "Andronis Luxury Suites",
+    "slug": "andronis-luxury-suites",
+    "sub_brand": "Andronis",
+    "url": "https://www.ghadiscovery.com/andronis/andronis-luxury-suites"
+  },
+  {
+    "name": "Patina Osaka",
+    "slug": "patina-osaka",
+    "sub_brand": "Ultratravel Collection",
+    "url": "https://www.ghadiscovery.com/ultratravel-collection/patina-osaka"
+  },
+  {
+    "name": "the Leela Ambience Convention Hotel Delhi",
+    "slug": "the-leela-ambience-convention-hotel-delhi",
+    "sub_brand": "Leela",
+    "url": "https://www.ghadiscovery.com/leela/the-leela-ambience-convention-hotel-delhi"
+  },
+  {
+    "name": "Oaks Auckland Hotel",
+    "slug": "oaks-auckland-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-auckland-hotel"
+  },
+  {
+    "name": "Foerde Hotel",
+    "slug": "foerde-hotel",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/foerde-hotel"
+  },
+  {
+    "name": "Grand Hotel Skei",
+    "slug": "grand-hotel-skei",
+    "sub_brand": "Unike Hoteller",
+    "url": "https://www.ghadiscovery.com/unike-hoteller/grand-hotel-skei"
+  },
+  {
+    "name": "Anantara Jewel Bagh Jaipur",
+    "slug": "anantara-jewel-bagh-jaipur",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-jewel-bagh-jaipur"
+  },
+  {
+    "name": "Salalah Rotana Resort",
+    "slug": "salalah-rotana-resort",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/salalah-rotana-resort"
+  },
+  {
+    "name": "Beach Rotana",
+    "slug": "beach-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/beach-rotana"
+  },
+  {
+    "name": "Al Manakha Rotana",
+    "slug": "al-manakha-rotana",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/al-manakha-rotana"
+  },
+  {
+    "name": "Rose Rayhaan by Rotana",
+    "slug": "rose-rayhaan-by-rotana",
+    "sub_brand": "Rayhaan Hotels Resorts by Rotana",
+    "url": "https://www.ghadiscovery.com/rayhaan-hotels-resorts-by-rotana/rose-rayhaan-by-rotana"
+  },
+  {
+    "name": "Beach Bay Hotel Edge by Rotana",
+    "slug": "beach-bay-hotel-edge-by-rotana",
+    "sub_brand": "Edge by Rotana",
+    "url": "https://www.ghadiscovery.com/edge-by-rotana/beach-bay-hotel-edge-by-rotana"
+  },
+  {
+    "name": "Tango Arjaan by Rotana",
+    "slug": "tango-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/tango-arjaan-by-rotana"
+  },
+  {
+    "name": "Park Arjaan by Rotana",
+    "slug": "park-arjaan-by-rotana",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/park-arjaan-by-rotana"
+  },
+  {
+    "name": "Beach Rotana All Suites",
+    "slug": "beach-rotana-all-suites",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/beach-rotana-all-suites"
+  },
+  {
+    "name": "Beach Rotana Residences",
+    "slug": "beach-rotana-residences",
+    "sub_brand": "Rotana Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/rotana-hotels-resorts/beach-rotana-residences"
+  },
+  {
+    "name": "Al Bandar Arjaan by Rotana Creek",
+    "slug": "al-bandar-arjaan-by-rotana-creek",
+    "sub_brand": "Arjaan Hotel Apartments by Rotana",
+    "url": "https://www.ghadiscovery.com/arjaan-hotel-apartments-by-rotana/al-bandar-arjaan-by-rotana-creek"
+  },
+  {
+    "name": "Pan Pacific Serviced Suites Orchard Singapore",
+    "slug": "pan-pacific-serviced-suites-orchard-singapore",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-serviced-suites-orchard-singapore"
+  },
+  {
+    "name": "Sunway Hotel Seberang Jaya",
+    "slug": "sunway-hotel-seberang-jaya",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-hotel-seberang-jaya"
+  },
+  {
+    "name": "Iclub Wan Chai Hotel",
+    "slug": "iclub-wan-chai-hotel",
+    "sub_brand": "Iclub Hotels",
+    "url": "https://www.ghadiscovery.com/iclub-hotels/iclub-wan-chai-hotel"
+  },
+  {
+    "name": "Iclub To Kwa Wan Hotel",
+    "slug": "iclub-to-kwa-wan-hotel",
+    "sub_brand": "Iclub Hotels",
+    "url": "https://www.ghadiscovery.com/iclub-hotels/iclub-to-kwa-wan-hotel"
+  },
+  {
+    "name": "Iclub Amtd Sheung Wan Hotel",
+    "slug": "iclub-amtd-sheung-wan-hotel",
+    "sub_brand": "Iclub Hotels",
+    "url": "https://www.ghadiscovery.com/iclub-hotels/iclub-amtd-sheung-wan-hotel"
+  },
+  {
+    "name": "Iclub Sheung Wan Hotel",
+    "slug": "iclub-sheung-wan-hotel",
+    "sub_brand": "Iclub Hotels",
+    "url": "https://www.ghadiscovery.com/iclub-hotels/iclub-sheung-wan-hotel"
+  },
+  {
+    "name": "Iclub Mong Kok Hotel",
+    "slug": "iclub-mong-kok-hotel",
+    "sub_brand": "Iclub Hotels",
+    "url": "https://www.ghadiscovery.com/iclub-hotels/iclub-mong-kok-hotel"
+  },
+  {
+    "name": "Iclub Fortress Hill Hotel",
+    "slug": "iclub-fortress-hill-hotel",
+    "sub_brand": "Iclub Hotels",
+    "url": "https://www.ghadiscovery.com/iclub-hotels/iclub-fortress-hill-hotel"
+  },
+  {
+    "name": "Cheval Thorney Court",
+    "slug": "cheval-thorney-court",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-thorney-court"
+  },
+  {
+    "name": "Cheval Hyde Park Gate",
+    "slug": "cheval-hyde-park-gate",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-hyde-park-gate"
+  },
+  {
+    "name": "Cheval Three Quays",
+    "slug": "cheval-three-quays",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-three-quays"
+  },
+  {
+    "name": "Nh Copenhagen Grand Joanne",
+    "slug": "nh-copenhagen-grand-joanne",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-copenhagen-grand-joanne"
+  },
+  {
+    "name": "Australia Maldives",
+    "slug": "australia-maldives",
+    "sub_brand": "Regional Brand D Promotions",
+    "url": "https://www.ghadiscovery.com/regional-brand-d-promotions/australia-maldives"
+  },
+  {
+    "name": "Sunway Hotel Georgetown",
+    "slug": "sunway-hotel-georgetown",
+    "sub_brand": "Sunway Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/sunway-hotels-resorts/sunway-hotel-georgetown"
+  },
+  {
+    "name": "Nh Madrid Las Tablas",
+    "slug": "nh-madrid-las-tablas",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-madrid-las-tablas"
+  },
+  {
+    "name": "Cinnamon Lakeside Colombo",
+    "slug": "cinnamon-lakeside-colombo",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-lakeside-colombo"
+  },
+  {
+    "name": "Oaks Vue Suites Geelong",
+    "slug": "oaks-vue-suites-geelong",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-vue-suites-geelong"
+  },
+  {
+    "name": "Oaks R Suites Geelong",
+    "slug": "oaks-r-suites-geelong",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-r-suites-geelong"
+  },
+  {
+    "name": "Lanson Place Winsland Singapore",
+    "slug": "lanson-place-winsland-singapore",
+    "sub_brand": "Lanson Place",
+    "url": "https://www.ghadiscovery.com/lanson-place/lanson-place-winsland-singapore"
+  },
+  {
+    "name": "Lanson Place Waterfront Suites Hong Kong",
+    "slug": "lanson-place-waterfront-suites-hong-kong",
+    "sub_brand": "Lanson Place",
+    "url": "https://www.ghadiscovery.com/lanson-place/lanson-place-waterfront-suites-hong-kong"
+  },
+  {
+    "name": "Nh Madrid Atocha",
+    "slug": "nh-madrid-atocha",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-madrid-atocha"
+  },
+  {
+    "name": "Nh Madrid Lagasca",
+    "slug": "nh-madrid-lagasca",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-madrid-lagasca"
+  },
+  {
+    "name": "Nh Collection Merida Paseo Montejo",
+    "slug": "nh-collection-merida-paseo-montejo",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-merida-paseo-montejo"
+  },
+  {
+    "name": "Nh Torino Centro",
+    "slug": "nh-torino-centro",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-torino-centro"
+  },
+  {
+    "name": "Nh Venezia Santa Lucia",
+    "slug": "nh-venezia-santa-lucia",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-venezia-santa-lucia"
+  },
+  {
+    "name": "Nhow Milano",
+    "slug": "nhow-milano",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nhow-milano"
+  },
+  {
+    "name": "Gha Discovery in India",
+    "slug": "gha-discovery-in-india",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-india"
+  },
+  {
+    "name": "Althoff St",
+    "slug": "althoff-st",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/althoff-st"
+  },
+  {
+    "name": "Nh Collection Brussels Centre",
+    "slug": "nh-collection-brussels-centre",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-brussels-centre"
+  },
+  {
+    "name": "Nh Collection Venezia Grand Hotel Palazzo Dei Dogi",
+    "slug": "nh-collection-venezia-grand-hotel-palazzo-dei-dogi",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-venezia-grand-hotel-palazzo-dei-dogi"
+  },
+  {
+    "name": "Nh Collection Genova Marina",
+    "slug": "nh-collection-genova-marina",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-genova-marina"
+  },
+  {
+    "name": "Nh Collection Nuernberg City",
+    "slug": "nh-collection-nuernberg-city",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-nuernberg-city"
+  },
+  {
+    "name": "Tivoli Carvoeiro Algarve Resort",
+    "slug": "tivoli-carvoeiro-algarve-resort",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-carvoeiro-algarve-resort"
+  },
+  {
+    "name": "Verdi Tunis Beach Resort",
+    "slug": "verdi-tunis-beach-resort",
+    "sub_brand": "Verdi Hotels",
+    "url": "https://www.ghadiscovery.com/verdi-hotels/verdi-tunis-beach-resort"
+  },
+  {
+    "name": "Vivaldi Malta",
+    "slug": "vivaldi-malta",
+    "sub_brand": "Verdi Hotels",
+    "url": "https://www.ghadiscovery.com/verdi-hotels/vivaldi-malta"
+  },
+  {
+    "name": "Cinnamon Hakuraa Huraa Maldives",
+    "slug": "cinnamon-hakuraa-huraa-maldives",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-hakuraa-huraa-maldives"
+  },
+  {
+    "name": "Cinnamon Life at City of Dreams Sri Lanka",
+    "slug": "cinnamon-life-at-city-of-dreams-sri-lanka",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-life-at-city-of-dreams-sri-lanka"
+  },
+  {
+    "name": "Thailand",
+    "slug": "thailand",
+    "sub_brand": "Regional Brand D Promotions",
+    "url": "https://www.ghadiscovery.com/regional-brand-d-promotions/thailand"
+  },
+  {
+    "name": "Oaks Melbourne Flemington Suites",
+    "slug": "oaks-melbourne-flemington-suites",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-melbourne-flemington-suites"
+  },
+  {
+    "name": "Kuda Villingili Resort Maldives",
+    "slug": "kuda-villingili-resort-maldives",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/kuda-villingili-resort-maldives"
+  },
+  {
+    "name": "Nhow Frankfurt",
+    "slug": "nhow-frankfurt",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nhow-frankfurt"
+  },
+  {
+    "name": "Nh Collection Palermo Palazzo Sitano",
+    "slug": "nh-collection-palermo-palazzo-sitano",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-palermo-palazzo-sitano"
+  },
+  {
+    "name": "Anantara Mui Ne Resort",
+    "slug": "anantara-mui-ne-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-mui-ne-resort"
+  },
+  {
+    "name": "Wild Coast Sun",
+    "slug": "wild-coast-sun",
+    "sub_brand": "Sun International",
+    "url": "https://www.ghadiscovery.com/sun-international/wild-coast-sun"
+  },
+  {
+    "name": "the Cascades Hotel",
+    "slug": "the-cascades-hotel",
+    "sub_brand": "Sun International",
+    "url": "https://www.ghadiscovery.com/sun-international/the-cascades-hotel"
+  },
+  {
+    "name": "Nh Buenos Aires 9 de Julio",
+    "slug": "nh-buenos-aires-9-de-julio",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-buenos-aires-9-de-julio"
+  },
+  {
+    "name": "Nikki Beach Resort Spa Koh Samui",
+    "slug": "nikki-beach-resort-spa-koh-samui",
+    "sub_brand": "Nikki Beach Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nikki-beach-hotels-resorts/nikki-beach-resort-spa-koh-samui"
+  },
+  {
+    "name": "Wrap on Southbank",
+    "slug": "wrap-on-southbank",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/wrap-on-southbank"
+  },
+  {
+    "name": "Oaks Sunshine Coast Oasis Resort",
+    "slug": "oaks-sunshine-coast-oasis-resort",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-sunshine-coast-oasis-resort"
+  },
+  {
+    "name": "Oaks Cairns Hotel",
+    "slug": "oaks-cairns-hotel",
+    "sub_brand": "Oaks Hotels Resorts and Suites",
+    "url": "https://www.ghadiscovery.com/oaks-hotels-resorts-and-suites/oaks-cairns-hotel"
+  },
+  {
+    "name": "Nh Collection Samui Peace Resort",
+    "slug": "nh-collection-samui-peace-resort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-samui-peace-resort"
+  },
+  {
+    "name": "Southeast Asia",
+    "slug": "southeast-asia",
+    "sub_brand": "Regional Brand D Promotions",
+    "url": "https://www.ghadiscovery.com/regional-brand-d-promotions/southeast-asia"
+  },
+  {
+    "name": "Nh Collection Bogota Andino Royal",
+    "slug": "nh-collection-bogota-andino-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-bogota-andino-royal"
+  },
+  {
+    "name": "Nh Amsterdam Leidseplein",
+    "slug": "nh-amsterdam-leidseplein",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-amsterdam-leidseplein"
+  },
+  {
+    "name": "Prince Hotel Hong Kong",
+    "slug": "prince-hotel-hong-kong",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/prince-hotel-hong-kong"
+  },
+  {
+    "name": "Marco Polo Hongkong Hotel",
+    "slug": "marco-polo-hongkong-hotel",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/marco-polo-hongkong-hotel"
+  },
+  {
+    "name": "Gha Discovery in Abu Dhabi",
+    "slug": "gha-discovery-in-abu-dhabi",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-abu-dhabi"
+  },
+  {
+    "name": "Tivoli Estela Golf Lodges Porto",
+    "slug": "tivoli-estela-golf-lodges-porto",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-estela-golf-lodges-porto"
+  },
+  {
+    "name": "Nh Collection Alagna Mirtillo Rosso",
+    "slug": "nh-collection-alagna-mirtillo-rosso",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-alagna-mirtillo-rosso"
+  },
+  {
+    "name": "Nh Collection Ibiza",
+    "slug": "nh-collection-ibiza",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-ibiza"
+  },
+  {
+    "name": "Gateway Hotel Hong Kong",
+    "slug": "gateway-hotel-hong-kong",
+    "sub_brand": "Marco Polo",
+    "url": "https://www.ghadiscovery.com/marco-polo/gateway-hotel-hong-kong"
+  },
+  {
+    "name": "Nh Gijon",
+    "slug": "nh-gijon",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-gijon"
+  },
+  {
+    "name": "Titanium Membership Level",
+    "slug": "titanium-membership-level",
+    "sub_brand": "Additional Brand Benefits",
+    "url": "https://www.ghadiscovery.com/additional-brand-benefits/titanium-membership-level"
+  },
+  {
+    "name": "Red Membership Level",
+    "slug": "red-membership-level",
+    "sub_brand": "Additional Brand Benefits",
+    "url": "https://www.ghadiscovery.com/additional-brand-benefits/red-membership-level"
+  },
+  {
+    "name": "Outrigger Waikiki Beachcomber Hotel",
+    "slug": "outrigger-waikiki-beachcomber-hotel",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-waikiki-beachcomber-hotel"
+  },
+  {
+    "name": "Myconian Deos",
+    "slug": "myconian-deos",
+    "sub_brand": "the Set",
+    "url": "https://www.ghadiscovery.com/the-set/myconian-deos"
+  },
+  {
+    "name": "Kempinski Central Avenue Dubai",
+    "slug": "kempinski-central-avenue-dubai",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-central-avenue-dubai"
+  },
+  {
+    "name": "Gha Discovery in Brisbane",
+    "slug": "gha-discovery-in-brisbane",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-brisbane"
+  },
+  {
+    "name": "Gha Discovery in Rome",
+    "slug": "gha-discovery-in-rome",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-rome"
+  },
+  {
+    "name": "Althoff Grandhotel Schloss Bensberg",
+    "slug": "althoff-grandhotel-schloss-bensberg",
+    "sub_brand": "Asmallworld",
+    "url": "https://www.ghadiscovery.com/asmallworld/althoff-grandhotel-schloss-bensberg"
+  },
+  {
+    "name": "Gha Discovery in London",
+    "slug": "gha-discovery-in-london",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-london"
+  },
+  {
+    "name": "Nh Collection Gent Belfort",
+    "slug": "nh-collection-gent-belfort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-gent-belfort"
+  },
+  {
+    "name": "Outrigger Maldives Maafushivaru Resort",
+    "slug": "outrigger-maldives-maafushivaru-resort",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-maldives-maafushivaru-resort"
+  },
+  {
+    "name": "Cinnamon Wild Yala",
+    "slug": "cinnamon-wild-yala",
+    "sub_brand": "Cinnamon Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/cinnamon-hotels-resorts/cinnamon-wild-yala"
+  },
+  {
+    "name": "Test Keep Your Elite Status Platinum",
+    "slug": "test-keep-your-elite-status-platinum",
+    "sub_brand": "Test Landing Page",
+    "url": "https://www.ghadiscovery.com/test-landing-page/test-keep-your-elite-status-platinum"
+  },
+  {
+    "name": "Test Keep Your Elite Status Titanium",
+    "slug": "test-keep-your-elite-status-titanium",
+    "sub_brand": "Test Landing Page",
+    "url": "https://www.ghadiscovery.com/test-landing-page/test-keep-your-elite-status-titanium"
+  },
+  {
+    "name": "Cheval Maison the Palm Dubai",
+    "slug": "cheval-maison-the-palm-dubai",
+    "sub_brand": "Cheval Collection",
+    "url": "https://www.ghadiscovery.com/cheval-collection/cheval-maison-the-palm-dubai"
+  },
+  {
+    "name": "Nh Duesseldorf Koenigsallee",
+    "slug": "nh-duesseldorf-koenigsallee",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-duesseldorf-koenigsallee"
+  },
+  {
+    "name": "Nh Cartagena Urban Royal",
+    "slug": "nh-cartagena-urban-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-cartagena-urban-royal"
+  },
+  {
+    "name": "Nh Luxembourg Airport",
+    "slug": "nh-luxembourg-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-luxembourg-airport"
+  },
+  {
+    "name": "Nh Orio Al Serio Airport",
+    "slug": "nh-orio-al-serio-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-orio-al-serio-airport"
+  },
+  {
+    "name": "Nh Wien Belvedere",
+    "slug": "nh-wien-belvedere",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-wien-belvedere"
+  },
+  {
+    "name": "Nhow Brussels Bloom",
+    "slug": "nhow-brussels-bloom",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nhow-brussels-bloom"
+  },
+  {
+    "name": "Nh Koeln Altstadt",
+    "slug": "nh-koeln-altstadt",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-koeln-altstadt"
+  },
+  {
+    "name": "Nh Collection Brussels Grand Sablon",
+    "slug": "nh-collection-brussels-grand-sablon",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-brussels-grand-sablon"
+  },
+  {
+    "name": "Nh Weinheim",
+    "slug": "nh-weinheim",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-weinheim"
+  },
+  {
+    "name": "Nh Collection Berlin Mitte Friedrichstrasse",
+    "slug": "nh-collection-berlin-mitte-friedrichstrasse",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-berlin-mitte-friedrichstrasse"
+  },
+  {
+    "name": "Nh Valencia Center",
+    "slug": "nh-valencia-center",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-valencia-center"
+  },
+  {
+    "name": "Nh Collection Palacio de Cordoba",
+    "slug": "nh-collection-palacio-de-cordoba",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-palacio-de-cordoba"
+  },
+  {
+    "name": "Nh Duesseldorf City Nord",
+    "slug": "nh-duesseldorf-city-nord",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-duesseldorf-city-nord"
+  },
+  {
+    "name": "Nhow Berlin",
+    "slug": "nhow-berlin",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nhow-berlin"
+  },
+  {
+    "name": "Nh Castellon Mindoro",
+    "slug": "nh-castellon-mindoro",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-castellon-mindoro"
+  },
+  {
+    "name": "Nhow Rotterdam",
+    "slug": "nhow-rotterdam",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nhow-rotterdam"
+  },
+  {
+    "name": "Nh Collection Koeln Mediapark",
+    "slug": "nh-collection-koeln-mediapark",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-koeln-mediapark"
+  },
+  {
+    "name": "Nh Groningen",
+    "slug": "nh-groningen",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-groningen"
+  },
+  {
+    "name": "Nh Collection Berlin Mitte Am Checkpoint Charlie",
+    "slug": "nh-collection-berlin-mitte-am-checkpoint-charlie",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-berlin-mitte-am-checkpoint-charlie"
+  },
+  {
+    "name": "Pan Pacific Whistler Mountainside",
+    "slug": "pan-pacific-whistler-mountainside",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-whistler-mountainside"
+  },
+  {
+    "name": "Pan Pacific Whistler Village Centre",
+    "slug": "pan-pacific-whistler-village-centre",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/pan-pacific-whistler-village-centre"
+  },
+  {
+    "name": "Nh Mannheim Viernheim",
+    "slug": "nh-mannheim-viernheim",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-mannheim-viernheim"
+  },
+  {
+    "name": "Time Square Hotel",
+    "slug": "time-square-hotel",
+    "sub_brand": "Sun International",
+    "url": "https://www.ghadiscovery.com/sun-international/time-square-hotel"
+  },
+  {
+    "name": "Nh Graz City",
+    "slug": "nh-graz-city",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-graz-city"
+  },
+  {
+    "name": "Nh Collection Villa de Bilbao",
+    "slug": "nh-collection-villa-de-bilbao",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-villa-de-bilbao"
+  },
+  {
+    "name": "Gha Discovery in Hawaii",
+    "slug": "gha-discovery-in-hawaii",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-hawaii"
+  },
+  {
+    "name": "Gha Discovery in Berlin",
+    "slug": "gha-discovery-in-berlin",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-berlin"
+  },
+  {
+    "name": "Gha Discovery in Seychelles",
+    "slug": "gha-discovery-in-seychelles",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-seychelles"
+  },
+  {
+    "name": "Gha Discovery in Beijing",
+    "slug": "gha-discovery-in-beijing",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-beijing"
+  },
+  {
+    "name": "Kempinski Hotel Residences Palm Jumeirah",
+    "slug": "kempinski-hotel-residences-palm-jumeirah",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-hotel-residences-palm-jumeirah"
+  },
+  {
+    "name": "Nh Collection Bogota Terra 100 Royal",
+    "slug": "nh-collection-bogota-terra-100-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-bogota-terra-100-royal"
+  },
+  {
+    "name": "Nh Berlin Alexanderplatz",
+    "slug": "nh-berlin-alexanderplatz",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-berlin-alexanderplatz"
+  },
+  {
+    "name": "Nh Berlin Potsdamer Platz",
+    "slug": "nh-berlin-potsdamer-platz",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-berlin-potsdamer-platz"
+  },
+  {
+    "name": "Nh Toulouse Airport",
+    "slug": "nh-toulouse-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-toulouse-airport"
+  },
+  {
+    "name": "Nh Valencia Las Artes",
+    "slug": "nh-valencia-las-artes",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-valencia-las-artes"
+  },
+  {
+    "name": "Nh Trento",
+    "slug": "nh-trento",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-trento"
+  },
+  {
+    "name": "Gha Discovery in Japan",
+    "slug": "gha-discovery-in-japan",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-japan"
+  },
+  {
+    "name": "Gha Discovery in Maldives",
+    "slug": "gha-discovery-in-maldives",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-maldives"
+  },
+  {
+    "name": "Gha Discovery in Barcelona",
+    "slug": "gha-discovery-in-barcelona",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-barcelona"
+  },
+  {
+    "name": "Gha Discovery in Hong Kong",
+    "slug": "gha-discovery-in-hong-kong",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-hong-kong"
+  },
+  {
+    "name": "Nh Roma Villa Carpegna",
+    "slug": "nh-roma-villa-carpegna",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-roma-villa-carpegna"
+  },
+  {
+    "name": "Nh Coatzacoalcos",
+    "slug": "nh-coatzacoalcos",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-coatzacoalcos"
+  },
+  {
+    "name": "Nh Muenchen Unterhaching",
+    "slug": "nh-muenchen-unterhaching",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-muenchen-unterhaching"
+  },
+  {
+    "name": "Nh Collection Muenchen Bavaria",
+    "slug": "nh-collection-muenchen-bavaria",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-muenchen-bavaria"
+  },
+  {
+    "name": "Nh Muenchen Messe",
+    "slug": "nh-muenchen-messe",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-muenchen-messe"
+  },
+  {
+    "name": "Gha Discovery in Melbourne",
+    "slug": "gha-discovery-in-melbourne",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-melbourne"
+  },
+  {
+    "name": "Gha Discovery in Amsterdam",
+    "slug": "gha-discovery-in-amsterdam",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-amsterdam"
+  },
+  {
+    "name": "Royal Sibaya Hotel",
+    "slug": "royal-sibaya-hotel",
+    "sub_brand": "Sun International",
+    "url": "https://www.ghadiscovery.com/sun-international/royal-sibaya-hotel"
+  },
+  {
+    "name": "Nh Collection Bogota Teleport Royal",
+    "slug": "nh-collection-bogota-teleport-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-bogota-teleport-royal"
+  },
+  {
+    "name": "Nh Brussels Stephanie",
+    "slug": "nh-brussels-stephanie",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-brussels-stephanie"
+  },
+  {
+    "name": "Nh Cali Royal",
+    "slug": "nh-cali-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-cali-royal"
+  },
+  {
+    "name": "Nh Collection Medellin Royal",
+    "slug": "nh-collection-medellin-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-medellin-royal"
+  },
+  {
+    "name": "Nh Collection Wien Zentrum",
+    "slug": "nh-collection-wien-zentrum",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-wien-zentrum"
+  },
+  {
+    "name": "Nh Wien City",
+    "slug": "nh-wien-city",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-wien-city"
+  },
+  {
+    "name": "Nh Danube City",
+    "slug": "nh-danube-city",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-danube-city"
+  },
+  {
+    "name": "Mysk by Shaza Al Mouj Muscat",
+    "slug": "mysk-by-shaza-al-mouj-muscat",
+    "sub_brand": "Mysk Hotels",
+    "url": "https://www.ghadiscovery.com/mysk-hotels/mysk-by-shaza-al-mouj-muscat"
+  },
+  {
+    "name": "Gha Discovery in Bangkok2",
+    "slug": "gha-discovery-in-bangkok2",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-bangkok2"
+  },
+  {
+    "name": "Nh Collection A Coruna Finisterre",
+    "slug": "nh-collection-a-coruna-finisterre",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-a-coruna-finisterre"
+  },
+  {
+    "name": "Nh Brussels Grand Place Arenberg",
+    "slug": "nh-brussels-grand-place-arenberg",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-brussels-grand-place-arenberg"
+  },
+  {
+    "name": "Nh Brussels Carrefour de L Europe",
+    "slug": "nh-brussels-carrefour-de-l-europe",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-brussels-carrefour-de-l-europe"
+  },
+  {
+    "name": "Nh Zandvoort",
+    "slug": "nh-zandvoort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-zandvoort"
+  },
+  {
+    "name": "Nh Collection Valencia Colon",
+    "slug": "nh-collection-valencia-colon",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-valencia-colon"
+  },
+  {
+    "name": "Nh la Spezia",
+    "slug": "nh-la-spezia",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-la-spezia"
+  },
+  {
+    "name": "Avani Cancun Airport Hotel",
+    "slug": "avani-cancun-airport-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-cancun-airport-hotel"
+  },
+  {
+    "name": "Gha Discovery in Milan",
+    "slug": "gha-discovery-in-milan",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-milan"
+  },
+  {
+    "name": "Gha Discovery in Singapore",
+    "slug": "gha-discovery-in-singapore",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-singapore"
+  },
+  {
+    "name": "Nh Feira de Santana",
+    "slug": "nh-feira-de-santana",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-feira-de-santana"
+  },
+  {
+    "name": "Tivoli Ecoresort Praia Do Forte Bahia",
+    "slug": "tivoli-ecoresort-praia-do-forte-bahia",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-ecoresort-praia-do-forte-bahia"
+  },
+  {
+    "name": "Anantara Chiang Mai Resort",
+    "slug": "anantara-chiang-mai-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-chiang-mai-resort"
+  },
+  {
+    "name": "Nh Torino Lingotto Congress",
+    "slug": "nh-torino-lingotto-congress",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-torino-lingotto-congress"
+  },
+  {
+    "name": "Nh Malaga",
+    "slug": "nh-malaga",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-malaga"
+  },
+  {
+    "name": "Nh Milano Fiera",
+    "slug": "nh-milano-fiera",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-milano-fiera"
+  },
+  {
+    "name": "Nh Lyon Airport",
+    "slug": "nh-lyon-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-lyon-airport"
+  },
+  {
+    "name": "Gha Discovery in Madrid",
+    "slug": "gha-discovery-in-madrid",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-madrid"
+  },
+  {
+    "name": "Nh Sintra Centro",
+    "slug": "nh-sintra-centro",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-sintra-centro"
+  },
+  {
+    "name": "Gha Discovery in Dubai",
+    "slug": "gha-discovery-in-dubai",
+    "sub_brand": "Destination Guides",
+    "url": "https://www.ghadiscovery.com/destination-guides/gha-discovery-in-dubai"
+  },
+  {
+    "name": "Nhow Lima",
+    "slug": "nhow-lima",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nhow-lima"
+  },
+  {
+    "name": "Loy Pela Voyages",
+    "slug": "loy-pela-voyages",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/loy-pela-voyages"
+  },
+  {
+    "name": "Nh Linate",
+    "slug": "nh-linate",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-linate"
+  },
+  {
+    "name": "Nh Lecco Pontevecchio",
+    "slug": "nh-lecco-pontevecchio",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-lecco-pontevecchio"
+  },
+  {
+    "name": "Nh Bologna Villanova",
+    "slug": "nh-bologna-villanova",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bologna-villanova"
+  },
+  {
+    "name": "Nh Amsterdam Zuid",
+    "slug": "nh-amsterdam-zuid",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-amsterdam-zuid"
+  },
+  {
+    "name": "Avani Alonso Martinez Madrid Hotel",
+    "slug": "avani-alonso-martinez-madrid-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-alonso-martinez-madrid-hotel"
+  },
+  {
+    "name": "Tivoli Palazzo Gaddi Firenze Hotel",
+    "slug": "tivoli-palazzo-gaddi-firenze-hotel",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-palazzo-gaddi-firenze-hotel"
+  },
+  {
+    "name": "Nh Collection Taormina",
+    "slug": "nh-collection-taormina",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-taormina"
+  },
+  {
+    "name": "Nh Collection Barcelona Gran Hotel Calderon",
+    "slug": "nh-collection-barcelona-gran-hotel-calderon",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-barcelona-gran-hotel-calderon"
+  },
+  {
+    "name": "Nh Bogota Urban 26 Royal",
+    "slug": "nh-bogota-urban-26-royal",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bogota-urban-26-royal"
+  },
+  {
+    "name": "Kempinski Summerland Hotel and Resort Beirut",
+    "slug": "kempinski-summerland-hotel-and-resort-beirut",
+    "sub_brand": "Kempinski",
+    "url": "https://www.ghadiscovery.com/kempinski/kempinski-summerland-hotel-and-resort-beirut"
+  },
+  {
+    "name": "Outrigger Kona Resort and Spa",
+    "slug": "outrigger-kona-resort-and-spa",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-kona-resort-and-spa"
+  },
+  {
+    "name": "Parkroyal Serviced Suites Singapore",
+    "slug": "parkroyal-serviced-suites-singapore",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/parkroyal-serviced-suites-singapore"
+  },
+  {
+    "name": "Outrigger Kaanapali Beach Resort",
+    "slug": "outrigger-kaanapali-beach-resort",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-kaanapali-beach-resort"
+  },
+  {
+    "name": "Verdi St Georges Bay Marina",
+    "slug": "verdi-st-georges-bay-marina",
+    "sub_brand": "Verdi Hotels",
+    "url": "https://www.ghadiscovery.com/verdi-hotels/verdi-st-georges-bay-marina"
+  },
+  {
+    "name": "Avani Museum Quarter Amsterdam Hotel",
+    "slug": "avani-museum-quarter-amsterdam-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-museum-quarter-amsterdam-hotel"
+  },
+  {
+    "name": "Verdi Gzira Promenade",
+    "slug": "verdi-gzira-promenade",
+    "sub_brand": "Verdi Hotels",
+    "url": "https://www.ghadiscovery.com/verdi-hotels/verdi-gzira-promenade"
+  },
+  {
+    "name": "Tivoli Portopiccolo Sistiana Apartments",
+    "slug": "tivoli-portopiccolo-sistiana-apartments",
+    "sub_brand": "Tivoli Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/tivoli-hotels-and-resorts/tivoli-portopiccolo-sistiana-apartments"
+  },
+  {
+    "name": "Verdi Budapest Aquincum",
+    "slug": "verdi-budapest-aquincum",
+    "sub_brand": "Verdi Hotels",
+    "url": "https://www.ghadiscovery.com/verdi-hotels/verdi-budapest-aquincum"
+  },
+  {
+    "name": "the Bloomsbury",
+    "slug": "the-bloomsbury",
+    "sub_brand": "Doyle Collection",
+    "url": "https://www.ghadiscovery.com/doyle-collection/the-bloomsbury"
+  },
+  {
+    "name": "Nikki Beach Resort Spa Porto Heli",
+    "slug": "nikki-beach-resort-spa-porto-heli",
+    "sub_brand": "Nikki Beach Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nikki-beach-hotels-resorts/nikki-beach-resort-spa-porto-heli"
+  },
+  {
+    "name": "Avani Khon Kaen Hotel Convention Centre",
+    "slug": "avani-khon-kaen-hotel-convention-centre",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-khon-kaen-hotel-convention-centre"
+  },
+  {
+    "name": "la Maison Arabe",
+    "slug": "la-maison-arabe",
+    "sub_brand": "the Residence by Cenizaro",
+    "url": "https://www.ghadiscovery.com/the-residence-by-cenizaro/la-maison-arabe"
+  },
+  {
+    "name": "the Kensington",
+    "slug": "the-kensington",
+    "sub_brand": "Doyle Collection",
+    "url": "https://www.ghadiscovery.com/doyle-collection/the-kensington"
+  },
+  {
+    "name": "Hotel Groove Shinjuku A Parkroyal Hotel",
+    "slug": "hotel-groove-shinjuku-a-parkroyal-hotel",
+    "sub_brand": "Parkroyal Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/parkroyal-hotels-resorts/hotel-groove-shinjuku-a-parkroyal-hotel"
+  },
+  {
+    "name": "Red Members",
+    "slug": "red-members",
+    "sub_brand": "Complimentary Breakfast",
+    "url": "https://www.ghadiscovery.com/complimentary-breakfast/red-members"
+  },
+  {
+    "name": "Bellustar Tokyo A Pan Pacific Hotel",
+    "slug": "bellustar-tokyo-a-pan-pacific-hotel",
+    "sub_brand": "Pan Pacific Hotels and Resorts",
+    "url": "https://www.ghadiscovery.com/pan-pacific-hotels-and-resorts/bellustar-tokyo-a-pan-pacific-hotel"
+  },
+  {
+    "name": "Nh Campo Cartagena",
+    "slug": "nh-campo-cartagena",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-campo-cartagena"
+  },
+  {
+    "name": "Nh Collection Prague Carlo Iv",
+    "slug": "nh-collection-prague-carlo-iv",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-prague-carlo-iv"
+  },
+  {
+    "name": "Nh Siena",
+    "slug": "nh-siena",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-siena"
+  },
+  {
+    "name": "Nh Trieste",
+    "slug": "nh-trieste",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-trieste"
+  },
+  {
+    "name": "Nh Mannheim",
+    "slug": "nh-mannheim",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-mannheim"
+  },
+  {
+    "name": "Nh Bingen",
+    "slug": "nh-bingen",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bingen"
+  },
+  {
+    "name": "Nh Collection Heidelberg",
+    "slug": "nh-collection-heidelberg",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-heidelberg"
+  },
+  {
+    "name": "Avani Royal Zona T Bogota Hotel",
+    "slug": "avani-royal-zona-t-bogota-hotel",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-royal-zona-t-bogota-hotel"
+  },
+  {
+    "name": "Nh Eindhoven Conference Centre Koningshof",
+    "slug": "nh-eindhoven-conference-centre-koningshof",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-eindhoven-conference-centre-koningshof"
+  },
+  {
+    "name": "Nh Collection Dresden Altmarkt",
+    "slug": "nh-collection-dresden-altmarkt",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-dresden-altmarkt"
+  },
+  {
+    "name": "Nh Cordoba Califa",
+    "slug": "nh-cordoba-califa",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-cordoba-califa"
+  },
+  {
+    "name": "Nh Lleida Pirineos",
+    "slug": "nh-lleida-pirineos",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-lleida-pirineos"
+  },
+  {
+    "name": "Nh Canciller Ayala Vitoria",
+    "slug": "nh-canciller-ayala-vitoria",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-canciller-ayala-vitoria"
+  },
+  {
+    "name": "Nh Collection Marseille",
+    "slug": "nh-collection-marseille",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-marseille"
+  },
+  {
+    "name": "Nh Valladolid Balago",
+    "slug": "nh-valladolid-balago",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-valladolid-balago"
+  },
+  {
+    "name": "Nh Milano Corso Buenos Aires",
+    "slug": "nh-milano-corso-buenos-aires",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-milano-corso-buenos-aires"
+  },
+  {
+    "name": "Nh Sants Barcelona",
+    "slug": "nh-sants-barcelona",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-sants-barcelona"
+  },
+  {
+    "name": "Nh Collection Mexico City Santa Fe",
+    "slug": "nh-collection-mexico-city-santa-fe",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-mexico-city-santa-fe"
+  },
+  {
+    "name": "Nh Bratislava Gate One",
+    "slug": "nh-bratislava-gate-one",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bratislava-gate-one"
+  },
+  {
+    "name": "Nh Bilbao Deusto",
+    "slug": "nh-bilbao-deusto",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bilbao-deusto"
+  },
+  {
+    "name": "Nh Collection Lisboa Liberdade",
+    "slug": "nh-collection-lisboa-liberdade",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-lisboa-liberdade"
+  },
+  {
+    "name": "Anantara Riverside Bangkok Resort",
+    "slug": "anantara-riverside-bangkok-resort",
+    "sub_brand": "Anantara",
+    "url": "https://www.ghadiscovery.com/anantara/anantara-riverside-bangkok-resort"
+  },
+  {
+    "name": "the Leela Kovalam A Raviz Hotel",
+    "slug": "the-leela-kovalam-a-raviz-hotel",
+    "sub_brand": "Leela",
+    "url": "https://www.ghadiscovery.com/leela/the-leela-kovalam-a-raviz-hotel"
+  },
+  {
+    "name": "Nh Avenida Jerez",
+    "slug": "nh-avenida-jerez",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-avenida-jerez"
+  },
+  {
+    "name": "Nh Collection Torino Piazza Carlina",
+    "slug": "nh-collection-torino-piazza-carlina",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-torino-piazza-carlina"
+  },
+  {
+    "name": "Outrigger Surin Beach Resort",
+    "slug": "outrigger-surin-beach-resort",
+    "sub_brand": "Outrigger Resorts Hotels",
+    "url": "https://www.ghadiscovery.com/outrigger-resorts-hotels/outrigger-surin-beach-resort"
+  },
+  {
+    "name": "Nh Collection Hamburg City",
+    "slug": "nh-collection-hamburg-city",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-hamburg-city"
+  },
+  {
+    "name": "Plum Guide",
+    "slug": "plum-guide",
+    "sub_brand": "Our Partners",
+    "url": "https://www.ghadiscovery.com/our-partners/plum-guide"
+  },
+  {
+    "name": "Nh Bussum Jan Tabak",
+    "slug": "nh-bussum-jan-tabak",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-bussum-jan-tabak"
+  },
+  {
+    "name": "Avani Koh Lanta Krabi Resort",
+    "slug": "avani-koh-lanta-krabi-resort",
+    "sub_brand": "Avani Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/avani-hotels-resorts/avani-koh-lanta-krabi-resort"
+  },
+  {
+    "name": "Nh Madrid Chamberi",
+    "slug": "nh-madrid-chamberi",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-madrid-chamberi"
+  },
+  {
+    "name": "Nh Oberhausen",
+    "slug": "nh-oberhausen",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-oberhausen"
+  },
+  {
+    "name": "Nh Brussels Airport",
+    "slug": "nh-brussels-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-brussels-airport"
+  },
+  {
+    "name": "Nh Caltagirone Villa San Mauro",
+    "slug": "nh-caltagirone-villa-san-mauro",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-caltagirone-villa-san-mauro"
+  },
+  {
+    "name": "Nh Collection Roma Palazzo Cinquecento",
+    "slug": "nh-collection-roma-palazzo-cinquecento",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-roma-palazzo-cinquecento"
+  },
+  {
+    "name": "Nh Geneva Airport",
+    "slug": "nh-geneva-airport",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-geneva-airport"
+  },
+  {
+    "name": "Nh Brussels Eu Berlaymont",
+    "slug": "nh-brussels-eu-berlaymont",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-brussels-eu-berlaymont"
+  },
+  {
+    "name": "Nh Collection Leon Plaza Mayor",
+    "slug": "nh-collection-leon-plaza-mayor",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-leon-plaza-mayor"
+  },
+  {
+    "name": "Nh Noordwijk Conference Centre Leeuwenhorst",
+    "slug": "nh-noordwijk-conference-centre-leeuwenhorst",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-noordwijk-conference-centre-leeuwenhorst"
+  },
+  {
+    "name": "Nh Collection Eindhoven Centre",
+    "slug": "nh-collection-eindhoven-centre",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-eindhoven-centre"
+  },
+  {
+    "name": "Nh Ingolstadt",
+    "slug": "nh-ingolstadt",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-ingolstadt"
+  },
+  {
+    "name": "Nh Collection Milano Porta Nuova",
+    "slug": "nh-collection-milano-porta-nuova",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-milano-porta-nuova"
+  },
+  {
+    "name": "Nh Collection Salzburg City",
+    "slug": "nh-collection-salzburg-city",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-salzburg-city"
+  },
+  {
+    "name": "Nh Catania Centro",
+    "slug": "nh-catania-centro",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-catania-centro"
+  },
+  {
+    "name": "Nh Ludwigsburg",
+    "slug": "nh-ludwigsburg",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-ludwigsburg"
+  },
+  {
+    "name": "Nh Palermo",
+    "slug": "nh-palermo",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-palermo"
+  },
+  {
+    "name": "Nh Madrid Nacional",
+    "slug": "nh-madrid-nacional",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-madrid-nacional"
+  },
+  {
+    "name": "Nh Dortmund",
+    "slug": "nh-dortmund",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-dortmund"
+  },
+  {
+    "name": "Nh Frankfurt Niederrad",
+    "slug": "nh-frankfurt-niederrad",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-frankfurt-niederrad"
+  },
+  {
+    "name": "Nh Collection Marbella",
+    "slug": "nh-collection-marbella",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-marbella"
+  },
+  {
+    "name": "Nh Frankfurt Airport West",
+    "slug": "nh-frankfurt-airport-west",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-frankfurt-airport-west"
+  },
+  {
+    "name": "Nh Frankfurt Messe",
+    "slug": "nh-frankfurt-messe",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-frankfurt-messe"
+  },
+  {
+    "name": "Nh Collection Madrid Paseo del Prado",
+    "slug": "nh-collection-madrid-paseo-del-prado",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-madrid-paseo-del-prado"
+  },
+  {
+    "name": "Nh Mendoza Cordillera",
+    "slug": "nh-mendoza-cordillera",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-mendoza-cordillera"
+  },
+  {
+    "name": "Nh Collection Frankfurt Spin Tower",
+    "slug": "nh-collection-frankfurt-spin-tower",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-frankfurt-spin-tower"
+  },
+  {
+    "name": "Nhow London",
+    "slug": "nhow-london",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nhow-london"
+  },
+  {
+    "name": "Nh Collection Buenos Aires Centro Historico",
+    "slug": "nh-collection-buenos-aires-centro-historico",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-buenos-aires-centro-historico"
+  },
+  {
+    "name": "Nh Catania Parco Degli Aragonesi",
+    "slug": "nh-catania-parco-degli-aragonesi",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-catania-parco-degli-aragonesi"
+  },
+  {
+    "name": "Nh Ciudad Real",
+    "slug": "nh-ciudad-real",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-ciudad-real"
+  },
+  {
+    "name": "Nh Collection Roma Fori Imperiali",
+    "slug": "nh-collection-roma-fori-imperiali",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-roma-fori-imperiali"
+  },
+  {
+    "name": "Nh Collection Roma Centro",
+    "slug": "nh-collection-roma-centro",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-roma-centro"
+  },
+  {
+    "name": "Nh Collection Guadalajara Providencia",
+    "slug": "nh-collection-guadalajara-providencia",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-guadalajara-providencia"
+  },
+  {
+    "name": "Nh Barcelona Les Corts",
+    "slug": "nh-barcelona-les-corts",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-barcelona-les-corts"
+  },
+  {
+    "name": "Nh Barcelona Diagonal Poblenou",
+    "slug": "nh-barcelona-diagonal-poblenou",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-barcelona-diagonal-poblenou"
+  },
+  {
+    "name": "Nh Collection Antwerp Centre",
+    "slug": "nh-collection-antwerp-centre",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-antwerp-centre"
+  },
+  {
+    "name": "Nh Amersfoort",
+    "slug": "nh-amersfoort",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-amersfoort"
+  },
+  {
+    "name": "Nh Porto Jardim",
+    "slug": "nh-porto-jardim",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-porto-jardim"
+  },
+  {
+    "name": "Nh Collection Porto Batalha",
+    "slug": "nh-collection-porto-batalha",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-porto-batalha"
+  },
+  {
+    "name": "Nh Nice",
+    "slug": "nh-nice",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-nice"
+  },
+  {
+    "name": "Nh Monterrey la Fe",
+    "slug": "nh-monterrey-la-fe",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-monterrey-la-fe"
+  },
+  {
+    "name": "Nh Lisboa Campo Grande",
+    "slug": "nh-lisboa-campo-grande",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-lisboa-campo-grande"
+  },
+  {
+    "name": "Nh Genova Centro",
+    "slug": "nh-genova-centro",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-genova-centro"
+  },
+  {
+    "name": "Nh Buenos Aires Florida",
+    "slug": "nh-buenos-aires-florida",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-buenos-aires-florida"
+  },
+  {
+    "name": "Nh Collection Monterrey San Pedro",
+    "slug": "nh-collection-monterrey-san-pedro",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-monterrey-san-pedro"
+  },
+  {
+    "name": "Nh Mexico City Valle Dorado",
+    "slug": "nh-mexico-city-valle-dorado",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-mexico-city-valle-dorado"
+  },
+  {
+    "name": "Nh Collection Madrid Gran Via",
+    "slug": "nh-collection-madrid-gran-via",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-madrid-gran-via"
+  },
+  {
+    "name": "Nh Collection Buenos Aires Lancaster",
+    "slug": "nh-collection-buenos-aires-lancaster",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-buenos-aires-lancaster"
+  },
+  {
+    "name": "Nh Collection Buenos Aires Jousten",
+    "slug": "nh-collection-buenos-aires-jousten",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-buenos-aires-jousten"
+  },
+  {
+    "name": "Nh Buenos Aires Tango",
+    "slug": "nh-buenos-aires-tango",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-buenos-aires-tango"
+  },
+  {
+    "name": "Nh Collection Buenos Aires Crillon",
+    "slug": "nh-collection-buenos-aires-crillon",
+    "sub_brand": "Nh Hotels Resorts",
+    "url": "https://www.ghadiscovery.com/nh-hotels-resorts/nh-collection-buenos-aires-crillon"
+  }
+]

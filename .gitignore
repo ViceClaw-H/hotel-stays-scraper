@@ -1,0 +1,31 @@
+# Local Python runtimes and caches
+portable_python/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local credentials, browser profiles, and captured authenticated requests
+.env
+.env.*
+!.env.example
+crawlers/pw_*_session/
+**/cookies*.json
+**/*_cookies.json
+**/storage_state*.json
+**/ihg_headers.json
+data/accor_calendar_requests.json
+*credentials*.json
+*service_account*.json
+*.pem
+*.key
+
+# Generated local working files
+logs/
+scratch/
+*.log
+*.db-wal
+*.db-shm
+*.db-journal
+*.zip

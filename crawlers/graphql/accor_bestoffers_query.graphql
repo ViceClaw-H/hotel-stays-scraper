@@ -1,0 +1,333 @@
+query BestOffers($destinationSlug: String, $hotelIds: [String!], $dateIn: Date!, $dateOut: Date!, $nbAdults: PositiveInt!, $childrenAges: [NonNegativeInt!], $countryMarket: String!, $currency: String!, $sort: [BestOfferSort!], $segmentation: [BestOfferSegmentation!], $pagination: Pagination, $persistenceId: String, $filters: BestOfferFilters, $box: BoxInput, $use: BestOfferUse, $categories: [MediaCategory!], $limit: PositiveInt!, $context: MediaContext, $extendMode: ExtendMode, $contextFlags: [String!], $radius: RadiusInput, $channel: String, $program: V2HotelPaymentMeansInput!, $concession: BestOfferConcession, $hideMemberRate: Boolean) {
+  bestOffers(
+    destinationSlug: $destinationSlug
+    hotelIds: $hotelIds
+    dateIn: $dateIn
+    dateOut: $dateOut
+    nbAdults: $nbAdults
+    childrenAges: $childrenAges
+    countryMarket: $countryMarket
+    currency: $currency
+    sort: $sort
+    segmentation: $segmentation
+    pagination: $pagination
+    persistenceId: $persistenceId
+    filters: $filters
+    box: $box
+    use: $use
+    contextFlags: $contextFlags
+    radius: $radius
+    channel: $channel
+    concession: $concession
+    extendMode: $extendMode
+    hideMemberRate: $hideMemberRate
+  ) {
+    bestOffers {
+      hotel {
+        id
+        name
+        brand {
+          code
+          label
+          description
+          __typename
+        }
+        certifications {
+          code
+          description
+          label
+          __typename
+        }
+        crs
+        localization {
+          address {
+            city
+            country
+            street
+            zipCode
+            countryCode
+            __typename
+          }
+          __typename
+        }
+        rating {
+          default {
+            numberOfReviews
+            origin
+            score
+            __typename
+          }
+          stars
+          __typename
+        }
+        ...HotelMediasFragment
+        lodging {
+          code
+          label
+          __typename
+        }
+        topAmenityCodes
+        labels {
+          code
+          description
+          label
+          __typename
+        }
+        loyaltyProgram {
+          earnAllowed
+          burnAllowed
+          status
+          __typename
+        }
+        paymentMeans(program: $program) {
+          labels {
+            code
+            label
+            __typename
+          }
+          __typename
+        }
+        presentationHints {
+          kickers {
+            code
+            label
+            __typename
+          }
+          __typename
+        }
+        __typename
+      }
+      availability {
+        reasons {
+          code
+          label
+          __typename
+        }
+        status
+        __typename
+      }
+      distance {
+        meters
+        feet
+        __typename
+      }
+      offer {
+        ...BestOfferFragment
+        __typename
+      }
+      offersCategories {
+        code
+        label
+        __typename
+      }
+      __typename
+    }
+    place {
+      ...BestOfferPlaceFragment
+      __typename
+    }
+    presentationHints {
+      callouts {
+        label
+        __typename
+      }
+      __typename
+    }
+    persistenceId
+    pagination {
+      offset
+      limit
+      total
+      __typename
+    }
+    facets {
+      description
+      identifier
+      filterIdentifier
+      label
+      values {
+        code
+        label
+        count
+        __typename
+      }
+      __typename
+    }
+    priceRange {
+      min
+      max
+      __typename
+    }
+    metas {
+      offerCategories {
+        code
+        minDeductionPercent
+        maxDeductionPercent
+        __typename
+      }
+      __typename
+    }
+    __typename
+  }
+}
+
+fragment BestOfferFragment on BestOfferInfo {
+  dateIn
+  rate {
+    id
+    legacyId
+    __typename
+  }
+  product {
+    id
+    quantity
+    __typename
+  }
+  occupancy {
+    adults
+    childrenAges
+    babies
+    childrenAgesAsAdult
+    __typename
+  }
+  lengthOfStay {
+    value
+    unit
+    __typename
+  }
+  mealPlan {
+    code
+    label
+    __typename
+  }
+  pricing {
+    ...BestOfferPricingFragment
+    __typename
+  }
+  categories {
+    code
+    tag
+    description
+    additionalTag
+    __typename
+  }
+  updatedRemaining
+  __typename
+}
+
+fragment BestOfferPricingFragment on BestOfferPricing {
+  currency
+  formattedAggregationType
+  formattedTaxType
+  aggregationType
+  deduction {
+    percent
+    formattedAmount
+    type
+    __typename
+  }
+  main {
+    formattedAmount
+    amount
+    categories
+    label
+    reference {
+      formattedAmount
+      categories
+      __typename
+    }
+    __typename
+  }
+  alternative {
+    formattedAmount
+    amount
+    categories
+    label
+    bookable
+    reference {
+      formattedAmount
+      categories
+      __typename
+    }
+    teasing
+    __typename
+  }
+  __typename
+}
+
+fragment BestOfferPlaceFragment on Place {
+  slug
+  box {
+    bottomLeft {
+      lat
+      lng
+      __typename
+    }
+    topRight {
+      lat
+      lng
+      __typename
+    }
+    center {
+      lat
+      lng
+      __typename
+    }
+    __typename
+  }
+  description
+  location {
+    lat
+    lng
+    __typename
+  }
+  radius {
+    distance
+    center {
+      lat
+      lng
+      __typename
+    }
+    __typename
+  }
+  __typename
+}
+
+fragment HotelMediasFragment on V2Hotel {
+  totalMedias: medias(
+    types: [IMAGE, VIDEO]
+    productCodes: "GENERIC"
+    categories: $categories
+  ) {
+    total
+    __typename
+  }
+  totalVideos: medias(
+    types: [VIDEO]
+    productCodes: "GENERIC"
+    categories: $categories
+  ) {
+    total
+    __typename
+  }
+  medias(
+    types: [IMAGE]
+    categories: $categories
+    limit: $limit
+    context: $context
+  ) {
+    items {
+      category
+      availableFormats {
+        url
+        width
+        height
+        __typename
+      }
+      type
+      __typename
+    }
+    __typename
+  }
+  __typename
+}

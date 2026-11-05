@@ -1,0 +1,405 @@
+{
+ "_comment": "TEST FIXTURE, not harvested data. Structure and numbers hand-assembled from values seen in one live radissonhotels.com response (hotel DEUWEBCK, night 2026-12-10, observed 2026-11-02). Dates are rewritten by the tests.",
+ "currency": "EUR",
+ "matchesSearch": true,
+ "searchApplicable": true,
+ "searchType": "lowest",
+ "rooms": {
+  "BSTD------": {
+   "groups": [
+    {
+     "title": "Prepaid",
+     "staysMember": [
+      {
+       "id": 0,
+       "code": "P_PP01RR",
+       "name": "Prepaid Members Only",
+       "type": "prepay",
+       "stayType": "loyalty",
+       "category": "loyalty",
+       "nights": [
+        {
+         "date": "2026-12-10",
+         "freeNights": 0,
+         "pricing": {
+          "cashWithPoints": {
+           "currency": "EUR",
+           "extraCashAmount": 0,
+           "points": 56504
+          },
+          "pointsExtended": {
+           "points": 0
+          },
+          "price": {
+           "amount": 141.75,
+           "currency": "EUR",
+           "formattedAmount": "EUR 141.75",
+           "isTaxInclusive": true
+          },
+          "taxIncluded": true
+         },
+         "rate": {
+          "identifier": "x|BSTD------|P_PP01RR|RO",
+          "type": "unknown"
+         }
+        }
+       ],
+       "breakfastIncluded": false,
+       "mealPlan": "RO",
+       "numberOfRoomsLeft": 27,
+       "roomId": "BSTD------",
+       "redeemable": true,
+       "totalPriceWithTax": {
+        "amount": 141.75,
+        "currency": "EUR"
+       },
+       "memberOnly": true,
+       "professional": false
+      }
+     ],
+     "staysPublic": [
+      {
+       "id": 0,
+       "code": "P_PP01",
+       "name": "Prepaid",
+       "type": "prepay",
+       "stayType": "standard",
+       "category": "standard",
+       "nights": [
+        {
+         "date": "2026-12-10",
+         "freeNights": 0,
+         "pricing": {
+          "cashWithPoints": {
+           "currency": "EUR",
+           "extraCashAmount": 0,
+           "points": 65771
+          },
+          "pointsExtended": {
+           "points": 0
+          },
+          "price": {
+           "amount": 165,
+           "currency": "EUR",
+           "formattedAmount": "EUR 165.00",
+           "isTaxInclusive": true
+          },
+          "taxIncluded": true
+         },
+         "rate": {
+          "identifier": "x|BSTD------|P_PP01|RO",
+          "type": "unknown"
+         }
+        }
+       ],
+       "breakfastIncluded": false,
+       "mealPlan": "RO",
+       "numberOfRoomsLeft": 27,
+       "roomId": "BSTD------",
+       "redeemable": true,
+       "totalPriceWithTax": {
+        "amount": 165,
+        "currency": "EUR"
+       },
+       "memberOnly": false,
+       "professional": false
+      },
+      {
+       "id": 0,
+       "code": "P_PP01",
+       "name": "Prepaid",
+       "type": "prepay",
+       "stayType": "standard",
+       "category": "standard",
+       "nights": [
+        {
+         "date": "2026-12-10",
+         "freeNights": 0,
+         "pricing": {
+          "cashWithPoints": {
+           "currency": "EUR",
+           "extraCashAmount": 0,
+           "points": 80921
+          },
+          "pointsExtended": {
+           "points": 0
+          },
+          "price": {
+           "amount": 203,
+           "currency": "EUR",
+           "formattedAmount": "EUR 203.00",
+           "isTaxInclusive": true
+          },
+          "taxIncluded": true
+         },
+         "rate": {
+          "identifier": "x|BSTD------|P_PP01|BB",
+          "type": "unknown"
+         }
+        }
+       ],
+       "breakfastIncluded": true,
+       "mealPlan": "BB",
+       "numberOfRoomsLeft": 27,
+       "roomId": "BSTD------",
+       "redeemable": true,
+       "totalPriceWithTax": {
+        "amount": 203,
+        "currency": "EUR"
+       },
+       "memberOnly": false,
+       "professional": false
+      }
+     ]
+    },
+    {
+     "title": "Flexible",
+     "staysMember": [],
+     "staysPublic": [
+      {
+       "id": 0,
+       "code": "F_FLEX",
+       "name": "Flexible",
+       "type": "flexible",
+       "stayType": "standard",
+       "category": "standard",
+       "nights": [
+        {
+         "date": "2026-12-10",
+         "freeNights": 0,
+         "pricing": {
+          "cashWithPoints": {
+           "currency": "EUR",
+           "extraCashAmount": 0,
+           "points": 77332
+          },
+          "pointsExtended": {
+           "points": 0
+          },
+          "price": {
+           "amount": 194,
+           "currency": "EUR",
+           "formattedAmount": "EUR 194.00",
+           "isTaxInclusive": true
+          },
+          "taxIncluded": true
+         },
+         "rate": {
+          "identifier": "x|BSTD------|F_FLEX|RO",
+          "type": "unknown"
+         }
+        }
+       ],
+       "breakfastIncluded": false,
+       "mealPlan": "RO",
+       "numberOfRoomsLeft": 27,
+       "roomId": "BSTD------",
+       "redeemable": true,
+       "totalPriceWithTax": {
+        "amount": 194,
+        "currency": "EUR"
+       },
+       "memberOnly": false,
+       "professional": false
+      },
+      {
+       "id": 0,
+       "code": "F_FLEX",
+       "name": "Flexible",
+       "type": "flexible",
+       "stayType": "standard",
+       "category": "standard",
+       "nights": [
+        {
+         "date": "2026-12-10",
+         "freeNights": 0,
+         "pricing": {
+          "cashWithPoints": {
+           "currency": "EUR",
+           "extraCashAmount": 0,
+           "points": 92479
+          },
+          "pointsExtended": {
+           "points": 0
+          },
+          "price": {
+           "amount": 232,
+           "currency": "EUR",
+           "formattedAmount": "EUR 232.00",
+           "isTaxInclusive": true
+          },
+          "taxIncluded": true
+         },
+         "rate": {
+          "identifier": "x|BSTD------|F_FLEX|BB",
+          "type": "unknown"
+         }
+        }
+       ],
+       "breakfastIncluded": true,
+       "mealPlan": "BB",
+       "numberOfRoomsLeft": 27,
+       "roomId": "BSTD------",
+       "redeemable": true,
+       "totalPriceWithTax": {
+        "amount": 232,
+        "currency": "EUR"
+       },
+       "memberOnly": false,
+       "professional": false
+      }
+     ]
+    }
+   ]
+  },
+  "JJST------": {
+   "groups": [
+    {
+     "title": "Prepaid",
+     "staysMember": [
+      {
+       "id": 0,
+       "code": "P_PP01RR",
+       "name": "Prepaid Members Only",
+       "type": "prepay",
+       "stayType": "loyalty",
+       "category": "loyalty",
+       "nights": [
+        {
+         "date": "2026-12-10",
+         "freeNights": 0,
+         "pricing": {
+          "cashWithPoints": {
+           "currency": "EUR",
+           "extraCashAmount": 0,
+           "points": 99008
+          },
+          "pointsExtended": {
+           "points": 0
+          },
+          "price": {
+           "amount": 252.25,
+           "currency": "EUR",
+           "formattedAmount": "EUR 252.25",
+           "isTaxInclusive": true
+          },
+          "taxIncluded": true
+         },
+         "rate": {
+          "identifier": "x|JJST------|P_PP01RR|RO",
+          "type": "unknown"
+         }
+        }
+       ],
+       "breakfastIncluded": false,
+       "mealPlan": "RO",
+       "numberOfRoomsLeft": 6,
+       "roomId": "JJST------",
+       "redeemable": true,
+       "totalPriceWithTax": {
+        "amount": 252.25,
+        "currency": "EUR"
+       },
+       "memberOnly": true,
+       "professional": false
+      }
+     ],
+     "staysPublic": [
+      {
+       "id": 0,
+       "code": "P_PP01",
+       "name": "Prepaid",
+       "type": "prepay",
+       "stayType": "standard",
+       "category": "standard",
+       "nights": [
+        {
+         "date": "2026-12-10",
+         "freeNights": 0,
+         "pricing": {
+          "cashWithPoints": {
+           "currency": "EUR",
+           "extraCashAmount": 0,
+           "points": 121064
+          },
+          "pointsExtended": {
+           "points": 0
+          },
+          "price": {
+           "amount": 333,
+           "currency": "EUR",
+           "formattedAmount": "EUR 333.00",
+           "isTaxInclusive": true
+          },
+          "taxIncluded": true
+         },
+         "rate": {
+          "identifier": "x|JJST------|P_PP01|BB",
+          "type": "unknown"
+         }
+        }
+       ],
+       "breakfastIncluded": true,
+       "mealPlan": "BB",
+       "numberOfRoomsLeft": 6,
+       "roomId": "JJST------",
+       "redeemable": true,
+       "totalPriceWithTax": {
+        "amount": 333,
+        "currency": "EUR"
+       },
+       "memberOnly": false,
+       "professional": false
+      },
+      {
+       "id": 0,
+       "code": "P_PP01",
+       "name": "Prepaid",
+       "type": "prepay",
+       "stayType": "standard",
+       "category": "standard",
+       "nights": [
+        {
+         "date": "2026-12-10",
+         "freeNights": 0,
+         "pricing": {
+          "cashWithPoints": {
+           "currency": "EUR",
+           "extraCashAmount": 0,
+           "points": 110684
+          },
+          "pointsExtended": {
+           "points": 0
+          },
+          "price": {
+           "amount": 295,
+           "currency": "EUR",
+           "formattedAmount": "EUR 295.00",
+           "isTaxInclusive": true
+          },
+          "taxIncluded": true
+         },
+         "rate": {
+          "identifier": "x|JJST------|P_PP01|RO",
+          "type": "unknown"
+         }
+        }
+       ],
+       "breakfastIncluded": false,
+       "mealPlan": "RO",
+       "numberOfRoomsLeft": 6,
+       "roomId": "JJST------",
+       "redeemable": true,
+       "totalPriceWithTax": {
+        "amount": 295,
+        "currency": "EUR"
+       },
+       "memberOnly": false,
+       "professional": false
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

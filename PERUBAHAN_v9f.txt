@@ -1,0 +1,107 @@
+ALL HOTEL STAYS SCRAPER v9f - perubahan dari v9e (2026-11-03)
+Dasar: uji v9e oleh Antigravity di PC user, 2026-11-03 (log di folder "Diskusi Antigravity dengan Claude").
+Tes offline: 105 tes OK (lama, disesuaikan aturan harga member, + baru di tests/test_v9f.py), 1 skip.
+
+1. ACCOR (crawlers/accor_fast_harvester.py) - "LEAKY FAUCET" (golden standard user)
+   v9e: jeda tetap 1,35 dtk (44/menit) dengan asumsi batas Accor 60/menit yang TIDAK PERNAH DIUKUR;
+   master_concurrent_runner menjalankan Accor dengan --num-workers 2 = dua keran x 44/menit = 88/menit dari
+   satu IP, di atas asumsi batas itu sendiri. Saat 429: tunggu 300 dtk lalu ulang tanpa batas, dan kegagalan
+   semua permintaan dicatat sebagai "sold out".
+   r1/r2 (dibatalkan): berhenti setelah 4x 429 - bertentangan dengan aturan user (keran tidak boleh berhenti).
+   v9f-r4: kelas Faucet. Keran menetes 1 permintaan tiap 1,35 dtk (44/menit, SESUAI GOLDEN STANDARD USER:
+   batas 60/menit) untuk SELURUH IP; dengan --num-workers N tiap worker menetes N kali lebih lambat. Kena 429:
+   keran dikecilkan (jeda x2, maks 60 dtk), permintaan YANG SAMA diulang setelah jeda (Retry-After bila ada,
+   kalau tidak 60 dtk, berlipat sampai maks 15 menit). TIDAK PERNAH BERHENTI. Setelah 50 jawaban sukses
+   beruntun keran dibuka 10% lagi, tidak pernah lebih cepat dari 1,35 dtk. --interval DETIK untuk mengubah
+   laju bila golden standard berubah.
+   Hotel yang tidak satu pun permintaannya berhasil (selain 429) -> FAILED NO_SUCCESSFUL_RESPONSE.
+   KOREKSI (r4): dugaan r3 bahwa "--num-workers 2 di master_concurrent_runner.py = 88/menit di 1 IP" TERBUKTI
+   SALAH setelah membaca master_concurrent_runner.py penuh: untuk Accor ia hanya menjalankan SATU proses
+   dengan --num-workers 2 (tanpa --worker-id), jadi hanya separuh hotel pernah diproses, pada laju 44/menit
+   yang sama (bukan laju ganda). Golden standard user menyebut "multi-interface support" untuk 2 worker; itu
+   TIDAK pernah benar-benar dipasang (tidak ada --interface berbeda per worker). Bukan penyebab banned hari ini.
+
+2. HILTON (crawlers/hilton_fast_harvester.py)
+   v9e: 4 dari 6 hotel FAILED AKAMAI_CHALLENGE tetapi kode keluar 0.
+   v9f: hotel diblokir / crash / gagal tulis DB -> kode keluar 2. Berhenti sendiri setelah 3 hotel beruntun
+   diblokir Akamai (melanjutkan hanya memperpanjang blokir). --workers N meneruskan kode 2.
+
+3. MARRIOTT (crawlers/marriott_fast_harvester.py)
+   v9e: setelah "Session challenge", GraphQL tetap 403/429; skrip pindah ke jalur DOM yang menampilkan kalender
+   tanpa harga, lalu hotel dicatat "0 bookable dates (min stay / restricted)" = LABEL PALSU (5 dari 6 hotel).
+   v9f: tetap diblokir setelah refresh -> FAILED BLOCKED_AFTER_REFRESH. Jalur DOM tanpa satu harga pun ->
+   FAILED DOM_FALLBACK_NO_PRICE_UNVERIFIED. Hanya jawaban GraphQL server yang boleh menyimpulkan
+   "tidak ada ketersediaan". Berhenti setelah 3 hotel beruntun diblokir; kode keluar 2 bila ada yang gagal.
+   --workers 8 tidak lagi otomatis memakai proxy lokal 127.0.0.1:8001/8002 (hanya dengan --dual-ip).
+
+4. GHA (engine/extractors/gha.py, crawlers/gha_harvester.py)
+   ATURAN HARGA (user, 2026-11-03): HARGA MEMBER dulu (GHA DISCOVERY gratis), harga publik hanya bila
+   kamar itu tidak punya harga member (DAILY dulu, lalu rate plan publik termurah).
+   v9e: hanya publik (memberRate false); tarif kelompok terbatas ikut dipakai ("UAE Resident ... LOCALBB").
+   v9f: member dulu; tarif penduduk/lokal/warga/pemerintah/militer/senior/korporat/AAA/agen/grup dsb. tidak
+   pernah dipakai, baik member maupun publik. Catatan baris menyebut jenisnya ("member rate" / "public ...").
+   Pesan lewati hotel diperjelas (tidak lagi selalu menyebut "DAILY").
+   CATATAN KOREKSI: baris GHA adalah SATU BARIS PER KAMAR per tanggal (desain sejak v9). "Grand Penthouse
+   Suite 3.985 EUR" di Almanac Barcelona adalah harga kamar penthouse itu sendiri, bukan "harga termurah hotel".
+
+5. SHANGRI-LA (engine/extractors/shangrila.py)
+   ATURAN HARGA (user, 2026-11-03): harga member Shangri-La Circle (gratis) dulu, publik bila tidak ada.
+   v9e: memilih yang termurah dari member+publik (biasanya member, tapi tidak dijamin).
+   v9f: bila ada harga member pada malam itu, yang termurah DI ANTARA HARGA MEMBER yang dipakai; tanpa member
+   -> harga publik termurah. Catatan baris tetap menyebut "member rate".
+
+6. RADISSON (crawlers/radisson_harvester.py)
+   v9e: halaman wilayah masuk daftar hotel (asia-pacific, europe, middle-east-africa,
+   central-eastern-southern-europe, choose-your-room).
+   v9f: daftar slug non-hotel disaring saat discovery dan saat memilih hotel; halaman tanpa kode hotel dicatat
+   INACTIVE NOT_A_HOTEL_PAGE dan tidak diulang.
+
+7. ALAT LANGHAM (tools/fix_legacy_langham_hotels.py)
+   v9e: --apply akan mengganti mata uang yang BENAR menjadi 'Unknown' (dry-run: 29 hotel, mis. Jakarta IDR).
+   v9f: mata uang ISO yang sah tidak pernah ditimpa; hanya pengisi seperti 'Global' -> 'Unknown'.
+   Koneksi database ditutup sebelum menyalin cadangan (Windows mengunci file yang terbuka).
+
+8. HONESTY AUDIT (engine/honesty_audit.py)
+   v9e: tanpa entry point; "python -m engine.honesty_audit" keluar 0 tanpa memeriksa apa pun.
+   v9f: python -m engine.honesty_audit [--db ...] -> mencetak VERDICT dan temuan; kode 0 PASS, 1 WARN, 2 FAIL.
+
+9. TES (tests/test_v9d.py, tests/test_v9f.py)
+   v9e: 1 error di Windows (WinError 32): tes membiarkan koneksi SQLite terbuka. Diperbaiki.
+   Tes baru untuk butir 1-8; tes GHA lama disesuaikan dengan aturan harga member.
+
+10. v9f-r5 (2026-11-03 malam): 3 keputusan yang sebelumnya "BELUM DIUBAH" di bawah, sekarang diterapkan.
+
+10a. RADISSON MEMBER RATE (engine/extractors/radisson.py, tests/test_radisson.py)
+   Diperiksa langsung dari evidence mentah (rad_park_hotel): setiap `group` di respons Radisson punya
+   `staysMember` (category "loyalty", memberOnly true) di SAMPING `staysPublic` -- field ini ada tapi
+   TIDAK PERNAH dibaca sebelumnya. Harga member di evidence TERBUKTI lebih murah dari harga publik untuk
+   rate plan yang sama (room-only: CNY 980,10 member vs CNY 1.089,00 publik, hotel yang sama, malam yang
+   sama). ATURAN HARGA (user, konsisten dengan Accor/GHA/Shangri-La): harga member (gratis daftar) dulu,
+   publik hanya bila malam itu tidak punya rate member yang room-only (mealPlan RO, tidak termasuk
+   sarapan, bukan tarif profesional/korporat). Catatan baris menyebut jenisnya ("member rate" / "public
+   rate"). Tarif yang bukan room-only tetap TIDAK PERNAH dipakai di kedua kolam (member maupun publik).
+
+10b. WORKER COUNT (crawlers/master_concurrent_runner.py, crawlers/wyndham_stream_harvester.py)
+   Golden standard user (ditempel 2026-11-03 ~15:15 WIB) menyebut "1 worker" untuk Marriott, Hyatt, dan
+   Wyndham. master_concurrent_runner.py sebelumnya memaksa Marriott & Hyatt --workers 2 (padahal default
+   skrip masing-masing sudah 1 -- hanya master runner yang menyimpang); Wyndham --workers 4 di KEDUA
+   tempat (master runner DAN default skrip --workers sendiri). Semua sekarang 1 di ketiga tempat itu.
+   Wyndham tetap punya pacing global terpisah (AdaptiveThrottle, --max-rps default 5/dtk) yang tidak
+   berubah oleh ini -- ini murni soal paralelisme/concurrency, bukan laju request per detik.
+
+BELUM DIUBAH (perlu bukti/keputusan dulu):
+ - Radisson JJ SUN HOTEL 95.948 CNY/malam: belum terbukti salah (kode kamar JJST----2T, nama kamar tidak ada).
+ - master_concurrent_runner.py untuk Accor tidak menjalankan worker ke-2 (coverage: separuh hotel tak terpanen
+   saat master run); dan "multi-interface" per golden standard belum pernah diimplementasikan.
+ - test_verifier membaca database HIDUP: setelah aturan harga berubah, baris GHA/Shangri-La/Radisson lama
+   (ditulis sebelum aturan member-rate masing-masing berubah) tidak cocok lagi saat diputar ulang sampai
+   hotel itu dipanen ulang. Ini BUKAN bug (lihat 021/023/025 di folder diskusi) -- baris basi akan bersih
+   sendiri begitu hotelnya dipanen ulang dengan kode saat ini.
+ - Aturan harga member untuk rantai lain (IHG, Hilton, Marriott, Hyatt, Accor, Wyndham, Radisson, Langham,
+   Best Western, Swiss-Belhotel) BELUM diperiksa: tiap scraper perlu dicek apakah ia membaca harga member.
+   Accor kemungkinan sudah (kolom 'pricing.main', di kode dinamai member_amt) tetapi untuk 1 dewasa.
+ - Best Western: harga sengaja diminta dalam IDR (TARGET_CURRENCY); --limit menghitung cluster kota, bukan hotel.
+ - Lokasi katalog salah (Hilton "Altay ... United States" dll.) dan Langham kota 'Unknown': perlu sumber resmi.
+ - Keputusan user "lewati tanggal bila kamar standar habis" berlaku untuk perhitungan HARGA TERMURAH HOTEL
+   (laporan/indeks), bukan untuk penyimpanan per kamar; belum diterapkan di build_index_hotel.py.
+ - TOO_UNIFORM (honesty audit): hilt_aatcici dan wynd_howardjohnsondammamhotel perlu dicek di situs.

@@ -1,0 +1,1022 @@
+[
+  {
+    "title": "Adeera",
+    "code": "AD",
+    "logoSvg": {
+      "uri": "/content/download/299030/1913681?version=6"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/adeera",
+    "_info": {
+      "id": 299030
+    }
+  },
+  {
+    "title": "Almanac Hotels",
+    "code": "AC",
+    "logoSvg": {
+      "uri": "/content/download/274213/1721058?version=20"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/almanac-hotels",
+    "_info": {
+      "id": 274213
+    }
+  },
+  {
+    "title": "Anantara Hotels & Resorts",
+    "code": "AN",
+    "logoSvg": {
+      "uri": "/content/download/536/2416?version=73"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/anantara",
+    "_info": {
+      "id": 536
+    }
+  },
+  {
+    "title": "ANDRONIS",
+    "code": "AH",
+    "logoSvg": {
+      "uri": "/content/download/159431/1106256?version=60"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/andronis",
+    "_info": {
+      "id": 159431
+    }
+  },
+  {
+    "title": "Araiya Hotels & Resorts",
+    "code": "AR",
+    "logoSvg": {
+      "uri": "/content/download/101/453?version=20"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/araiya-hotels-resorts",
+    "_info": {
+      "id": 101
+    }
+  },
+  {
+    "title": "Arjaan Hotel Apartments by Rotana",
+    "code": "AJ",
+    "logoSvg": {
+      "uri": "/content/download/226208/1505935?version=21"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/arjaan-hotel-apartments-by-rotana",
+    "_info": {
+      "id": 226208
+    }
+  },
+  {
+    "title": "ASMALLWORLD",
+    "code": "AW",
+    "logoSvg": {
+      "uri": "/content/download/127131/813528?version=36"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/asmallworld",
+    "_info": {
+      "id": 127131
+    }
+  },
+  {
+    "title": "Avani Hotels & Resorts",
+    "code": "AV",
+    "logoSvg": {
+      "uri": "/content/download/560/2541?version=29"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/avani-hotels-resorts",
+    "_info": {
+      "id": 560
+    }
+  },
+  {
+    "title": "Bristoria Hotels",
+    "code": "BR",
+    "logoSvg": {
+      "uri": "/content/download/17276/90381?version=18"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/bristoria-hotels",
+    "_info": {
+      "id": 17276
+    }
+  },
+  {
+    "title": "Capella Hotels and Resorts",
+    "code": "CA",
+    "logoSvg": {
+      "uri": "/content/download/281/1261?version=37"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/capella-hotels-and-resorts",
+    "_info": {
+      "id": 281
+    }
+  },
+  {
+    "title": "Centro by Rotana",
+    "code": "CT",
+    "logoSvg": {
+      "uri": "/content/download/226217/1506049?version=24"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/centro-by-rotana",
+    "_info": {
+      "id": 226217
+    }
+  },
+  {
+    "title": "Cheval Collection",
+    "code": "CC",
+    "logoSvg": {
+      "uri": "/content/download/200917/1365988?version=20"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/cheval-collection",
+    "_info": {
+      "id": 200917
+    }
+  },
+  {
+    "title": "Cinnamon Hotels & Resorts",
+    "code": "CI",
+    "logoSvg": {
+      "uri": "/content/download/168057/1180894?version=13"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/cinnamon-hotels-resorts",
+    "_info": {
+      "id": 168057
+    }
+  },
+  {
+    "title": "Colbert Collection",
+    "code": "CL",
+    "logoSvg": {
+      "uri": "/content/download/294887/1879879?version=5"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/colbert-collection",
+    "_info": {
+      "id": 294887
+    }
+  },
+  {
+    "title": "Corinthia Hotels",
+    "code": "CO",
+    "logoSvg": {
+      "uri": "/content/download/160/728?version=38"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/corinthia-hotels",
+    "_info": {
+      "id": 160
+    }
+  },
+  {
+    "title": "Divani Collection Hotels",
+    "code": "DI",
+    "logoSvg": {
+      "uri": "/content/download/615/2838?version=30"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/divani-collection-hotels",
+    "_info": {
+      "id": 615
+    }
+  },
+  {
+    "title": "The Doyle Collection",
+    "code": "JD",
+    "logoSvg": {
+      "uri": "/content/download/200/904?version=15"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/doyle-collection",
+    "_info": {
+      "id": 200
+    }
+  },
+  {
+    "title": "Edge by Rotana",
+    "code": "ED",
+    "logoSvg": {
+      "uri": "/content/download/226212/1505983?version=14"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/edge-by-rotana",
+    "_info": {
+      "id": 226212
+    }
+  },
+  {
+    "title": "Elewana Collection",
+    "code": "EL",
+    "logoSvg": {
+      "uri": "/content/download/455/2072?version=18"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/elewana",
+    "_info": {
+      "id": 455
+    }
+  },
+  {
+    "title": "iclub Hotels",
+    "code": "IB",
+    "logoSvg": {
+      "uri": "/content/download/227758/1519089?version=21"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/iclub-hotels",
+    "_info": {
+      "id": 227758
+    }
+  },
+  {
+    "title": "iStay Hotels",
+    "code": "IS",
+    "logoSvg": {
+      "uri": "/content/download/279658/1756469?version=22"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/istay-hotels",
+    "_info": {
+      "id": 279658
+    }
+  },
+  {
+    "title": "JA Resorts & Hotels",
+    "code": "JA",
+    "logoSvg": {
+      "uri": "/content/download/110/494?version=27"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/ja-resorts-hotels",
+    "_info": {
+      "id": 110
+    }
+  },
+  {
+    "title": "Kempinski Hotels",
+    "code": "KI",
+    "logoSvg": {
+      "uri": "/content/download/518/2348?version=42"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/kempinski",
+    "_info": {
+      "id": 518
+    }
+  },
+  {
+    "title": "Lanson Place",
+    "code": "LP",
+    "logoSvg": {
+      "uri": "/content/download/220128/1474957?version=47"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/lanson-place",
+    "_info": {
+      "id": 220128
+    }
+  },
+  {
+    "title": "The Leela Palaces, Hotels and Resorts",
+    "code": "LE",
+    "logoSvg": {
+      "uri": "/content/download/664/3114?version=38"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/leela",
+    "_info": {
+      "id": 664
+    }
+  },
+  {
+    "title": "Lore Group",
+    "code": "LO",
+    "logoSvg": {
+      "uri": "/content/download/147827/996422?version=41"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/lore-group",
+    "_info": {
+      "id": 147827
+    }
+  },
+  {
+    "title": "Lungarno Collection",
+    "code": "LG",
+    "logoSvg": {
+      "uri": "/content/download/144/652?version=20"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/lungarno-collection",
+    "_info": {
+      "id": 144
+    }
+  },
+  {
+    "title": "Maqo",
+    "code": "MQ",
+    "logoSvg": {
+      "uri": "/content/download/141295/942541?version=30"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/maqo",
+    "_info": {
+      "id": 141295
+    }
+  },
+  {
+    "title": "Marco Polo Hotels",
+    "code": "MH",
+    "logoSvg": {
+      "uri": "/content/download/487/2196?version=14"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/marco-polo",
+    "_info": {
+      "id": 487
+    }
+  },
+  {
+    "title": "Minor Hotels",
+    "code": "MR",
+    "logoSvg": {
+      "uri": "/content/download/242473/1579957?version=25"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/minor-hotels",
+    "_info": {
+      "id": 242473
+    }
+  },
+  {
+    "title": "Mysk Hotels",
+    "code": "MY",
+    "logoSvg": {
+      "uri": "/content/download/151/687?version=23"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/mysk-hotels",
+    "_info": {
+      "id": 151
+    }
+  },
+  {
+    "title": "NH Hotels & Resorts",
+    "code": "NH",
+    "logoSvg": {
+      "uri": "/content/download/59407/425625?version=63"
+    },
+    "logoSvg2": {
+      "uri": "/content/download/59407/481893?version=63"
+    },
+    "logoSvg3": {
+      "uri": "/content/download/59407/481895?version=63"
+    },
+    "_url": "/nh-hotels-resorts",
+    "_info": {
+      "id": 59407
+    }
+  },
+  {
+    "title": "Niccolo Hotels",
+    "code": "NI",
+    "logoSvg": {
+      "uri": "/content/download/217/983?version=11"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/niccolo-hotels",
+    "_info": {
+      "id": 217
+    }
+  },
+  {
+    "title": "Nikki Beach Hotels & Resorts",
+    "code": "NB",
+    "logoSvg": {
+      "uri": "/content/download/169/769?version=37"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/nikki-beach-hotels-resorts",
+    "_info": {
+      "id": 169
+    }
+  },
+  {
+    "title": "NUO Hotels",
+    "code": "NU",
+    "logoSvg": {
+      "uri": "/content/download/339/1537?version=12"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/nuo",
+    "_info": {
+      "id": 339
+    }
+  },
+  {
+    "title": "Oaks Hotels, Resorts and Suites",
+    "code": "OA",
+    "logoSvg": {
+      "uri": "/content/download/402/1829?version=25"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/oaks-hotels-resorts-and-suites",
+    "_info": {
+      "id": 402
+    }
+  },
+  {
+    "title": "OUTRIGGER Resorts & Hotels",
+    "code": "OU",
+    "logoSvg": {
+      "uri": "/content/download/135/611?version=30"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/outrigger-resorts-hotels",
+    "_info": {
+      "id": 135
+    }
+  },
+  {
+    "title": "Pan Pacific Hotels and Resorts",
+    "code": "PPHR",
+    "logoSvg": {
+      "uri": "/content/download/128/576?version=28"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/pan-pacific-hotels-and-resorts",
+    "_info": {
+      "id": 128
+    }
+  },
+  {
+    "title": "Paramount Hotels",
+    "code": "PR",
+    "logoSvg": {
+      "uri": "/content/download/167390/1165397?version=12"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/paramount-hotels",
+    "_info": {
+      "id": 167390
+    }
+  },
+  {
+    "title": "PARKROYAL COLLECTION Hotels & Resorts",
+    "code": "PCHR",
+    "logoSvg": {
+      "uri": "/content/download/58258/413901?version=30"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/parkroyal-collection-hotels-resorts",
+    "_info": {
+      "id": 58258
+    }
+  },
+  {
+    "title": "PARKROYAL Hotels & Resorts",
+    "code": "PRHR",
+    "logoSvg": {
+      "uri": "/content/download/299/1339?version=18"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/parkroyal-hotels-resorts",
+    "_info": {
+      "id": 299
+    }
+  },
+  {
+    "title": "Patina Hotels & Resorts",
+    "code": "PA",
+    "logoSvg": {
+      "uri": "/content/download/355/1601?version=35"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/patina-hotels-resorts",
+    "_info": {
+      "id": 355
+    }
+  },
+  {
+    "title": "Rayhaan Hotels & Resorts by Rotana",
+    "code": "RA",
+    "logoSvg": {
+      "uri": "/content/download/226215/1506018?version=14"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/rayhaan-hotels-resorts-by-rotana",
+    "_info": {
+      "id": 226215
+    }
+  },
+  {
+    "title": "Regal Hotels",
+    "code": "RE",
+    "logoSvg": {
+      "uri": "/content/download/226487/1508118?version=16"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/regal-hotels",
+    "_info": {
+      "id": 226487
+    }
+  },
+  {
+    "title": "Rotana Hotels & Resorts",
+    "code": "RO",
+    "logoSvg": {
+      "uri": "/content/download/215005/1440879?version=16"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/rotana-hotels-resorts",
+    "_info": {
+      "id": 215005
+    }
+  },
+  {
+    "title": "SAii Hotels & Resorts",
+    "code": "SA",
+    "logoSvg": {
+      "uri": "/content/download/195895/1330444?version=19"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/saii-hotels-resorts",
+    "_info": {
+      "id": 195895
+    }
+  },
+  {
+    "title": "Shaza Hotels",
+    "code": "SH",
+    "logoSvg": {
+      "uri": "/content/download/571/2590?version=24"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/shaza-hotels",
+    "_info": {
+      "id": 571
+    }
+  },
+  {
+    "title": "STORY Hotels & Resorts",
+    "code": "SO",
+    "logoSvg": {
+      "uri": "/content/download/281313/1772146?version=12"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/story-hotels-resorts",
+    "_info": {
+      "id": 281313
+    }
+  },
+  {
+    "title": "Sun International",
+    "code": "SI",
+    "logoSvg": {
+      "uri": "/content/download/17340/90685?version=31"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/sun-international",
+    "_info": {
+      "id": 17340
+    }
+  },
+  {
+    "title": "Sunway Hotels & Resorts",
+    "code": "SY",
+    "logoSvg": {
+      "uri": "/content/download/164722/1147379?version=20"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/sunway-hotels-resorts",
+    "_info": {
+      "id": 164722
+    }
+  },
+  {
+    "title": "TemptingPlaces Collection",
+    "code": "TP",
+    "logoSvg": {
+      "uri": "/content/download/224804/1498370?version=16"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/temptingplaces-collection",
+    "_info": {
+      "id": 224804
+    }
+  },
+  {
+    "title": "The Marmara Hotels",
+    "code": "MA",
+    "logoSvg": {
+      "uri": "/content/download/290454/1846018?version=12"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/the-marmara-hotels",
+    "_info": {
+      "id": 290454
+    }
+  },
+  {
+    "title": "The Residence by Cenizaro",
+    "code": "CE",
+    "logoSvg": {
+      "uri": "/content/download/471/2134?version=23"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/the-residence-by-cenizaro",
+    "_info": {
+      "id": 471
+    }
+  },
+  {
+    "title": "The Set",
+    "code": "ST",
+    "logoSvg": {
+      "uri": "/content/download/82179/556920?version=36"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/the-set",
+    "_info": {
+      "id": 82179
+    }
+  },
+  {
+    "title": "The Sukhothai Hotels & Resorts",
+    "code": "SU",
+    "logoSvg": {
+      "uri": "/content/download/191/863?version=20"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/the-sukhothai-hotels-resorts",
+    "_info": {
+      "id": 191
+    }
+  },
+  {
+    "title": "Tivoli Hotels and Resorts",
+    "code": "TI",
+    "logoSvg": {
+      "uri": "/content/download/439/2010?version=24"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/tivoli-hotels-and-resorts",
+    "_info": {
+      "id": 439
+    }
+  },
+  {
+    "title": "Ultratravel Collection",
+    "code": "UT",
+    "logoSvg": {
+      "uri": "/content/download/208/942?version=12"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/ultratravel-collection",
+    "_info": {
+      "id": 208
+    }
+  },
+  {
+    "title": "Unike Hoteller",
+    "code": "UN",
+    "logoSvg": {
+      "uri": "/content/download/159433/1106286?version=15"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/unike-hoteller",
+    "_info": {
+      "id": 159433
+    }
+  },
+  {
+    "title": "Verdi Hotels",
+    "code": "VE",
+    "logoSvg": {
+      "uri": "/content/download/152328/1038809?version=24"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/verdi-hotels",
+    "_info": {
+      "id": 152328
+    }
+  },
+  {
+    "title": "Viceroy Hotels and Resorts",
+    "code": "VI",
+    "logoSvg": {
+      "uri": "/content/download/370/1676?version=26"
+    },
+    "logoSvg2": {
+      "uri": null
+    },
+    "logoSvg3": {
+      "uri": null
+    },
+    "_url": "/viceroy",
+    "_info": {
+      "id": 370
+    }
+  }
+]

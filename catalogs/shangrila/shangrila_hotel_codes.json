@@ -1,0 +1,844 @@
+{
+  "shang_phnompenh_shangrila": {
+    "name": "Shangri-La Phnom Penh",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "code": "KHPNH001",
+    "url": "https://www.shangri-la.com/en/phnompenh/shangrila/"
+  },
+  "shang_baotou_shangrila": {
+    "name": "Shangri-La Baotou",
+    "city": "Baotou",
+    "country": "China",
+    "code": "SLBT",
+    "url": "https://www.shangri-la.com/en/baotou/shangrila/"
+  },
+  "shang_beihai_shangrila": {
+    "name": "Shangri-La Beihai",
+    "city": "Beihai",
+    "country": "China",
+    "code": "SBHI",
+    "url": "https://www.shangri-la.com/en/beihai/shangrila/"
+  },
+  "shang_beijing_chinaworld": {
+    "name": "China World Hotel, Beijing, A Shangri-La Hotel",
+    "city": "Beijing",
+    "country": "China",
+    "code": "CWH",
+    "url": "https://www.shangri-la.com/en/beijing/chinaworld/"
+  },
+  "shang_beijing_kerry": {
+    "name": "Kerry Hotel, Beijing",
+    "city": "Beijing",
+    "country": "China",
+    "code": "HBKC",
+    "url": "https://www.shangri-la.com/en/beijing/kerry/"
+  },
+  "shang_beijing_chinaworldsummitwing": {
+    "name": "China World Summit Wing, Beijing, A Shangri-La Hotel",
+    "city": "Beijing",
+    "country": "China",
+    "code": "CWSW",
+    "url": "https://www.shangri-la.com/en/beijing/chinaworldsummitwing/"
+  },
+  "shang_beijing_shangrilashougangpark": {
+    "name": "Shangri-La Shougang Park, Beijing",
+    "city": "Beijing",
+    "country": "China",
+    "code": "CNBJS007",
+    "url": "https://www.shangri-la.com/en/beijing/shangrilashougangpark/"
+  },
+  "shang_beijing_shangrila": {
+    "name": "Shangri-La Beijing",
+    "city": "Beijing",
+    "country": "China",
+    "code": "SLB",
+    "url": "https://www.shangri-la.com/en/beijing/shangrila/"
+  },
+  "shang_changchun_shangrila": {
+    "name": "Shangri-La Changchun",
+    "city": "Changchun",
+    "country": "China",
+    "code": "SLCC",
+    "url": "https://www.shangri-la.com/en/changchun/shangrila/"
+  },
+  "shang_chengdu_shangrila": {
+    "name": "Shangri-La Chengdu",
+    "city": "Chengdu",
+    "country": "China",
+    "code": "SLCD",
+    "url": "https://www.shangri-la.com/en/chengdu/shangrila/"
+  },
+  "shang_dalian_shangrila": {
+    "name": "Shangri-La Dalian",
+    "city": "Dalian",
+    "country": "China",
+    "code": "SLDA",
+    "url": "https://www.shangri-la.com/en/dalian/shangrila/"
+  },
+  "shang_fuzhou_shangrila": {
+    "name": "Shangri-La Fuzhou",
+    "city": "Fuzhou",
+    "country": "China",
+    "code": "SLFZ",
+    "url": "https://www.shangri-la.com/en/fuzhou/shangrila/"
+  },
+  "shang_guangzhou_shangrila": {
+    "name": "Shangri-La Guangzhou",
+    "city": "Guangzhou",
+    "country": "China",
+    "code": "SLPG",
+    "url": "https://www.shangri-la.com/en/guangzhou/shangrila/"
+  },
+  "shang_guilin_shangrila": {
+    "name": "Shangri-La Guilin",
+    "city": "Guilin",
+    "country": "China",
+    "code": "SLGL",
+    "url": "https://www.shangri-la.com/en/guilin/shangrila/"
+  },
+  "shang_hangzhou_shangrila": {
+    "name": "Shangri-La Hangzhou",
+    "city": "Hangzhou",
+    "country": "China",
+    "code": "SLH",
+    "url": "https://www.shangri-la.com/en/hangzhou/shangrila/"
+  },
+  "shang_hangzhou_midtownshangrila": {
+    "name": "Midtown Shangri-La, Hangzhou",
+    "city": "Hangzhou",
+    "country": "China",
+    "code": "SHHZ",
+    "url": "https://www.shangri-la.com/en/hangzhou/midtownshangrila/"
+  },
+  "shang_harbin_shangrila": {
+    "name": "Shangri-La Harbin",
+    "city": "Harbin",
+    "country": "China",
+    "code": "SHAR",
+    "url": "https://www.shangri-la.com/en/harbin/shangrila/"
+  },
+  "shang_harbin_songbeishangrila": {
+    "name": "Shangri-La Songbei, Harbin",
+    "city": "Harbin",
+    "country": "China",
+    "code": "SHAS",
+    "url": "https://www.shangri-la.com/en/harbin/songbeishangrila/"
+  },
+  "shang_hefei_shangrila": {
+    "name": "Shangri-La Hefei",
+    "city": "Hefei",
+    "country": "China",
+    "code": "SLHF",
+    "url": "https://www.shangri-la.com/en/hefei/shangrila/"
+  },
+  "shang_huhhot_shangrila": {
+    "name": "Shangri-La Huhhot",
+    "city": "Huhhot",
+    "country": "China",
+    "code": "SLHH",
+    "url": "https://www.shangri-la.com/en/huhhot/shangrila/"
+  },
+  "shang_jinan_shangrila": {
+    "name": "Shangri-La Jinan",
+    "city": "Jinan",
+    "country": "China",
+    "code": "SLJI",
+    "url": "https://www.shangri-la.com/en/jinan/shangrila/"
+  },
+  "shang_kunming_shangrila": {
+    "name": "Shangri-La Kunming",
+    "city": "Kunming",
+    "country": "China",
+    "code": "CNKMG002",
+    "url": "https://www.shangri-la.com/en/kunming/shangrila/"
+  },
+  "shang_lhasa_shangrila": {
+    "name": "Shangri-La Lhasa",
+    "city": "Lhasa",
+    "country": "China",
+    "code": "SLLS",
+    "url": "https://www.shangri-la.com/en/lhasa/shangrila/"
+  },
+  "shang_manzhouli_shangrila": {
+    "name": "Shangri-La Manzhouli",
+    "city": "Manzhouli",
+    "country": "China",
+    "code": "SLMZ",
+    "url": "https://www.shangri-la.com/en/manzhouli/shangrila/"
+  },
+  "shang_nanchang_shangrila": {
+    "name": "Shangri-La Nanchang",
+    "city": "Nanchang",
+    "country": "China",
+    "code": "SLNC",
+    "url": "https://www.shangri-la.com/en/nanchang/shangrila/"
+  },
+  "shang_nanjing_shangrila": {
+    "name": "Shangri-La Nanjing",
+    "city": "Nanjing",
+    "country": "China",
+    "code": "SLNJ",
+    "url": "https://www.shangri-la.com/en/nanjing/shangrila/"
+  },
+  "shang_nanning_shangrila": {
+    "name": "Shangri-La Nanning",
+    "city": "Nanning",
+    "country": "China",
+    "code": "CNNNG001",
+    "url": "https://www.shangri-la.com/en/nanning/shangrila/"
+  },
+  "shang_ningbo_shangrila": {
+    "name": "Shangri-La Ningbo",
+    "city": "Ningbo",
+    "country": "China",
+    "code": "SLNB",
+    "url": "https://www.shangri-la.com/en/ningbo/shangrila/"
+  },
+  "shang_putian_shangrila": {
+    "name": "Shangri-La Putian",
+    "city": "Putian",
+    "country": "China",
+    "code": "CNJJN001",
+    "url": "https://www.shangri-la.com/en/putian/shangrila/"
+  },
+  "shang_qingdao_shangrila": {
+    "name": "Shangri-La Qingdao",
+    "city": "Qingdao",
+    "country": "China",
+    "code": "SLQ",
+    "url": "https://www.shangri-la.com/en/qingdao/shangrila/"
+  },
+  "shang_qinhuangdao_shangrila": {
+    "name": "Shangri-La Qinhuangdao",
+    "city": "Qinhuangdao",
+    "country": "China",
+    "code": "SLQH",
+    "url": "https://www.shangri-la.com/en/qinhuangdao/shangrila/"
+  },
+  "shang_qufu_shangrila": {
+    "name": "Shangri-La Qufu",
+    "city": "Qufu",
+    "country": "China",
+    "code": "SLQF",
+    "url": "https://www.shangri-la.com/en/qufu/shangrila/"
+  },
+  "shang_sanya_shangrilasanya": {
+    "name": "Shangri-La Sanya",
+    "city": "Sanya",
+    "country": "China",
+    "code": "SLHN",
+    "url": "https://www.shangri-la.com/en/sanya/shangrilasanya/"
+  },
+  "shang_shanghai_jinganshangrila": {
+    "name": "Jing An Shangri-La, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "code": "SLJN",
+    "url": "https://www.shangri-la.com/en/shanghai/jinganshangrila/"
+  },
+  "shang_shanghai_qiantanshangrila": {
+    "name": "Shangri-La Qiantan, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "code": "CNSHA004",
+    "url": "https://www.shangri-la.com/en/shanghai/qiantanshangrila/"
+  },
+  "shang_shanghai_pudongshangrila": {
+    "name": "Pudong Shangri-La, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "code": "SLPU",
+    "url": "https://www.shangri-la.com/en/shanghai/pudongshangrila/"
+  },
+  "shang_shanghai_kerryhotelpudong": {
+    "name": "Kerry Hotel Pudong, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "code": "KHPU",
+    "url": "https://www.shangri-la.com/en/shanghai/kerryhotelpudong/"
+  },
+  "shang_shenyang_shangrila": {
+    "name": "Shangri-La Shenyang",
+    "city": "Shenyang",
+    "country": "China",
+    "code": "SLSH",
+    "url": "https://www.shangri-la.com/en/shenyang/shangrila/"
+  },
+  "shang_shenzhen_shangrila": {
+    "name": "Shangri-La Shenzhen",
+    "city": "Shenzhen",
+    "country": "China",
+    "code": "SLZ",
+    "url": "https://www.shangri-la.com/en/shenzhen/shangrila/"
+  },
+  "shang_shenzhen_futianshangrila": {
+    "name": "Futian Shangri-La, Shenzhen",
+    "city": "Shenzhen",
+    "country": "China",
+    "code": "SLFT",
+    "url": "https://www.shangri-la.com/en/shenzhen/futianshangrila/"
+  },
+  "shang_shenzhen_nanshanshangrila": {
+    "name": "Shangri-La Nanshan, Shenzhen",
+    "city": "Shenzhen",
+    "country": "China",
+    "code": "CNSZX004",
+    "url": "https://www.shangri-la.com/en/shenzhen/nanshanshangrila/"
+  },
+  "shang_suzhou_jinjilakeshangrila": {
+    "name": "Shangri-La Yuanqu, Suzhou",
+    "city": "Suzhou",
+    "country": "China",
+    "code": "CNSZV002",
+    "url": "https://www.shangri-la.com/en/suzhou/jinjilakeshangrila/"
+  },
+  "shang_suzhou_shangrila": {
+    "name": "Shangri-La Suzhou",
+    "city": "Suzhou",
+    "country": "China",
+    "code": "SLSZ",
+    "url": "https://www.shangri-la.com/en/suzhou/shangrila/"
+  },
+  "shang_tangshan_shangrila": {
+    "name": "Shangri-La Tangshan",
+    "city": "Tangshan",
+    "country": "China",
+    "code": "SLTS",
+    "url": "https://www.shangri-la.com/en/tangshan/shangrila/"
+  },
+  "shang_tianjin_shangrila": {
+    "name": "Shangri-La Tianjin",
+    "city": "Tianjin",
+    "country": "China",
+    "code": "SLTJ",
+    "url": "https://www.shangri-la.com/en/tianjin/shangrila/"
+  },
+  "shang_wenzhou_shangrila": {
+    "name": "Shangri-La Wenzhou",
+    "city": "Wenzhou",
+    "country": "China",
+    "code": "SLWZ",
+    "url": "https://www.shangri-la.com/en/wenzhou/shangrila/"
+  },
+  "shang_wuhan_shangrila": {
+    "name": "Shangri-La Wuhan",
+    "city": "Wuhan",
+    "country": "China",
+    "code": "SLWU",
+    "url": "https://www.shangri-la.com/en/wuhan/shangrila/"
+  },
+  "shang_xiamen_shangrila": {
+    "name": "Shangri-La Xiamen",
+    "city": "Xiamen",
+    "country": "China",
+    "code": "SLXM",
+    "url": "https://www.shangri-la.com/en/xiamen/shangrila/"
+  },
+  "shang_xian_shangrila": {
+    "name": "Shangri-La Xian",
+    "city": "Xian",
+    "country": "China",
+    "code": "SLXN",
+    "url": "https://www.shangri-la.com/en/xian/shangrila/"
+  },
+  "shang_yangzhou_shangrila": {
+    "name": "Shangri-La Yangzhou",
+    "city": "Yangzhou",
+    "country": "China",
+    "code": "SLYZ",
+    "url": "https://www.shangri-la.com/en/yangzhou/shangrila/"
+  },
+  "shang_yiwu_shangrila": {
+    "name": "Shangri-La Yiwu",
+    "city": "Yiwu",
+    "country": "China",
+    "code": "SLYW",
+    "url": "https://www.shangri-la.com/en/yiwu/shangrila/"
+  },
+  "shang_yunnan_shangrila": {
+    "name": "Shangri-La Resort, Shangri-La",
+    "city": "Yunnan",
+    "country": "China",
+    "code": "SLDQ",
+    "url": "https://www.shangri-la.com/en/yunnan/shangrila/"
+  },
+  "shang_zhoushan_shangrila": {
+    "name": "Shangri-La Zhoushan",
+    "city": "Zhoushan",
+    "country": "China",
+    "code": "CNHSN001",
+    "url": "https://www.shangri-la.com/en/zhoushan/shangrila/"
+  },
+  "shang_hongkong_kowloonshangrila": {
+    "name": "Kowloon Shangri-La, Hong Kong",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "code": "KSL",
+    "url": "https://www.shangri-la.com/en/hongkong/kowloonshangrila/"
+  },
+  "shang_hongkong_kerry": {
+    "name": "Kerry Hotel, Hong Kong",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "code": "KHHK",
+    "url": "https://www.shangri-la.com/en/hongkong/kerry/"
+  },
+  "shang_hongkong_islandshangrila": {
+    "name": "Island Shangri-La, Hong Kong",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "code": "ISL",
+    "url": "https://www.shangri-la.com/en/hongkong/islandshangrila/"
+  },
+  "shang_tainan_fareasternplazashangrila": {
+    "name": "Shangri-La Far Eastern, Tainan",
+    "city": "Tainan",
+    "country": "Taiwan",
+    "code": "SLTN",
+    "url": "https://www.shangri-la.com/en/tainan/fareasternplazashangrila/"
+  },
+  "shang_taipei_fareasternplazashangrila": {
+    "name": "Shangri-La Far Eastern, Taipei",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "code": "TPE",
+    "url": "https://www.shangri-la.com/en/taipei/fareasternplazashangrila/"
+  },
+  "shang_newdelhi_erosshangrila": {
+    "name": "Shangri-La Eros, New Delhi",
+    "city": "New Delhi",
+    "country": "India",
+    "code": "SLND",
+    "url": "https://www.shangri-la.com/en/newdelhi/erosshangrila/"
+  },
+  "shang_jakarta_shangrila": {
+    "name": "Shangri-La Jakarta",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "code": "SLJ",
+    "url": "https://www.shangri-la.com/en/jakarta/shangrila/"
+  },
+  "shang_surabaya_shangrila": {
+    "name": "Shangri-La Surabaya",
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "code": "SUR",
+    "url": "https://www.shangri-la.com/en/surabaya/shangrila/"
+  },
+  "shang_tokyo_shangrila": {
+    "name": "Shangri-La Tokyo",
+    "city": "Tokyo",
+    "country": "Japan",
+    "code": "SLTY",
+    "url": "https://www.shangri-la.com/en/tokyo/shangrila/"
+  },
+  "shang_kotakinabalu_tanjungaruresort": {
+    "name": "Shangri-La Tanjung Aru, Kota Kinabalu",
+    "city": "Kota Kinabalu",
+    "country": "Malaysia",
+    "code": "TAH",
+    "url": "https://www.shangri-la.com/en/kotakinabalu/tanjungaruresort/"
+  },
+  "shang_kotakinabalu_rasariaresort": {
+    "name": "Shangri-La Rasa Ria, Kota Kinabalu",
+    "city": "Kota Kinabalu",
+    "country": "Malaysia",
+    "code": "RRR",
+    "url": "https://www.shangri-la.com/en/kotakinabalu/rasariaresort/"
+  },
+  "shang_kualalumpur_traders": {
+    "name": "Traders Hotel, Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "code": "THKL",
+    "url": "https://www.shangri-la.com/en/kualalumpur/traders/"
+  },
+  "shang_kualalumpur_shangrila": {
+    "name": "Shangri-La Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "code": "SLKL",
+    "url": "https://www.shangri-la.com/en/kualalumpur/shangrila/"
+  },
+  "shang_penang_goldensandsresort": {
+    "name": "Shangri-La Golden Sands, Penang",
+    "city": "Penang",
+    "country": "Malaysia",
+    "code": "GSH",
+    "url": "https://www.shangri-la.com/en/penang/goldensandsresort/"
+  },
+  "shang_penang_rasasayangresort": {
+    "name": "Shangri-La Rasa Sayang, Penang",
+    "city": "Penang",
+    "country": "Malaysia",
+    "code": "RSR",
+    "url": "https://www.shangri-la.com/en/penang/rasasayangresort/"
+  },
+  "shang_ulaanbaatar_shangrila": {
+    "name": "Shangri-La Ulaanbaatar",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "code": "SLUB",
+    "url": "https://www.shangri-la.com/en/ulaanbaatar/shangrila/"
+  },
+  "shang_boracay_boracayresort": {
+    "name": "Shangri-La Boracay",
+    "city": "Boracay",
+    "country": "Philippines",
+    "code": "SLBO",
+    "url": "https://www.shangri-la.com/en/boracay/boracayresort/"
+  },
+  "shang_cebu_mactanresort": {
+    "name": "Shangri-La Mactan, Cebu",
+    "city": "Cebu",
+    "country": "Philippines",
+    "code": "MAC",
+    "url": "https://www.shangri-la.com/en/cebu/mactanresort/"
+  },
+  "shang_manila_edsashangrila": {
+    "name": "Edsa Shangri-La, Manila",
+    "city": "Manila",
+    "country": "Philippines",
+    "code": "ESL",
+    "url": "https://www.shangri-la.com/en/manila/edsashangrila/"
+  },
+  "shang_manila_shangrilaatthefort": {
+    "name": "Shangri-La The Fort, Manila",
+    "city": "Manila",
+    "country": "Philippines",
+    "code": "SLFM",
+    "url": "https://www.shangri-la.com/en/manila/shangrilaatthefort/"
+  },
+  "shang_manila_makatishangrila": {
+    "name": "Makati Shangri-La, Manila",
+    "city": "Manila",
+    "country": "Philippines",
+    "code": "SLM",
+    "url": "https://www.shangri-la.com/en/manila/makatishangrila/"
+  },
+  "shang_singapore_rasasentosaresort": {
+    "name": "Shangri-La Rasa Sentosa, Singapore",
+    "city": "Singapore",
+    "country": "Singapore",
+    "code": "SEN",
+    "url": "https://www.shangri-la.com/en/singapore/rasasentosaresort/"
+  },
+  "shang_singapore_shangrila": {
+    "name": "Shangri-La Singapore",
+    "city": "Singapore",
+    "country": "Singapore",
+    "code": "SLS",
+    "url": "https://www.shangri-la.com/en/singapore/shangrila/"
+  },
+  "shang_colombo_shangrila": {
+    "name": "Shangri-La Colombo",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "code": "SLCB",
+    "url": "https://www.shangri-la.com/en/colombo/shangrila/"
+  },
+  "shang_hambantota_shangrila": {
+    "name": "Shangri-La Hambantota",
+    "city": "Hambantota",
+    "country": "Sri Lanka",
+    "code": "SLHT",
+    "url": "https://www.shangri-la.com/en/hambantota/shangrila/"
+  },
+  "shang_bangkok_shangrila": {
+    "name": "Shangri-La Bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "code": "SLBK",
+    "url": "https://www.shangri-la.com/en/bangkok/shangrila/"
+  },
+  "shang_chiangmai_shangrila": {
+    "name": "Shangri-La Chiang Mai",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "code": "SLCM",
+    "url": "https://www.shangri-la.com/en/chiangmai/shangrila/"
+  },
+  "shang_jeddah_shangrila": {
+    "name": "Shangri-La Jeddah",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "code": "SAJED001",
+    "url": "https://www.shangri-la.com/en/jeddah/shangrila/"
+  },
+  "shang_abudhabi_traders": {
+    "name": "Traders Hotel, Qaryat Al Beri, Abu Dhabi",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "code": "THAD",
+    "url": "https://www.shangri-la.com/en/abudhabi/traders/"
+  },
+  "shang_abudhabi_shangrila": {
+    "name": "Shangri-La Qaryat Al Beri, Abu Dhabi",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "code": "SLAD",
+    "url": "https://www.shangri-la.com/en/abudhabi/shangrila/"
+  },
+  "shang_dubai_shangrila": {
+    "name": "Shangri-La Dubai",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "code": "SLDB",
+    "url": "https://www.shangri-la.com/en/dubai/shangrila/"
+  },
+  "shang_paris_shangrila": {
+    "name": "Shangri-La Paris",
+    "city": "Paris",
+    "country": "France",
+    "code": "SLPR",
+    "url": "https://www.shangri-la.com/en/paris/shangrila/"
+  },
+  "shang_istanbul_shangrila": {
+    "name": "Shangri-La Bosphorus, Istanbul",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "code": "SLIB",
+    "url": "https://www.shangri-la.com/en/istanbul/shangrila/"
+  },
+  "shang_london_shangrila": {
+    "name": "Shangri-La The Shard, London",
+    "city": "London",
+    "country": "United Kingdom",
+    "code": "SLLN",
+    "url": "https://www.shangri-la.com/en/london/shangrila/"
+  },
+  "shang_toronto_shangrila": {
+    "name": "Shangri-La Toronto",
+    "city": "Toronto",
+    "country": "Canada",
+    "code": "SLTO",
+    "url": "https://www.shangri-la.com/en/toronto/shangrila/"
+  },
+  "shang_cairns_shangrila": {
+    "name": "Shangri-La The Marina, Cairns",
+    "city": "Cairns",
+    "country": "Australia",
+    "code": "SLMC",
+    "url": "https://www.shangri-la.com/en/cairns/shangrila/"
+  },
+  "shang_sydney_shangrila": {
+    "name": "Shangri-La Sydney",
+    "city": "Sydney",
+    "country": "Australia",
+    "code": "SLSN",
+    "url": "https://www.shangri-la.com/en/sydney/shangrila/"
+  },
+  "shang_yanucaisland_fijianresort": {
+    "name": "Shangri-La Yanuca Island, Fiji",
+    "city": "Yanuca Island",
+    "country": "Fiji",
+    "code": "FIJ",
+    "url": "https://www.shangri-la.com/en/yanucaisland/fijianresort/"
+  },
+  "shang_mauritius_shangrila": {
+    "name": "Shangri-La Le Touessrok, Mauritius",
+    "city": "Trou d'Eau Douce",
+    "country": "Mauritius",
+    "code": "SLTR",
+    "url": "https://www.shangri-la.com/en/mauritius/shangrila/"
+  },
+  "shang_jen_beijing_by_shangri_la": {
+    "name": "JEN Beijing by Shangri-La",
+    "code": "CWTC",
+    "url": "https://www.hoteljen.com/en/beijing/centraldistrict",
+    "brand": "JEN by Shangri-La",
+    "city": "Beijing",
+    "country": "China",
+    "currency": "CNY",
+    "city_slug": "beijing",
+    "brand_slug": "hoteljen"
+  },
+  "shang_the_silk_lakehouse_shangri_la_hangzhou": {
+    "name": "The Silk Lakehouse, Shangri-La Hangzhou",
+    "code": "CNHGH004",
+    "url": "https://www.shangri-la.com/en/hangzhou/shangrila/thesilklakehouse/?hotelCode=CNHGH004&hotel=The%20Silk%20Lakehouse%2C%20Shangri-La%20Hangzhou&city=Hangzhou&cityEn=Hangzhou",
+    "brand": "Shangri-La",
+    "city": "Hangzhou",
+    "country": "China",
+    "currency": "CNY",
+    "city_slug": "hangzhou",
+    "brand_slug": "shangrila"
+  },
+  "shang_jen_hangzhou_by_shangri_la": {
+    "name": "JEN Hangzhou by Shangri-La",
+    "code": "CNHGH003",
+    "url": "https://www.hoteljen.com/en/hangzhou/gongshudistrict",
+    "brand": "JEN by Shangri-La",
+    "city": "Hangzhou",
+    "country": "China",
+    "currency": "CNY",
+    "city_slug": "hangzhou",
+    "brand_slug": "hoteljen"
+  },
+  "shang_jen_kunming_by_shangri_la": {
+    "name": "JEN Kunming by Shangri-La",
+    "code": "CNKMG001",
+    "url": "https://www.hoteljen.com/en/kunming/panlongdistrict",
+    "brand": "JEN by Shangri-La",
+    "city": "Kunming",
+    "country": "China",
+    "currency": "CNY",
+    "city_slug": "kunming",
+    "brand_slug": "hoteljen"
+  },
+  "shang_traders_hongqiao_airport_shanghai": {
+    "name": "Traders Hongqiao Airport, Shanghai",
+    "code": "CNSHA007",
+    "url": "https://www.shangri-la.com/en/shanghai/tradershongqiaoairport/",
+    "brand": "Traders Hotels",
+    "city": "Shanghai",
+    "country": "China",
+    "currency": "CNY",
+    "city_slug": "shanghai",
+    "brand_slug": "traders"
+  },
+  "shang_shangri_la_hongqiao_airport_shanghai": {
+    "name": "Shangri-La Hongqiao Airport, Shanghai",
+    "code": "CNSHA005",
+    "url": "https://www.shangri-la.com/en/shanghai/shangrilahongqiaoairport/",
+    "brand": "Shangri-La",
+    "city": "Shanghai",
+    "country": "China",
+    "currency": "CNY",
+    "city_slug": "shanghai",
+    "brand_slug": "shangrila"
+  },
+  "shang_jen_shenyang_by_shangri_la": {
+    "name": "JEN Shenyang by Shangri-La",
+    "code": "TSHY",
+    "url": "https://www.hoteljen.com/en/shenyang/hepingdistrict",
+    "brand": "JEN by Shangri-La",
+    "city": "Shenyang",
+    "country": "China",
+    "currency": "CNY",
+    "city_slug": "shenyang",
+    "brand_slug": "hoteljen"
+  },
+  "shang_jen_shenzhen_qianhai_by_shangri_la": {
+    "name": "JEN Shenzhen Qianhai by Shangri-La",
+    "code": "CNSZX003",
+    "url": "https://www.hoteljen.com/en/shenzhen/qianhai",
+    "brand": "JEN by Shangri-La",
+    "city": "Shenzhen",
+    "country": "China",
+    "currency": "CNY",
+    "city_slug": "shenzhen",
+    "brand_slug": "hoteljen"
+  },
+  "shang_jen_hong_kong_by_shangri_la": {
+    "name": "JEN Hong Kong by Shangri-La",
+    "code": "THHK",
+    "url": "https://www.hoteljen.com/en/hongkong/westerndistrict",
+    "brand": "JEN by Shangri-La",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "currency": "HKD",
+    "city_slug": "hongkong",
+    "brand_slug": "hoteljen"
+  },
+  "shang_shangri_la_residences_jakarta": {
+    "name": "Shangri-La Residences, Jakarta",
+    "code": "SLJR",
+    "url": "https://www.shangri-la.com/en/jakarta/shangrilaresidences/",
+    "brand": "Shangri-La",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "city_slug": "jakarta",
+    "brand_slug": "shangrila"
+  },
+  "shang_jen_penang_georgetown_by_shangri_la": {
+    "name": "JEN Penang Georgetown by Shangri-La",
+    "code": "THP",
+    "url": "https://www.hoteljen.com/en/penang/georgetown",
+    "brand": "JEN by Shangri-La",
+    "city": "Penang",
+    "country": "Malaysia",
+    "currency": "MYR",
+    "city_slug": "penang",
+    "brand_slug": "hoteljen"
+  },
+  "shang_shangri_la_villingili_maldives": {
+    "name": "Shangri-La Villingili, Maldives",
+    "code": "SLMD",
+    "url": "https://www.shangri-la.com/en/male/villingiliresort/",
+    "brand": "Shangri-La",
+    "city": "Male",
+    "country": "Maldives",
+    "currency": "USD",
+    "city_slug": "male",
+    "brand_slug": "shangrila"
+  },
+  "shang_jen_maldives_mal_by_shangri_la": {
+    "name": "JEN Maldives Mal\u00e9 by Shangri-La",
+    "code": "THMD",
+    "url": "https://www.hoteljen.com/en/male/maldives",
+    "brand": "JEN by Shangri-La",
+    "city": "Male",
+    "country": "Maldives",
+    "currency": "USD",
+    "city_slug": "male",
+    "brand_slug": "hoteljen"
+  },
+  "shang_shangri_la_serviced_apartments_yangon": {
+    "name": "Shangri-La Serviced Apartments Yangon",
+    "code": "SLYR",
+    "url": "https://www.shangri-la.com/en/yangon/shangrilaservicedapartments/",
+    "brand": "Shangri-La",
+    "city": "Yangon",
+    "country": "Myanmar",
+    "currency": "USD",
+    "city_slug": "yangon",
+    "brand_slug": "shangrila"
+  },
+  "shang_sule_shangri_la_yangon": {
+    "name": "Sule Shangri-La, Yangon",
+    "code": "SLMY",
+    "url": "https://www.shangri-la.com/en/yangon/suleshangrila/",
+    "brand": "Shangri-La",
+    "city": "Yangon",
+    "country": "Myanmar",
+    "currency": "USD",
+    "city_slug": "yangon",
+    "brand_slug": "shangrila"
+  },
+  "shang_jen_singapore_orchardgateway_by_shangri_la": {
+    "name": "JEN Singapore Orchardgateway by Shangri-La",
+    "code": "THOG",
+    "url": "https://www.hoteljen.com/en/singapore/orchardgateway",
+    "brand": "JEN by Shangri-La",
+    "city": "Singapore",
+    "country": "Singapore",
+    "currency": "SGD",
+    "city_slug": "singapore",
+    "brand_slug": "hoteljen"
+  },
+  "shang_shangri_la_apartments_residences_singapore": {
+    "name": "Shangri-La Apartments & Residences, Singapore",
+    "code": "SSAR",
+    "url": "https://www.shangri-la.com/en/singapore/shangrilaapartment/",
+    "brand": "Shangri-La",
+    "city": "Singapore",
+    "country": "Singapore",
+    "currency": "SGD",
+    "city_slug": "singapore",
+    "brand_slug": "shangrila"
+  },
+  "shang_jen_singapore_tanglin_by_shangri_la": {
+    "name": "JEN Singapore Tanglin by Shangri-La",
+    "code": "THS",
+    "url": "https://www.hoteljen.com/en/singapore/tanglin",
+    "brand": "JEN by Shangri-La",
+    "city": "Singapore",
+    "country": "Singapore",
+    "currency": "SGD",
+    "city_slug": "singapore",
+    "brand_slug": "hoteljen"
+  }
+}

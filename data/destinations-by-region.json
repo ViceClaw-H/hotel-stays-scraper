@@ -1,0 +1,98 @@
+{
+  "page": {
+    "_info": {
+      "id": 65106
+    },
+    "noindex": false,
+    "name": "Destinations by Region",
+    "description": "Destinations by Region",
+    "tierVisibility": [],
+    "canonicalUrl": "",
+    "metaTitle": "Explore Destinations by Region - GHA DISCOVERY Loyalty Programme",
+    "metaKeywords": "",
+    "metaDescription": "Explore more than 1,000 hotels around the globe by regional destinations. Book hotels in Asia, Europe, Africa, Middle East, North America, and more.",
+    "page": {
+      "layout": "default",
+      "zones": [
+        {
+          "name": "default",
+          "id": 49915,
+          "blocks": [
+            {
+              "__typename": "ArticleBlockPageBlock",
+              "_properties": {
+                "id": "385045",
+                "view": "image_right",
+                "since": null,
+                "till": null
+              },
+              "header": "GHA DISCOVERY Regions",
+              "text": {
+                "html5": "<h3>Enjoy our destinations</h3>\n"
+              },
+              "buttonColor": "primary",
+              "button": null,
+              "backgroundColor": "bg-gradient-ivory",
+              "images": [
+                {
+                  "content": {
+                    "image": {
+                      "uri": "/var/site/storage/images/9/9/8/6/486899-1-eng-GB/3fbda90661fb-Hero.jpg",
+                      "alternativeText": "Hero.jpg"
+                    },
+                    "priority": 0
+                  }
+                }
+              ],
+              "items": [],
+              "anchorText": null,
+              "appleIcon": null,
+              "appleIconLink": null,
+              "androidIcon": null,
+              "androidIconLink": null
+            },
+            {
+              "__typename": "GhaRichtextPageBlock",
+              "_properties": {
+                "id": "385046",
+                "view": "default",
+                "since": null,
+                "till": null
+              },
+              "text": {
+                "html5": "<h3>Select your destination</h3><p>GHA DISCOVERY is a hotel loyalty programme built for the modern global explorer. We believe that the best travel experiences come from true immersion in a destination and we offer recognition across 55&nbsp;independent luxury hotel brands &ndash; all with their own unique character &ndash; and 1,000&nbsp;hotels spread around the globe.</p>\n"
+              },
+              "width": "",
+              "backgroundColor": "bg-gradient-ivory",
+              "anchorText": null
+            },
+            {
+              "__typename": "CardListPageBlock",
+              "_properties": {
+                "id": "385047",
+                "view": "default",
+                "since": null,
+                "till": null
+              },
+              "title": null,
+              "image": null,
+              "backgroundColor": "",
+              "contentId": {
+                "_location": {
+                  "id": 62791
+                }
+              },
+              "anchorText": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "landing_page",
+    "contentPreview": false,
+    "timeStamp": null
+  },
+  "subHeaderNavItems": [],
+  "subHeaderExplore": "",
+  "isSubHeaderNavThin": false
+}

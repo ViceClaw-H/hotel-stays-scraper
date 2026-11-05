@@ -1,0 +1,15 @@
+{
+  "_comment": "Hand-assembled TEST FIXTURE from values observed live in a real Chrome on 2026-11-02 (Hotelchamp IBE). Not scraper output. Calendar: Swiss-Belhotel Ambon, 2 days. Tax answers: Ambon (IDR), The York Sydney (AUD), Nairobi Safari Club (USD). Dates are rewritten by the tests.",
+  "currency_idr": {"id": "9c99a727-d9fc-45c2-ba7f-ef4b3a73721c", "label": "IDR", "symbol": "Rp", "code": "IDR"},
+  "currency_aud": {"label": "AUD", "symbol": "$", "code": "AUD"},
+  "calendar_ambon": {
+    "2026-11-03": {"min_rate": 591736, "min_los": 1, "cta": false, "ctd": false},
+    "2026-11-04": {"min_rate": 674380, "min_los": 1, "cta": false, "ctd": false}
+  },
+  "taxes_excluded_idr": {"included": [], "excluded": [
+    {"name": "service-charge", "name_translations": {"en-US": "Service Charge", "id-ID": "Biaya layanan"}, "cost": 75165.3},
+    {"name": "vat", "name_translations": {"en-US": "VAT", "id-ID": "PPN"}, "cost": 82681.83000000002}], "to_be_paid_later": []},
+  "taxes_included_gst": {"included": [{"name": "gst", "cost": 46.18181818181817}], "excluded": [], "to_be_paid_later": []},
+  "taxes_excluded_usd": {"included": [], "excluded": [
+    {"name": "vat", "cost": 10.88}, {"name": "service-charge", "cost": 6.800000000000001}, {"name": "catering-levy", "cost": 1.36}], "to_be_paid_later": []}
+}

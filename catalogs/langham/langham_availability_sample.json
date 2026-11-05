@@ -1,0 +1,4500 @@
+{
+  "data": {
+    "availability": {
+      "validPromoCode": true,
+      "currency": "IDR",
+      "usedGroupCode": false,
+      "paymentGateway": "",
+      "vendorMessages": [],
+      "roomRates": [
+        {
+          "room": {
+            "code": "DK1",
+            "name": "King Bed",
+            "maxOccupancy": 4,
+            "remainingCount": 14
+          },
+          "rates": [
+            {
+              "code": "RFLXLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 98697,
+                "beforeTaxTotal": 81568,
+                "taxAndFeeTotal": 17129,
+                "afterTaxAverage": 98697,
+                "beforeTaxAverage": 81568,
+                "feeTotal": 0,
+                "taxTotal": 17129
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 81568,
+                    "tax": 17129,
+                    "fee": 0,
+                    "afterTax": 98697,
+                    "total": 98697
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "APLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 88827,
+                "beforeTaxTotal": 73411,
+                "taxAndFeeTotal": 15416,
+                "afterTaxAverage": 88827,
+                "beforeTaxAverage": 73411,
+                "feeTotal": 0,
+                "taxTotal": 15416
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 73411,
+                    "tax": 15416,
+                    "fee": 0,
+                    "afterTax": 88827,
+                    "total": 88827
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD",
+                  "CUSTOMER_NAME"
+                ],
+                "code": "NR",
+                "description": "ALL points used to redeem the booking will be non-refundable."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "NONR",
+                  "description": "ALL points used to redeem the booking will be non-cancelable."
+                }
+              ]
+            },
+            {
+              "code": "APLMT0",
+              "amounts": {
+                "afterTaxTotal": 3627018.5,
+                "beforeTaxTotal": 2997535.95,
+                "taxAndFeeTotal": 629482.55,
+                "afterTaxAverage": 3627018.5,
+                "beforeTaxAverage": 2997535.95,
+                "feeTotal": 0,
+                "taxTotal": 629482.55
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 2997535.95,
+                    "tax": 629482.55,
+                    "fee": 0,
+                    "afterTax": 3627018.5,
+                    "total": 3627018.5
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 299753.6,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 329728.95,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 3627018.5,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 3627018.5,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "APLCT0",
+              "amounts": {
+                "afterTaxTotal": 3627018.5,
+                "beforeTaxTotal": 2997535.95,
+                "taxAndFeeTotal": 629482.55,
+                "afterTaxAverage": 3627018.5,
+                "beforeTaxAverage": 2997535.95,
+                "feeTotal": 0,
+                "taxTotal": 629482.55
+              },
+              "partialRedemption": {
+                "points": 13325,
+                "cash": 3082965.73,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 544052.77
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 2997535.95,
+                    "tax": 629482.55,
+                    "fee": 0,
+                    "afterTax": 3627018.5,
+                    "total": 3627018.5
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 299753.6,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 329728.95,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 3627018.5,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 3627018.5,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "AP",
+              "amounts": {
+                "afterTaxTotal": 3817914.21,
+                "beforeTaxTotal": 3155301,
+                "taxAndFeeTotal": 662613.21,
+                "afterTaxAverage": 3817914.21,
+                "beforeTaxAverage": 3155301,
+                "feeTotal": 0,
+                "taxTotal": 662613.21
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3155301,
+                    "tax": 662613.21,
+                    "fee": 0,
+                    "afterTax": 3817914.21,
+                    "total": 3817914.21
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 315530.1,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 347083.11,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 3817914.21,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 3817914.21,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLMT0",
+              "amounts": {
+                "afterTaxTotal": 4030020.56,
+                "beforeTaxTotal": 3330595.5,
+                "taxAndFeeTotal": 699425.06,
+                "afterTaxAverage": 4030020.56,
+                "beforeTaxAverage": 3330595.5,
+                "feeTotal": 0,
+                "taxTotal": 699425.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3330595.5,
+                    "tax": 699425.06,
+                    "fee": 0,
+                    "afterTax": 4030020.56,
+                    "total": 4030020.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 333059.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 366365.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4030020.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLCT0",
+              "amounts": {
+                "afterTaxTotal": 4030020.56,
+                "beforeTaxTotal": 3330595.5,
+                "taxAndFeeTotal": 699425.06,
+                "afterTaxAverage": 4030020.56,
+                "beforeTaxAverage": 3330595.5,
+                "feeTotal": 0,
+                "taxTotal": 699425.06
+              },
+              "partialRedemption": {
+                "points": 14805,
+                "cash": 3425517.47,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 604503.09
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3330595.5,
+                    "tax": 699425.06,
+                    "fee": 0,
+                    "afterTax": 4030020.56,
+                    "total": 4030020.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 333059.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 366365.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4030020.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLX",
+              "amounts": {
+                "afterTaxTotal": 4242126.9,
+                "beforeTaxTotal": 3505890,
+                "taxAndFeeTotal": 736236.9,
+                "afterTaxAverage": 4242126.9,
+                "beforeTaxAverage": 3505890,
+                "feeTotal": 0,
+                "taxTotal": 736236.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3505890,
+                    "tax": 736236.9,
+                    "fee": 0,
+                    "afterTax": 4242126.9,
+                    "total": 4242126.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 350589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 385647.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4242126.9,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "BNBLMT0",
+              "amounts": {
+                "afterTaxTotal": 4317395.56,
+                "beforeTaxTotal": 3568095.5,
+                "taxAndFeeTotal": 749300.06,
+                "afterTaxAverage": 4317395.56,
+                "beforeTaxAverage": 3568095.5,
+                "feeTotal": 0,
+                "taxTotal": 749300.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3568095.5,
+                    "tax": 749300.06,
+                    "fee": 0,
+                    "afterTax": 4317395.56,
+                    "total": 4317395.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 356809.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 392490.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4317395.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "BNB",
+              "amounts": {
+                "afterTaxTotal": 4544626.9,
+                "beforeTaxTotal": 3755890,
+                "taxAndFeeTotal": 788736.9,
+                "afterTaxAverage": 4544626.9,
+                "beforeTaxAverage": 3755890,
+                "feeTotal": 0,
+                "taxTotal": 788736.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3755890,
+                    "tax": 788736.9,
+                    "fee": 0,
+                    "afterTax": 4544626.9,
+                    "total": 4544626.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 375589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 413147.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4544626.9,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "CLSTLMT0",
+              "amounts": {
+                "afterTaxTotal": 4978358.06,
+                "beforeTaxTotal": 4114345.5,
+                "taxAndFeeTotal": 864012.56,
+                "afterTaxAverage": 4978358.06,
+                "beforeTaxAverage": 4114345.5,
+                "feeTotal": 0,
+                "taxTotal": 864012.56
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4114345.5,
+                    "tax": 864012.56,
+                    "fee": 0,
+                    "afterTax": 4978358.06,
+                    "total": 4978358.06
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 411434.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 452578.01,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4978358.06,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4978358.06,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "CLST",
+              "amounts": {
+                "afterTaxTotal": 5240376.9,
+                "beforeTaxTotal": 4330890,
+                "taxAndFeeTotal": 909486.9,
+                "afterTaxAverage": 5240376.9,
+                "beforeTaxAverage": 4330890,
+                "feeTotal": 0,
+                "taxTotal": 909486.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4330890,
+                    "tax": 909486.9,
+                    "fee": 0,
+                    "afterTax": 5240376.9,
+                    "total": 5240376.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 433089,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 476397.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 5240376.9,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5240376.9,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWPLMT0",
+              "amounts": {
+                "afterTaxTotal": 6283040.56,
+                "beforeTaxTotal": 5192595.5,
+                "taxAndFeeTotal": 1090445.06,
+                "afterTaxAverage": 6283040.56,
+                "beforeTaxAverage": 5192595.5,
+                "feeTotal": 0,
+                "taxTotal": 1090445.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5192595.5,
+                    "tax": 1090445.06,
+                    "fee": 0,
+                    "afterTax": 6283040.56,
+                    "total": 6283040.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 519259.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 571185.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 6283040.56,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6283040.56,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWP",
+              "amounts": {
+                "afterTaxTotal": 6613726.9,
+                "beforeTaxTotal": 5465890,
+                "taxAndFeeTotal": 1147836.9,
+                "afterTaxAverage": 6613726.9,
+                "beforeTaxAverage": 5465890,
+                "feeTotal": 0,
+                "taxTotal": 1147836.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5465890,
+                    "tax": 1147836.9,
+                    "fee": 0,
+                    "afterTax": 6613726.9,
+                    "total": 6613726.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 546589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 601247.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 6613726.9,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6613726.9,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": {
+            "code": "DK1B",
+            "name": "King Bed",
+            "maxOccupancy": 4,
+            "remainingCount": 35
+          },
+          "rates": [
+            {
+              "code": "RFLXLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 104327,
+                "beforeTaxTotal": 86221,
+                "taxAndFeeTotal": 18106,
+                "afterTaxAverage": 104327,
+                "beforeTaxAverage": 86221,
+                "feeTotal": 0,
+                "taxTotal": 18106
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 86221,
+                    "tax": 18106,
+                    "fee": 0,
+                    "afterTax": 104327,
+                    "total": 104327
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "APLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 93895,
+                "beforeTaxTotal": 77599,
+                "taxAndFeeTotal": 16296,
+                "afterTaxAverage": 93895,
+                "beforeTaxAverage": 77599,
+                "feeTotal": 0,
+                "taxTotal": 16296
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 77599,
+                    "tax": 16296,
+                    "fee": 0,
+                    "afterTax": 93895,
+                    "total": 93895
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD",
+                  "CUSTOMER_NAME"
+                ],
+                "code": "NR",
+                "description": "ALL points used to redeem the booking will be non-refundable."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "NONR",
+                  "description": "ALL points used to redeem the booking will be non-cancelable."
+                }
+              ]
+            },
+            {
+              "code": "APLMT0",
+              "amounts": {
+                "afterTaxTotal": 3833928.5,
+                "beforeTaxTotal": 3168535.95,
+                "taxAndFeeTotal": 665392.55,
+                "afterTaxAverage": 3833928.5,
+                "beforeTaxAverage": 3168535.95,
+                "feeTotal": 0,
+                "taxTotal": 665392.55
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3168535.95,
+                    "tax": 665392.55,
+                    "fee": 0,
+                    "afterTax": 3833928.5,
+                    "total": 3833928.5
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 316853.6,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 348538.95,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 3833928.5,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 3833928.5,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "APLCT0",
+              "amounts": {
+                "afterTaxTotal": 3833928.5,
+                "beforeTaxTotal": 3168535.95,
+                "taxAndFeeTotal": 665392.55,
+                "afterTaxAverage": 3833928.5,
+                "beforeTaxAverage": 3168535.95,
+                "feeTotal": 0,
+                "taxTotal": 665392.55
+              },
+              "partialRedemption": {
+                "points": 14085,
+                "cash": 3258839.23,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 575089.27
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3168535.95,
+                    "tax": 665392.55,
+                    "fee": 0,
+                    "afterTax": 3833928.5,
+                    "total": 3833928.5
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 316853.6,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 348538.95,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 3833928.5,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 3833928.5,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "AP",
+              "amounts": {
+                "afterTaxTotal": 4035714.21,
+                "beforeTaxTotal": 3335301,
+                "taxAndFeeTotal": 700413.21,
+                "afterTaxAverage": 4035714.21,
+                "beforeTaxAverage": 3335301,
+                "feeTotal": 0,
+                "taxTotal": 700413.21
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3335301,
+                    "tax": 700413.21,
+                    "fee": 0,
+                    "afterTax": 4035714.21,
+                    "total": 4035714.21
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 333530.1,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 366883.11,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4035714.21,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4035714.21,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLMT0",
+              "amounts": {
+                "afterTaxTotal": 4259920.56,
+                "beforeTaxTotal": 3520595.5,
+                "taxAndFeeTotal": 739325.06,
+                "afterTaxAverage": 4259920.56,
+                "beforeTaxAverage": 3520595.5,
+                "feeTotal": 0,
+                "taxTotal": 739325.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3520595.5,
+                    "tax": 739325.06,
+                    "fee": 0,
+                    "afterTax": 4259920.56,
+                    "total": 4259920.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 352059.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 387265.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4259920.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLCT0",
+              "amounts": {
+                "afterTaxTotal": 4259920.56,
+                "beforeTaxTotal": 3520595.5,
+                "taxAndFeeTotal": 739325.06,
+                "afterTaxAverage": 4259920.56,
+                "beforeTaxAverage": 3520595.5,
+                "feeTotal": 0,
+                "taxTotal": 739325.06
+              },
+              "partialRedemption": {
+                "points": 15650,
+                "cash": 3620932.47,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 638988.09
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3520595.5,
+                    "tax": 739325.06,
+                    "fee": 0,
+                    "afterTax": 4259920.56,
+                    "total": 4259920.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 352059.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 387265.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4259920.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLX",
+              "amounts": {
+                "afterTaxTotal": 4484126.9,
+                "beforeTaxTotal": 3705890,
+                "taxAndFeeTotal": 778236.9,
+                "afterTaxAverage": 4484126.9,
+                "beforeTaxAverage": 3705890,
+                "feeTotal": 0,
+                "taxTotal": 778236.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3705890,
+                    "tax": 778236.9,
+                    "fee": 0,
+                    "afterTax": 4484126.9,
+                    "total": 4484126.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 370589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 407647.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4484126.9,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "BNBLMT0",
+              "amounts": {
+                "afterTaxTotal": 4547295.56,
+                "beforeTaxTotal": 3758095.5,
+                "taxAndFeeTotal": 789200.06,
+                "afterTaxAverage": 4547295.56,
+                "beforeTaxAverage": 3758095.5,
+                "feeTotal": 0,
+                "taxTotal": 789200.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3758095.5,
+                    "tax": 789200.06,
+                    "fee": 0,
+                    "afterTax": 4547295.56,
+                    "total": 4547295.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 375809.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 413390.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4547295.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "BNB",
+              "amounts": {
+                "afterTaxTotal": 4786626.9,
+                "beforeTaxTotal": 3955890,
+                "taxAndFeeTotal": 830736.9,
+                "afterTaxAverage": 4786626.9,
+                "beforeTaxAverage": 3955890,
+                "feeTotal": 0,
+                "taxTotal": 830736.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3955890,
+                    "tax": 830736.9,
+                    "fee": 0,
+                    "afterTax": 4786626.9,
+                    "total": 4786626.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 395589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 435147.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4786626.9,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "CLSTLMT0",
+              "amounts": {
+                "afterTaxTotal": 5208258.06,
+                "beforeTaxTotal": 4304345.5,
+                "taxAndFeeTotal": 903912.56,
+                "afterTaxAverage": 5208258.06,
+                "beforeTaxAverage": 4304345.5,
+                "feeTotal": 0,
+                "taxTotal": 903912.56
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4304345.5,
+                    "tax": 903912.56,
+                    "fee": 0,
+                    "afterTax": 5208258.06,
+                    "total": 5208258.06
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 430434.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 473478.01,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 5208258.06,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5208258.06,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "CLST",
+              "amounts": {
+                "afterTaxTotal": 5482376.9,
+                "beforeTaxTotal": 4530890,
+                "taxAndFeeTotal": 951486.9,
+                "afterTaxAverage": 5482376.9,
+                "beforeTaxAverage": 4530890,
+                "feeTotal": 0,
+                "taxTotal": 951486.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4530890,
+                    "tax": 951486.9,
+                    "fee": 0,
+                    "afterTax": 5482376.9,
+                    "total": 5482376.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 453089,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 498397.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 5482376.9,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5482376.9,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWPLMT0",
+              "amounts": {
+                "afterTaxTotal": 6512940.56,
+                "beforeTaxTotal": 5382595.5,
+                "taxAndFeeTotal": 1130345.06,
+                "afterTaxAverage": 6512940.56,
+                "beforeTaxAverage": 5382595.5,
+                "feeTotal": 0,
+                "taxTotal": 1130345.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5382595.5,
+                    "tax": 1130345.06,
+                    "fee": 0,
+                    "afterTax": 6512940.56,
+                    "total": 6512940.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 538259.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 592085.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 6512940.56,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6512940.56,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWP",
+              "amounts": {
+                "afterTaxTotal": 6855726.9,
+                "beforeTaxTotal": 5665890,
+                "taxAndFeeTotal": 1189836.9,
+                "afterTaxAverage": 6855726.9,
+                "beforeTaxAverage": 5665890,
+                "feeTotal": 0,
+                "taxTotal": 1189836.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5665890,
+                    "tax": 1189836.9,
+                    "fee": 0,
+                    "afterTax": 6855726.9,
+                    "total": 6855726.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 566589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 623247.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 6855726.9,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6855726.9,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": {
+            "code": "DK1A",
+            "name": "King Bed",
+            "maxOccupancy": 4,
+            "remainingCount": 33
+          },
+          "rates": [
+            {
+              "code": "RFLXLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 109957,
+                "beforeTaxTotal": 90874,
+                "taxAndFeeTotal": 19083,
+                "afterTaxAverage": 109957,
+                "beforeTaxAverage": 90874,
+                "feeTotal": 0,
+                "taxTotal": 19083
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 90874,
+                    "tax": 19083,
+                    "fee": 0,
+                    "afterTax": 109957,
+                    "total": 109957
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "APLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 98963,
+                "beforeTaxTotal": 81787,
+                "taxAndFeeTotal": 17176,
+                "afterTaxAverage": 98963,
+                "beforeTaxAverage": 81787,
+                "feeTotal": 0,
+                "taxTotal": 17176
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 81787,
+                    "tax": 17176,
+                    "fee": 0,
+                    "afterTax": 98963,
+                    "total": 98963
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD",
+                  "CUSTOMER_NAME"
+                ],
+                "code": "NR",
+                "description": "ALL points used to redeem the booking will be non-refundable."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "NONR",
+                  "description": "ALL points used to redeem the booking will be non-cancelable."
+                }
+              ]
+            },
+            {
+              "code": "RCAN",
+              "amounts": {
+                "afterTaxTotal": 4017207.87,
+                "beforeTaxTotal": 3320006.5,
+                "taxAndFeeTotal": 697201.37,
+                "afterTaxAverage": 4017207.87,
+                "beforeTaxAverage": 3320006.5,
+                "feeTotal": 0,
+                "taxTotal": 697201.37
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3320006.5,
+                    "tax": 697201.37,
+                    "fee": 0,
+                    "afterTax": 4017207.87,
+                    "total": 4017207.87
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 332000.65,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 365200.72,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4017207.87,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4017207.87,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "APLMT0",
+              "amounts": {
+                "afterTaxTotal": 4040838.5,
+                "beforeTaxTotal": 3339535.95,
+                "taxAndFeeTotal": 701302.55,
+                "afterTaxAverage": 4040838.5,
+                "beforeTaxAverage": 3339535.95,
+                "feeTotal": 0,
+                "taxTotal": 701302.55
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3339535.95,
+                    "tax": 701302.55,
+                    "fee": 0,
+                    "afterTax": 4040838.5,
+                    "total": 4040838.5
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 333953.6,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 367348.95,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4040838.5,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4040838.5,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "APLCT0",
+              "amounts": {
+                "afterTaxTotal": 4040838.5,
+                "beforeTaxTotal": 3339535.95,
+                "taxAndFeeTotal": 701302.55,
+                "afterTaxAverage": 4040838.5,
+                "beforeTaxAverage": 3339535.95,
+                "feeTotal": 0,
+                "taxTotal": 701302.55
+              },
+              "partialRedemption": {
+                "points": 14845,
+                "cash": 3434712.73,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 606125.77
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3339535.95,
+                    "tax": 701302.55,
+                    "fee": 0,
+                    "afterTax": 4040838.5,
+                    "total": 4040838.5
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 333953.6,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 367348.95,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4040838.5,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4040838.5,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "AP",
+              "amounts": {
+                "afterTaxTotal": 4253514.21,
+                "beforeTaxTotal": 3515301,
+                "taxAndFeeTotal": 738213.21,
+                "afterTaxAverage": 4253514.21,
+                "beforeTaxAverage": 3515301,
+                "feeTotal": 0,
+                "taxTotal": 738213.21
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3515301,
+                    "tax": 738213.21,
+                    "fee": 0,
+                    "afterTax": 4253514.21,
+                    "total": 4253514.21
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 351530.1,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 386683.11,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4253514.21,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4253514.21,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLMT0",
+              "amounts": {
+                "afterTaxTotal": 4489820.56,
+                "beforeTaxTotal": 3710595.5,
+                "taxAndFeeTotal": 779225.06,
+                "afterTaxAverage": 4489820.56,
+                "beforeTaxAverage": 3710595.5,
+                "feeTotal": 0,
+                "taxTotal": 779225.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3710595.5,
+                    "tax": 779225.06,
+                    "fee": 0,
+                    "afterTax": 4489820.56,
+                    "total": 4489820.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 371059.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 408165.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4489820.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLCT0",
+              "amounts": {
+                "afterTaxTotal": 4489820.56,
+                "beforeTaxTotal": 3710595.5,
+                "taxAndFeeTotal": 779225.06,
+                "afterTaxAverage": 4489820.56,
+                "beforeTaxAverage": 3710595.5,
+                "feeTotal": 0,
+                "taxTotal": 779225.06
+              },
+              "partialRedemption": {
+                "points": 16494,
+                "cash": 3816347.47,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 673473.09
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3710595.5,
+                    "tax": 779225.06,
+                    "fee": 0,
+                    "afterTax": 4489820.56,
+                    "total": 4489820.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 371059.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 408165.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4489820.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLX",
+              "amounts": {
+                "afterTaxTotal": 4726126.9,
+                "beforeTaxTotal": 3905890,
+                "taxAndFeeTotal": 820236.9,
+                "afterTaxAverage": 4726126.9,
+                "beforeTaxAverage": 3905890,
+                "feeTotal": 0,
+                "taxTotal": 820236.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3905890,
+                    "tax": 820236.9,
+                    "fee": 0,
+                    "afterTax": 4726126.9,
+                    "total": 4726126.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 390589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 429647.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4726126.9,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "BNBLMT0",
+              "amounts": {
+                "afterTaxTotal": 4777195.56,
+                "beforeTaxTotal": 3948095.5,
+                "taxAndFeeTotal": 829100.06,
+                "afterTaxAverage": 4777195.56,
+                "beforeTaxAverage": 3948095.5,
+                "feeTotal": 0,
+                "taxTotal": 829100.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 3948095.5,
+                    "tax": 829100.06,
+                    "fee": 0,
+                    "afterTax": 4777195.56,
+                    "total": 4777195.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 394809.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 434290.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4777195.56,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "BNB",
+              "amounts": {
+                "afterTaxTotal": 5028626.9,
+                "beforeTaxTotal": 4155890,
+                "taxAndFeeTotal": 872736.9,
+                "afterTaxAverage": 5028626.9,
+                "beforeTaxAverage": 4155890,
+                "feeTotal": 0,
+                "taxTotal": 872736.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4155890,
+                    "tax": 872736.9,
+                    "fee": 0,
+                    "afterTax": 5028626.9,
+                    "total": 5028626.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 415589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 457147.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5028626.9,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "CLSTLMT0",
+              "amounts": {
+                "afterTaxTotal": 5438158.06,
+                "beforeTaxTotal": 4494345.5,
+                "taxAndFeeTotal": 943812.56,
+                "afterTaxAverage": 5438158.06,
+                "beforeTaxAverage": 4494345.5,
+                "feeTotal": 0,
+                "taxTotal": 943812.56
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4494345.5,
+                    "tax": 943812.56,
+                    "fee": 0,
+                    "afterTax": 5438158.06,
+                    "total": 5438158.06
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 449434.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 494378.01,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 5438158.06,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5438158.06,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "CLST",
+              "amounts": {
+                "afterTaxTotal": 5724376.9,
+                "beforeTaxTotal": 4730890,
+                "taxAndFeeTotal": 993486.9,
+                "afterTaxAverage": 5724376.9,
+                "beforeTaxAverage": 4730890,
+                "feeTotal": 0,
+                "taxTotal": 993486.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4730890,
+                    "tax": 993486.9,
+                    "fee": 0,
+                    "afterTax": 5724376.9,
+                    "total": 5724376.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 473089,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 520397.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 5724376.9,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5724376.9,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWPLMT0",
+              "amounts": {
+                "afterTaxTotal": 6742840.56,
+                "beforeTaxTotal": 5572595.5,
+                "taxAndFeeTotal": 1170245.06,
+                "afterTaxAverage": 6742840.56,
+                "beforeTaxAverage": 5572595.5,
+                "feeTotal": 0,
+                "taxTotal": 1170245.06
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5572595.5,
+                    "tax": 1170245.06,
+                    "fee": 0,
+                    "afterTax": 6742840.56,
+                    "total": 6742840.56
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 557259.55,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 612985.51,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 6742840.56,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6742840.56,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWP",
+              "amounts": {
+                "afterTaxTotal": 7097726.9,
+                "beforeTaxTotal": 5865890,
+                "taxAndFeeTotal": 1231836.9,
+                "afterTaxAverage": 7097726.9,
+                "beforeTaxAverage": 5865890,
+                "feeTotal": 0,
+                "taxTotal": 1231836.9
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5865890,
+                    "tax": 1231836.9,
+                    "fee": 0,
+                    "afterTax": 7097726.9,
+                    "total": 7097726.9
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 586589,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 645247.9,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 7097726.9,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 7097726.9,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": {
+            "code": "BK1B",
+            "name": "King Bed",
+            "maxOccupancy": 4,
+            "remainingCount": 14
+          },
+          "rates": [
+            {
+              "code": "RFLXLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 135128,
+                "beforeTaxTotal": 111676,
+                "taxAndFeeTotal": 23452,
+                "afterTaxAverage": 135128,
+                "beforeTaxAverage": 111676,
+                "feeTotal": 0,
+                "taxTotal": 23452
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 111676,
+                    "tax": 23452,
+                    "fee": 0,
+                    "afterTax": 135128,
+                    "total": 135128
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "APLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 121616,
+                "beforeTaxTotal": 100509,
+                "taxAndFeeTotal": 21107,
+                "afterTaxAverage": 121616,
+                "beforeTaxAverage": 100509,
+                "feeTotal": 0,
+                "taxTotal": 21107
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 100509,
+                    "tax": 21107,
+                    "fee": 0,
+                    "afterTax": 121616,
+                    "total": 121616
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD",
+                  "CUSTOMER_NAME"
+                ],
+                "code": "NR",
+                "description": "ALL points used to redeem the booking will be non-refundable."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "NONR",
+                  "description": "ALL points used to redeem the booking will be non-cancelable."
+                }
+              ]
+            },
+            {
+              "code": "RCAN",
+              "amounts": {
+                "afterTaxTotal": 4936800,
+                "beforeTaxTotal": 4080000,
+                "taxAndFeeTotal": 856800,
+                "afterTaxAverage": 4936800,
+                "beforeTaxAverage": 4080000,
+                "feeTotal": 0,
+                "taxTotal": 856800
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4080000,
+                    "tax": 856800,
+                    "fee": 0,
+                    "afterTax": 4936800,
+                    "total": 4936800
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 408000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 448800,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4936800,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4936800,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "APLMT0",
+              "amounts": {
+                "afterTaxTotal": 4965840,
+                "beforeTaxTotal": 4104000,
+                "taxAndFeeTotal": 861840,
+                "afterTaxAverage": 4965840,
+                "beforeTaxAverage": 4104000,
+                "feeTotal": 0,
+                "taxTotal": 861840
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4104000,
+                    "tax": 861840,
+                    "fee": 0,
+                    "afterTax": 4965840,
+                    "total": 4965840
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 410400,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 451440,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4965840,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4965840,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "APLCT0",
+              "amounts": {
+                "afterTaxTotal": 4965840,
+                "beforeTaxTotal": 4104000,
+                "taxAndFeeTotal": 861840,
+                "afterTaxAverage": 4965840,
+                "beforeTaxAverage": 4104000,
+                "feeTotal": 0,
+                "taxTotal": 861840
+              },
+              "partialRedemption": {
+                "points": 18243,
+                "cash": 4220964,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 744876
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4104000,
+                    "tax": 861840,
+                    "fee": 0,
+                    "afterTax": 4965840,
+                    "total": 4965840
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 410400,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 451440,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 4965840,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 4965840,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "AP",
+              "amounts": {
+                "afterTaxTotal": 5227200,
+                "beforeTaxTotal": 4320000,
+                "taxAndFeeTotal": 907200,
+                "afterTaxAverage": 5227200,
+                "beforeTaxAverage": 4320000,
+                "feeTotal": 0,
+                "taxTotal": 907200
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4320000,
+                    "tax": 907200,
+                    "fee": 0,
+                    "afterTax": 5227200,
+                    "total": 5227200
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 432000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 475200,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 5227200,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5227200,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLMT0",
+              "amounts": {
+                "afterTaxTotal": 5517600,
+                "beforeTaxTotal": 4560000,
+                "taxAndFeeTotal": 957600,
+                "afterTaxAverage": 5517600,
+                "beforeTaxAverage": 4560000,
+                "feeTotal": 0,
+                "taxTotal": 957600
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4560000,
+                    "tax": 957600,
+                    "fee": 0,
+                    "afterTax": 5517600,
+                    "total": 5517600
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 456000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 501600,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5517600,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLCT0",
+              "amounts": {
+                "afterTaxTotal": 5517600,
+                "beforeTaxTotal": 4560000,
+                "taxAndFeeTotal": 957600,
+                "afterTaxAverage": 5517600,
+                "beforeTaxAverage": 4560000,
+                "feeTotal": 0,
+                "taxTotal": 957600
+              },
+              "partialRedemption": {
+                "points": 20270,
+                "cash": 4689960,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 827640
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4560000,
+                    "tax": 957600,
+                    "fee": 0,
+                    "afterTax": 5517600,
+                    "total": 5517600
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 456000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 501600,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5517600,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "BNBLMT0",
+              "amounts": {
+                "afterTaxTotal": 5804975,
+                "beforeTaxTotal": 4797500,
+                "taxAndFeeTotal": 1007475,
+                "afterTaxAverage": 5804975,
+                "beforeTaxAverage": 4797500,
+                "feeTotal": 0,
+                "taxTotal": 1007475
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4797500,
+                    "tax": 1007475,
+                    "fee": 0,
+                    "afterTax": 5804975,
+                    "total": 5804975
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 479750,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 527725,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5804975,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLX",
+              "amounts": {
+                "afterTaxTotal": 5808000,
+                "beforeTaxTotal": 4800000,
+                "taxAndFeeTotal": 1008000,
+                "afterTaxAverage": 5808000,
+                "beforeTaxAverage": 4800000,
+                "feeTotal": 0,
+                "taxTotal": 1008000
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4800000,
+                    "tax": 1008000,
+                    "fee": 0,
+                    "afterTax": 5808000,
+                    "total": 5808000
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 480000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 528000,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5808000,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "BNB",
+              "amounts": {
+                "afterTaxTotal": 6110500,
+                "beforeTaxTotal": 5050000,
+                "taxAndFeeTotal": 1060500,
+                "afterTaxAverage": 6110500,
+                "beforeTaxAverage": 5050000,
+                "feeTotal": 0,
+                "taxTotal": 1060500
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5050000,
+                    "tax": 1060500,
+                    "fee": 0,
+                    "afterTax": 6110500,
+                    "total": 6110500
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 505000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 555500,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6110500,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "CLSTLMT0",
+              "amounts": {
+                "afterTaxTotal": 6465937.5,
+                "beforeTaxTotal": 5343750,
+                "taxAndFeeTotal": 1122187.5,
+                "afterTaxAverage": 6465937.5,
+                "beforeTaxAverage": 5343750,
+                "feeTotal": 0,
+                "taxTotal": 1122187.5
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5343750,
+                    "tax": 1122187.5,
+                    "fee": 0,
+                    "afterTax": 6465937.5,
+                    "total": 6465937.5
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 534375,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 587812.5,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 6465937.5,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6465937.5,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "CLST",
+              "amounts": {
+                "afterTaxTotal": 6806250,
+                "beforeTaxTotal": 5625000,
+                "taxAndFeeTotal": 1181250,
+                "afterTaxAverage": 6806250,
+                "beforeTaxAverage": 5625000,
+                "feeTotal": 0,
+                "taxTotal": 1181250
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5625000,
+                    "tax": 1181250,
+                    "fee": 0,
+                    "afterTax": 6806250,
+                    "total": 6806250
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 562500,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 618750,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 6806250,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6806250,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWPLMT0",
+              "amounts": {
+                "afterTaxTotal": 7770620,
+                "beforeTaxTotal": 6422000,
+                "taxAndFeeTotal": 1348620,
+                "afterTaxAverage": 7770620,
+                "beforeTaxAverage": 6422000,
+                "feeTotal": 0,
+                "taxTotal": 1348620
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 6422000,
+                    "tax": 1348620,
+                    "fee": 0,
+                    "afterTax": 7770620,
+                    "total": 7770620
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 642200,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 706420,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 7770620,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 7770620,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWP",
+              "amounts": {
+                "afterTaxTotal": 8179600,
+                "beforeTaxTotal": 6760000,
+                "taxAndFeeTotal": 1419600,
+                "afterTaxAverage": 8179600,
+                "beforeTaxAverage": 6760000,
+                "feeTotal": 0,
+                "taxTotal": 1419600
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 6760000,
+                    "tax": 1419600,
+                    "fee": 0,
+                    "afterTax": 8179600,
+                    "total": 8179600
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 676000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 743600,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 8179600,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 8179600,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": {
+            "code": "BK1A",
+            "name": "King Bed",
+            "maxOccupancy": 4,
+            "remainingCount": 6
+          },
+          "rates": [
+            {
+              "code": "RFLXLRT0",
+              "amounts": {
+                "afterTaxTotal": 0,
+                "beforeTaxTotal": 0,
+                "taxAndFeeTotal": 0,
+                "afterTaxAverage": 0,
+                "beforeTaxAverage": 0,
+                "feeTotal": 0,
+                "taxTotal": 0
+              },
+              "points": {
+                "afterTaxTotal": 149204,
+                "beforeTaxTotal": 123309,
+                "taxAndFeeTotal": 25895,
+                "afterTaxAverage": 149204,
+                "beforeTaxAverage": 123309,
+                "feeTotal": 0,
+                "taxTotal": 25895
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  },
+                  "points": {
+                    "beforeTax": 123309,
+                    "tax": 25895,
+                    "fee": 0,
+                    "afterTax": 149204,
+                    "total": 149204
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 0,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 0,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RCAN",
+              "amounts": {
+                "afterTaxTotal": 5451050,
+                "beforeTaxTotal": 4505000,
+                "taxAndFeeTotal": 946050,
+                "afterTaxAverage": 5451050,
+                "beforeTaxAverage": 4505000,
+                "feeTotal": 0,
+                "taxTotal": 946050
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 4505000,
+                    "tax": 946050,
+                    "fee": 0,
+                    "afterTax": 5451050,
+                    "total": 5451050
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 450500,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 495550,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 5451050,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 5451050,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLMT0",
+              "amounts": {
+                "afterTaxTotal": 6092350,
+                "beforeTaxTotal": 5035000,
+                "taxAndFeeTotal": 1057350,
+                "afterTaxAverage": 6092350,
+                "beforeTaxAverage": 5035000,
+                "feeTotal": 0,
+                "taxTotal": 1057350
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5035000,
+                    "tax": 1057350,
+                    "fee": 0,
+                    "afterTax": 6092350,
+                    "total": 6092350
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 503500,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 553850,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6092350,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLXLCT0",
+              "amounts": {
+                "afterTaxTotal": 6092350,
+                "beforeTaxTotal": 5035000,
+                "taxAndFeeTotal": 1057350,
+                "afterTaxAverage": 6092350,
+                "beforeTaxAverage": 5035000,
+                "feeTotal": 0,
+                "taxTotal": 1057350
+              },
+              "partialRedemption": {
+                "points": 22381,
+                "cash": 5178497.5,
+                "currency": "IDR",
+                "conversionRate": 0.024490420673996784,
+                "pointsValueInCurrency": 913852.5
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5035000,
+                    "tax": 1057350,
+                    "fee": 0,
+                    "afterTax": 6092350,
+                    "total": 6092350
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 503500,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 553850,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6092350,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RFLX",
+              "amounts": {
+                "afterTaxTotal": 6413000,
+                "beforeTaxTotal": 5300000,
+                "taxAndFeeTotal": 1113000,
+                "afterTaxAverage": 6413000,
+                "beforeTaxAverage": 5300000,
+                "feeTotal": 0,
+                "taxTotal": 1113000
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 5300000,
+                    "tax": 1113000,
+                    "fee": 0,
+                    "afterTax": 6413000,
+                    "total": 6413000
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 530000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 583000,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "code": "CC",
+                "description": "All reservations must be guaranteed by a valid credit card at the time of booking, or the reservation will be automatically released."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 6413000,
+                  "currency": "IDR",
+                  "code": "24H",
+                  "absoluteDeadline": "2026-09-19T18:00:00+07:00",
+                  "description": "All cancellations and changes must be received by 6:00 pm Jakarta time at least 24 hours prior to expected arrival date, or a penalty equal to one night room charge plus tax and service charge, will be billed. The same penalty applies to no-shows."
+                }
+              ]
+            },
+            {
+              "code": "RIRWPLMT0",
+              "amounts": {
+                "afterTaxTotal": 8345370,
+                "beforeTaxTotal": 6897000,
+                "taxAndFeeTotal": 1448370,
+                "afterTaxAverage": 8345370,
+                "beforeTaxAverage": 6897000,
+                "feeTotal": 0,
+                "taxTotal": 1448370
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 6897000,
+                    "tax": 1448370,
+                    "fee": 0,
+                    "afterTax": 8345370,
+                    "total": 8345370
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 689700,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 758670,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 8345370,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 8345370,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWP",
+              "amounts": {
+                "afterTaxTotal": 8784600,
+                "beforeTaxTotal": 7260000,
+                "taxAndFeeTotal": 1524600,
+                "afterTaxAverage": 8784600,
+                "beforeTaxAverage": 7260000,
+                "feeTotal": 0,
+                "taxTotal": 1524600
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 7260000,
+                    "tax": 1524600,
+                    "fee": 0,
+                    "afterTax": 8784600,
+                    "total": 8784600
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 726000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 798600,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 8784600,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 8784600,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": {
+            "code": "AK1B",
+            "name": "King Bed",
+            "maxOccupancy": 4,
+            "remainingCount": 8
+          },
+          "rates": [
+            {
+              "code": "RCAN",
+              "amounts": {
+                "afterTaxTotal": 14275580,
+                "beforeTaxTotal": 11798000,
+                "taxAndFeeTotal": 2477580,
+                "afterTaxAverage": 14275580,
+                "beforeTaxAverage": 11798000,
+                "feeTotal": 0,
+                "taxTotal": 2477580
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 11798000,
+                    "tax": 2477580,
+                    "fee": 0,
+                    "afterTax": 14275580,
+                    "total": 14275580
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 1179800,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 1297780,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 14275580,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 14275580,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "CLSTLMT0",
+              "amounts": {
+                "afterTaxTotal": 15955060,
+                "beforeTaxTotal": 13186000,
+                "taxAndFeeTotal": 2769060,
+                "afterTaxAverage": 15955060,
+                "beforeTaxAverage": 13186000,
+                "feeTotal": 0,
+                "taxTotal": 2769060
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 13186000,
+                    "tax": 2769060,
+                    "fee": 0,
+                    "afterTax": 15955060,
+                    "total": 15955060
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 1318600,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 1450460,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 15955060,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 15955060,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "CLST",
+              "amounts": {
+                "afterTaxTotal": 16794800,
+                "beforeTaxTotal": 13880000,
+                "taxAndFeeTotal": 2914800,
+                "afterTaxAverage": 16794800,
+                "beforeTaxAverage": 13880000,
+                "feeTotal": 0,
+                "taxTotal": 2914800
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 13880000,
+                    "tax": 2914800,
+                    "fee": 0,
+                    "afterTax": 16794800,
+                    "total": 16794800
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 1388000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 1526800,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 16794800,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 16794800,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWPLMT0",
+              "amounts": {
+                "afterTaxTotal": 17081570,
+                "beforeTaxTotal": 14117000,
+                "taxAndFeeTotal": 2964570,
+                "afterTaxAverage": 17081570,
+                "beforeTaxAverage": 14117000,
+                "feeTotal": 0,
+                "taxTotal": 2964570
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 14117000,
+                    "tax": 2964570,
+                    "fee": 0,
+                    "afterTax": 17081570,
+                    "total": 17081570
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 1411700,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 1552870,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 17081570,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 17081570,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            },
+            {
+              "code": "RIRWP",
+              "amounts": {
+                "afterTaxTotal": 17980600,
+                "beforeTaxTotal": 14860000,
+                "taxAndFeeTotal": 3120600,
+                "afterTaxAverage": 17980600,
+                "beforeTaxAverage": 14860000,
+                "feeTotal": 0,
+                "taxTotal": 3120600
+              },
+              "dailyCharges": [
+                {
+                  "date": "2026-09-20",
+                  "amounts": {
+                    "beforeTax": 14860000,
+                    "tax": 3120600,
+                    "fee": 0,
+                    "afterTax": 17980600,
+                    "total": 17980600
+                  },
+                  "points": {
+                    "beforeTax": 0,
+                    "tax": 0,
+                    "fee": 0,
+                    "afterTax": 0,
+                    "total": 0
+                  }
+                }
+              ],
+              "taxes": [
+                {
+                  "amount": 1486000,
+                  "name": "Service Charge"
+                },
+                {
+                  "amount": 1634600,
+                  "name": "Government Tax"
+                }
+              ],
+              "guarantee": {
+                "amount": 17980600,
+                "offsetDropTime": "AFTER_BOOKING",
+                "offsetUnit": "Day",
+                "acceptedPaymentTypes": [
+                  "CREDIT_CARD"
+                ],
+                "currency": "IDR",
+                "code": "FP",
+                "description": "The rate requires non-refundable full prepayment for the entire stay, including tax and service charge, upon making the reservation. The reservation team will send a payment link for room accommodation settlement from our official reservation email at tljkt.reservation@langhamhotels.com. Bookings without payment confirmation will be automatically cancelled three (3) days prior\u00a0to\u00a0arrival."
+              },
+              "cancelPolicies": [
+                {
+                  "amount": 17980600,
+                  "currency": "IDR",
+                  "code": "NON",
+                  "description": "A cancellation/no-show fee of full night stay plus tax and service charge will be applied if the booking be cancelled."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rates": [
+        {
+          "code": "RFLXLRT0",
+          "name": "Brilliant Member Redemption - Flexible Rate",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Room Only. </li>\r\n<li>Complimentary Wi-Fi. </li>\r\n<li>Complimentary overnight valet parking for one vehicle. </li>\r\n</ul>\r\n<ul>\r\n\r\nTerms and condition:\r\n<ul>\r\n<li>All points used to redeem the booking will be non-refundable.</li>\r\n<li>Non-cancelable.</li>\r\n</ul>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "APLRT0",
+          "name": "Brilliant Member Redemption - Advance Purchase",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Room Only. </li>\r\n<li>Complimentary Wi-Fi. </li>\r\n<li>Complimentary overnight valet parking for one vehicle. </li>\r\n</ul>\r\n<ul>\r\n\r\nTerms and condition:\r\n<ul>\r\n<li>All points used to redeem the booking will be non-refundable.</li>\r\n<li>Non-cancelable.</li>\r\n</ul>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "APLMT0",
+          "name": "Brilliant Member Rate - Advance Purchase",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Room Only. </li>\r\n<li>Complimentary Wi-Fi. </li>\r\n<li>Complimentary overnight valet parking for one vehicle. </li>\r\n</ul>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "APLCT0",
+          "name": "Brilliant Member Rate - Points & Cash - 3 Days Advance Purchase",
+          "shortDescription": null,
+          "description": "<p>Book ahead and enjoy the benefits.</p>\r\n<br>\r\n<p>Enjoy up to 10% off when you book at least 3 days in advance.</p>\r\n<br>\r\n<p>Points & Cash is a payment method that allows Members to redeem Brilliant Award Points in combination with cash to pay for a stay.</p>\r\n<br>\r\nRate inclusions:\r\n<ul>\r\n<li>Room Only</li>\r\n<li>Complimentary WIFI access.</li>\r\n<li>Complimentary parking for one vehicle.</li>\r\n<br>\r\n<p>*Terms and Conditions Apply: <a href=\"https://www.brilliantbylangham.com/en/programme-terms-conditions#bt-tnc-container-item-4a4c7a0273\" target=\"_blank\"><b>Click here</b></a></p>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "AP",
+          "name": "Advance Purchase",
+          "shortDescription": null,
+          "description": "Rate Inclusions: \r\n<ul>\r\n<li>10% off Flexible Daily rate</li>\r\n<li>Complimentary Wi-Fi</li>\r\n<li>Complimentary overnight parking for one vehicle</li>\r\n</ul>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "RCAN",
+          "name": "Langham Anniversary",
+          "shortDescription": null,
+          "description": "Indulge in a luxurious escape with exclusive anniversary benefits:\r\n<ul>\r\n<li>15% off rooms</li>\r\n<li>10% off Spa treatments at Chuan Spa</li>\r\n<li>10% off Afternoon Tea at Alice</li>\r\n<li>5% off Food & Beverage in all restaurants, excluding alcoholic beverages\r\n</li>\r\n<li>High speed internet access / Wi-Fi</li>\r\n<li>Complimentary overnight parking for one vehicle</li>\r\n</ul>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "RFLXLMT0",
+          "name": "Brilliant Member Rate - Flexible Rate",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Room Only. </li>\r\n<li>Complimentary Wi-Fi. </li>\r\n<li>Complimentary overnight valet parking for one vehicle. </li>\r\n</ul>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "RFLXLCT0",
+          "name": "Brilliant Member Rate - Points & Cash - Flexible Rate",
+          "shortDescription": null,
+          "description": "<p>Points & Cash is a payment method that allows Members to redeem Brilliant Award Points in combination with cash to pay for a stay.</p>\r\n<br>\r\nRate inclusions:\r\n<ul>\r\n<li>Room Only</li>\r\n<li>Complimentary WIFI access.</li>\r\n<li>Complimentary parking for one vehicle.</li>\r\n<li>For guests staying at Club Executive Cityscape King Room and above, rate inclusive The Langham Club Access based on occupancy.</li>\r\n<br>\r\n<p>*Terms and Conditions Apply: <a href=\"https://www.brilliantbylangham.com/en/programme-terms-conditions#bt-tnc-container-item-4a4c7a0273\" target=\"_blank\"><b>Click here</b></a></p>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "RFLX",
+          "name": "Flexible Daily Rate",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Room Only</li>\r\n<li>Complimentary WIFI access.</li>\r\n<li>Complimentary parking for one vehicle.</li>\r\n<li>For guests staying at Club Executive Cityscape King Room and above, rate inclusive The Langham Club Access based on occupancy.</li>",
+          "isPackage": false,
+          "mealPlanCode": "NOT_INCLUDED",
+          "mealIncluded": {
+            "breakfast": false,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "BNBLMT0",
+          "name": "Brilliant Member Rate - Bed & Breakfast",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Daily breakfast at one of our restaurants.</li>\r\n<li>Complimentary Wi-Fi. </li>\r\n<li>Complimentary parking for one vehicle.</li>\r\n</ul>",
+          "isPackage": false,
+          "mealPlanCode": "BREAKFAST",
+          "mealIncluded": {
+            "breakfast": true,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "BNB",
+          "name": "Bed and Breakfast",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Daily breakfast at one of our restaurants.</li>\r\n<li>Complimentary high speed Internet access / WIFI access.</li>\r\n<li>Complimentary parking for one vehicle.</li>\r\n</ul>",
+          "isPackage": false,
+          "mealPlanCode": "BREAKFAST",
+          "mealIncluded": {
+            "breakfast": true,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "CLSTLMT0",
+          "name": "Brilliant Member Rate - Club & Suite Indulgence",
+          "shortDescription": null,
+          "description": "Rate Inclusions:\r\n<ul>\r\n<li>Langham Club Benefits</li>\r\n<li>Complimentary high speed Internet access / WIFI access.</li>\r\n<li>Complimentary parking for one vehicle.</li>\r\n</ul>\r\n<ul>\r\n<li>Children are welcome to access The Langham Club when accompanied by adults. Please note that children are subject to additional charges to enjoy the dining benefits of The Langham Club. Specific terms and conditions apply. For more information, please contact our team member.</li>\r\n\r\n<p><a href=\"https://www.langhamhotels.com/en/the-langham/jakarta/stay/langham-club/\">Click here for the full <strong style=\"color: blue; text-decoration: underline;\">Langham Club Benefits</strong>.</a></p>",
+          "isPackage": false,
+          "mealPlanCode": "BREAKFAST",
+          "mealIncluded": {
+            "breakfast": true,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "CLST",
+          "name": "Club & Suite Indulgence",
+          "shortDescription": null,
+          "description": "Rate Inclusions:\r\n<ul>\r\n<li>Langham Club Benefits</li>\r\n<li>Complimentary high speed Internet access / WIFI access.</li>\r\n<li>Complimentary parking for one vehicle.</li>\r\n</ul>\r\n<ul>\r\n<li>Children are welcome to access The Langham Club when accompanied by adults. Please note that children are subject to additional charges to enjoy the dining benefits of The Langham Club. Specific terms and conditions apply. For more information, please contact our team member.</li>\r\n\r\n<p><a href=\"https://www.langhamhotels.com/en/the-langham/jakarta/stay/langham-club/\">Click here for the full <strong style=\"color: blue; text-decoration: underline;\">Langham Club Benefits</strong>.</a></p>",
+          "isPackage": false,
+          "mealPlanCode": "BREAKFAST",
+          "mealIncluded": {
+            "breakfast": true,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "RIRWPLMT0",
+          "name": "Brilliant Member Rate - Refresh and Renew",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Welcome amenity</li>\r\n<li>Daily breakfast at one of our restaurants</li>\r\n<li>60 minute Chuan Harmony Massage</li>\r\n<li>Chuan Spa's Ear Auricular for sleep (a part of the 60 minute Chuan Harmony Massage)</li>\r\n<li>Complimentary sleep and wellness amenities</li>\r\n<li>Complimentary Wi-Fi</li>\r\n<li>Complimentary overnight parking for one vehicle</li>\r\n<li>For guests staying at Executive Cityscape King Room and above, rate inclusive The Langham Club Access based on occupancy.</li>\r\n</li>\r\n</li>Complimentary selection of sleep and wellness amenities:<ul>\r\n<li>Yoga Mat; Yoga Ball; Weight Training Equipment, Massage Ball, Resistance Band, Ear plugs; Eye Pillow; Sleeping Card, Bath Menu Card, Breathing Ritual Card.</li>",
+          "isPackage": false,
+          "mealPlanCode": "BREAKFAST",
+          "mealIncluded": {
+            "breakfast": true,
+            "lunch": false,
+            "dinner": false
+          }
+        },
+        {
+          "code": "RIRWP",
+          "name": "Refresh and Renew",
+          "shortDescription": null,
+          "description": "Rate inclusions:\r\n<ul>\r\n<li>Welcome amenity</li>\r\n<li>Daily breakfast at one of our restaurants</li>\r\n<li>60 minute Chuan Harmony Massage</li>\r\n<li>Chuan Spa's Ear Auricular for sleep (a part of the 60 minute Chuan Harmony Massage)</li>\r\n<li>Complimentary sleep and wellness amenities</li>\r\n<li>Complimentary Wi-Fi</li>\r\n<li>Complimentary overnight parking for one vehicle</li>\r\n<li>For guests staying at Executive Cityscape King Room and above, rate inclusive The Langham Club Access based on occupancy.</li>\r\n</li>\r\n</li>Complimentary selection of sleep and wellness amenities:<ul>\r\n<li>Yoga Mat; Yoga Ball; Weight Training Equipment, Massage Ball, Resistance Band, Ear plugs; Eye Pillow; Sleeping Card, Bath Menu Card, Breathing Ritual Card.</li>",
+          "isPackage": false,
+          "mealPlanCode": "BREAKFAST",
+          "mealIncluded": {
+            "breakfast": true,
+            "lunch": false,
+            "dinner": false
+          }
+        }
+      ]
+    }
+  }
+}

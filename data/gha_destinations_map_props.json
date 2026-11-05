@@ -1,0 +1,17 @@
+{
+  "page": {
+    "name": "Destinations map",
+    "description": {
+      "html5": "<p>As a GHA DISCOVERY member, you will be recognised<br>and rewarded across more than 1,000&nbsp;hotels globally.</p>\n"
+    },
+    "metaTitle": "Destinations Map - GHA DISCOVERY Loyalty Programme",
+    "metaDescription": "Explore our global 1,000 hotels on our interactive destinations map. Navigate to your favourite locations and find the perfect stay hotel, resort or palace.",
+    "metaKeywords": "",
+    "type": "destinations_map",
+    "contentPreview": false,
+    "timeStamp": null
+  },
+  "subHeaderNavItems": [],
+  "subHeaderExplore": "",
+  "isSubHeaderNavThin": false
+}

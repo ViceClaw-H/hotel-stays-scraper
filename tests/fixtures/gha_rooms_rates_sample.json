@@ -1,0 +1,156 @@
+{
+ "_comment": "TEST FIXTURE, not harvested data. Rooms/prices hand-assembled from values seen in one live ghadiscovery.com response (hotel KIDXB10, observed 2026-11-02). The discounted/member rates are added only to prove they are ignored.",
+ "promoValid": false,
+ "rooms": [
+  {
+   "roomName": "Deluxe Room King",
+   "roomCode": "D1K",
+   "discoveryDollars": null,
+   "minimalPrice": "2660.4",
+   "rates": [
+    {
+     "price": 2171.75,
+     "dailyPrice": 2660.4,
+     "currency": "AED",
+     "rateCode": "EARLY15",
+     "rateName": "Advance Booking Offer + 15% discount",
+     "memberRate": false,
+     "taxInclusive": false,
+     "amountWithFees": "2171.75",
+     "amountWithTaxesFees": "2660.4",
+     "amount": "2171.75",
+     "amountPayableNow": "2660.4",
+     "availableInventory": "83"
+    },
+    {
+     "price": 2455,
+     "dailyPrice": 3009.88,
+     "currency": "AED",
+     "rateCode": "GHAPREF",
+     "rateName": "Discovery Preferential Member Rate",
+     "memberRate": true,
+     "taxInclusive": false,
+     "amountWithFees": "2455",
+     "amountWithTaxesFees": "3009.88",
+     "amount": "2455",
+     "amountPayableNow": "3009.88",
+     "availableInventory": "83"
+    },
+    {
+     "price": 2555,
+     "dailyPrice": 3129.88,
+     "currency": "AED",
+     "rateCode": "DAILY",
+     "rateName": "Best Available Rate",
+     "memberRate": false,
+     "taxInclusive": false,
+     "amountWithFees": "2555",
+     "amountWithTaxesFees": "3129.88",
+     "amount": "2555",
+     "amountPayableNow": "3129.88",
+     "availableInventory": "83"
+    }
+   ]
+  },
+  {
+   "roomName": "Premier Room King",
+   "roomCode": "C1K",
+   "discoveryDollars": null,
+   "minimalPrice": "2764.52",
+   "rates": [
+    {
+     "price": 2256.75,
+     "dailyPrice": 2764.52,
+     "currency": "AED",
+     "rateCode": "EARLY15",
+     "rateName": "Advance Booking Offer + 15% discount",
+     "memberRate": false,
+     "taxInclusive": false,
+     "amountWithFees": "2256.75",
+     "amountWithTaxesFees": "2764.52",
+     "amount": "2256.75",
+     "amountPayableNow": "2764.52",
+     "availableInventory": "83"
+    },
+    {
+     "price": 2555,
+     "dailyPrice": 3132.38,
+     "currency": "AED",
+     "rateCode": "GHAPREF",
+     "rateName": "Discovery Preferential Member Rate",
+     "memberRate": true,
+     "taxInclusive": false,
+     "amountWithFees": "2555",
+     "amountWithTaxesFees": "3132.38",
+     "amount": "2555",
+     "amountPayableNow": "3132.38",
+     "availableInventory": "83"
+    },
+    {
+     "price": 2655,
+     "dailyPrice": 3252.38,
+     "currency": "AED",
+     "rateCode": "DAILY",
+     "rateName": "Best Available Rate",
+     "memberRate": false,
+     "taxInclusive": false,
+     "amountWithFees": "2655",
+     "amountWithTaxesFees": "3252.38",
+     "amount": "2655",
+     "amountPayableNow": "3252.38",
+     "availableInventory": "83"
+    }
+   ]
+  },
+  {
+   "roomName": "Presidential Suite",
+   "roomCode": "AS2",
+   "discoveryDollars": null,
+   "minimalPrice": "28691.65",
+   "rates": [
+    {
+     "price": 23421.75,
+     "dailyPrice": 28691.65,
+     "currency": "AED",
+     "rateCode": "EARLY15",
+     "rateName": "Advance Booking Offer + 15% discount",
+     "memberRate": false,
+     "taxInclusive": false,
+     "amountWithFees": "23421.75",
+     "amountWithTaxesFees": "28691.65",
+     "amount": "23421.75",
+     "amountPayableNow": "28691.65",
+     "availableInventory": "83"
+    },
+    {
+     "price": 27455,
+     "dailyPrice": 33634.88,
+     "currency": "AED",
+     "rateCode": "GHAPREF",
+     "rateName": "Discovery Preferential Member Rate",
+     "memberRate": true,
+     "taxInclusive": false,
+     "amountWithFees": "27455",
+     "amountWithTaxesFees": "33634.88",
+     "amount": "27455",
+     "amountPayableNow": "33634.88",
+     "availableInventory": "83"
+    },
+    {
+     "price": 27555,
+     "dailyPrice": 33754.88,
+     "currency": "AED",
+     "rateCode": "DAILY",
+     "rateName": "Best Available Rate",
+     "memberRate": false,
+     "taxInclusive": false,
+     "amountWithFees": "27555",
+     "amountWithTaxesFees": "33754.88",
+     "amount": "27555",
+     "amountPayableNow": "33754.88",
+     "availableInventory": "83"
+    }
+   ]
+  }
+ ]
+}

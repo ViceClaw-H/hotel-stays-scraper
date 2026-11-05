@@ -1,0 +1,488 @@
+[
+  {
+    "id": "shang_baotou_shangrila",
+    "name": "Shangri-La Baotou",
+    "city": "Baotou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "baotou/shangrila",
+    "code": "SLBT"
+  },
+  {
+    "id": "shang_beihai_shangrila",
+    "name": "Shangri-La Beihai",
+    "city": "Beihai",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "beihai/shangrila",
+    "code": "SBHI"
+  },
+  {
+    "id": "shang_beijing_chinaworld",
+    "name": "China World Hotel, Beijing, A Shangri-La Hotel",
+    "city": "Beijing",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "beijing/chinaworld",
+    "code": "CWH"
+  },
+  {
+    "id": "shang_beijing_chinaworldsummitwing",
+    "name": "China World Summit Wing, Beijing, A Shangri-La Hotel",
+    "city": "Beijing",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "beijing/chinaworldsummitwing",
+    "code": "CWSW"
+  },
+  {
+    "id": "shang_beijing_kerry",
+    "name": "Kerry Hotel, Beijing",
+    "city": "Beijing",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "beijing/kerry",
+    "code": "HBKC"
+  },
+  {
+    "id": "shang_beijing_shangrila",
+    "name": "Shangri-La Beijing",
+    "city": "Beijing",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "beijing/shangrila",
+    "code": "SLB"
+  },
+  {
+    "id": "shang_beijing_shangrilashougangpark",
+    "name": "Shangri-La Shougang Park, Beijing",
+    "city": "Beijing",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "beijing/shangrilashougangpark",
+    "code": "CNBJS007"
+  },
+  {
+    "id": "shang_changchun_shangrila",
+    "name": "Shangri-La Changchun",
+    "city": "Changchun",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "changchun/shangrila",
+    "code": "SLCC"
+  },
+  {
+    "id": "shang_chengdu_shangrila",
+    "name": "Shangri-La Chengdu",
+    "city": "Chengdu",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "chengdu/shangrila",
+    "code": "SLCD"
+  },
+  {
+    "id": "shang_dalian_shangrila",
+    "name": "Shangri-La Dalian",
+    "city": "Dalian",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "dalian/shangrila",
+    "code": "SLDA"
+  },
+  {
+    "id": "shang_fuzhou_shangrila",
+    "name": "Shangri-La Fuzhou",
+    "city": "Fuzhou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "fuzhou/shangrila",
+    "code": "SLFZ"
+  },
+  {
+    "id": "shang_guangzhou_shangrila",
+    "name": "Shangri-La Guangzhou",
+    "city": "Guangzhou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "guangzhou/shangrila",
+    "code": "SLPG"
+  },
+  {
+    "id": "shang_guilin_shangrila",
+    "name": "Shangri-La Guilin",
+    "city": "Guilin",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "guilin/shangrila",
+    "code": "SLGL"
+  },
+  {
+    "id": "shang_hangzhou_midtownshangrila",
+    "name": "Midtown Shangri-La, Hangzhou",
+    "city": "Hangzhou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "hangzhou/midtownshangrila",
+    "code": "SHHZ"
+  },
+  {
+    "id": "shang_hangzhou_shangrila",
+    "name": "Shangri-La Hangzhou",
+    "city": "Hangzhou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "hangzhou/shangrila",
+    "code": "SLH"
+  },
+  {
+    "id": "shang_harbin_shangrila",
+    "name": "Shangri-La Harbin",
+    "city": "Harbin",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "harbin/shangrila",
+    "code": "SHAR"
+  },
+  {
+    "id": "shang_harbin_songbeishangrila",
+    "name": "Shangri-La Songbei, Harbin",
+    "city": "Harbin",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "harbin/songbeishangrila",
+    "code": "SHAS"
+  },
+  {
+    "id": "shang_hefei_shangrila",
+    "name": "Shangri-La Hefei",
+    "city": "Hefei",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "hefei/shangrila",
+    "code": "SLHF"
+  },
+  {
+    "id": "shang_huhhot_shangrila",
+    "name": "Shangri-La Huhhot",
+    "city": "Huhhot",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "huhhot/shangrila",
+    "code": "SLHH"
+  },
+  {
+    "id": "shang_jinan_shangrila",
+    "name": "Shangri-La Jinan",
+    "city": "Jinan",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "jinan/shangrila",
+    "code": "SLJI"
+  },
+  {
+    "id": "shang_kunming_shangrila",
+    "name": "Shangri-La Kunming",
+    "city": "Kunming",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "kunming/shangrila",
+    "code": "CNKMG002"
+  },
+  {
+    "id": "shang_lhasa_shangrila",
+    "name": "Shangri-La Lhasa",
+    "city": "Lhasa",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "lhasa/shangrila",
+    "code": "SLLS"
+  },
+  {
+    "id": "shang_manzhouli_shangrila",
+    "name": "Shangri-La Manzhouli",
+    "city": "Manzhouli",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "manzhouli/shangrila",
+    "code": "SLMZ"
+  },
+  {
+    "id": "shang_nanchang_shangrila",
+    "name": "Shangri-La Nanchang",
+    "city": "Nanchang",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "nanchang/shangrila",
+    "code": "SLNC"
+  },
+  {
+    "id": "shang_nanjing_shangrila",
+    "name": "Shangri-La Nanjing",
+    "city": "Nanjing",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "nanjing/shangrila",
+    "code": "SLNJ"
+  },
+  {
+    "id": "shang_nanning_shangrila",
+    "name": "Shangri-La Nanning",
+    "city": "Nanning",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "nanning/shangrila",
+    "code": "CNNNG001"
+  },
+  {
+    "id": "shang_ningbo_shangrila",
+    "name": "Shangri-La Ningbo",
+    "city": "Ningbo",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "ningbo/shangrila",
+    "code": "SLNB"
+  },
+  {
+    "id": "shang_putian_shangrila",
+    "name": "Shangri-La Putian",
+    "city": "Putian",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "putian/shangrila",
+    "code": "CNJJN001"
+  },
+  {
+    "id": "shang_qingdao_shangrila",
+    "name": "Shangri-La Qingdao",
+    "city": "Qingdao",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "qingdao/shangrila",
+    "code": "SLQ"
+  },
+  {
+    "id": "shang_qinhuangdao_shangrila",
+    "name": "Shangri-La Qinhuangdao",
+    "city": "Qinhuangdao",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "qinhuangdao/shangrila",
+    "code": "SLQH"
+  },
+  {
+    "id": "shang_qufu_shangrila",
+    "name": "Shangri-La Qufu",
+    "city": "Qufu",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "qufu/shangrila",
+    "code": "SLQF"
+  },
+  {
+    "id": "shang_sanya_shangrilasanya",
+    "name": "Shangri-La Sanya",
+    "city": "Sanya",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "sanya/shangrilasanya",
+    "code": "SLHN"
+  },
+  {
+    "id": "shang_shanghai_jinganshangrila",
+    "name": "Jing An Shangri-La, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shanghai/jinganshangrila",
+    "code": "SLJN"
+  },
+  {
+    "id": "shang_shanghai_kerryhotelpudong",
+    "name": "Kerry Hotel Pudong, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shanghai/kerryhotelpudong",
+    "code": "KHPU"
+  },
+  {
+    "id": "shang_shanghai_pudongshangrila",
+    "name": "Pudong Shangri-La, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shanghai/pudongshangrila",
+    "code": "SLPU"
+  },
+  {
+    "id": "shang_shanghai_shangrilahongqiaoairport",
+    "name": "Shangri-La Hongqiao Airport, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shanghai/shangrilahongqiaoairport",
+    "code": null
+  },
+  {
+    "id": "shang_shanghai_qiantanshangrila",
+    "name": "Shangri-La Qiantan, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shanghai/qiantanshangrila",
+    "code": "CNSHA004"
+  },
+  {
+    "id": "shang_shanghai_tradershongqiaoairport",
+    "name": "Traders Hongqiao Airport, Shanghai",
+    "city": "Shanghai",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shanghai/tradershongqiaoairport",
+    "code": null
+  },
+  {
+    "id": "shang_shenyang_shangrila",
+    "name": "Shangri-La Shenyang",
+    "city": "Shenyang",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shenyang/shangrila",
+    "code": "SLSH"
+  },
+  {
+    "id": "shang_shenzhen_futianshangrila",
+    "name": "Futian Shangri-La, Shenzhen",
+    "city": "Shenzhen",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shenzhen/futianshangrila",
+    "code": "SLFT"
+  },
+  {
+    "id": "shang_shenzhen_nanshanshangrila",
+    "name": "Shangri-La Nanshan, Shenzhen",
+    "city": "Shenzhen",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shenzhen/nanshanshangrila",
+    "code": "CNSZX004"
+  },
+  {
+    "id": "shang_shenzhen_shangrila",
+    "name": "Shangri-La Shenzhen",
+    "city": "Shenzhen",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "shenzhen/shangrila",
+    "code": "SLZ"
+  },
+  {
+    "id": "shang_suzhou_shangrila",
+    "name": "Shangri-La Suzhou",
+    "city": "Suzhou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "suzhou/shangrila",
+    "code": "SLSZ"
+  },
+  {
+    "id": "shang_suzhou_jinjilakeshangrila",
+    "name": "Shangri-La Yuanqu, Suzhou",
+    "city": "Suzhou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "suzhou/jinjilakeshangrila",
+    "code": "CNSZV002"
+  },
+  {
+    "id": "shang_tangshan_shangrila",
+    "name": "Shangri-La Tangshan",
+    "city": "Tangshan",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "tangshan/shangrila",
+    "code": "SLTS"
+  },
+  {
+    "id": "shang_tianjin_shangrila",
+    "name": "Shangri-La Tianjin",
+    "city": "Tianjin",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "tianjin/shangrila",
+    "code": "SLTJ"
+  },
+  {
+    "id": "shang_wenzhou_shangrila",
+    "name": "Shangri-La Wenzhou",
+    "city": "Wenzhou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "wenzhou/shangrila",
+    "code": "SLWZ"
+  },
+  {
+    "id": "shang_wuhan_shangrila",
+    "name": "Shangri-La Wuhan",
+    "city": "Wuhan",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "wuhan/shangrila",
+    "code": "SLWU"
+  },
+  {
+    "id": "shang_xiamen_shangrila",
+    "name": "Shangri-La Xiamen",
+    "city": "Xiamen",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "xiamen/shangrila",
+    "code": "SLXM"
+  },
+  {
+    "id": "shang_xian_shangrila",
+    "name": "Shangri-La Xian",
+    "city": "Xian",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "xian/shangrila",
+    "code": "SLXN"
+  },
+  {
+    "id": "shang_yangzhou_shangrila",
+    "name": "Shangri-La Yangzhou",
+    "city": "Yangzhou",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "yangzhou/shangrila",
+    "code": "SLYZ"
+  },
+  {
+    "id": "shang_yiwu_shangrila",
+    "name": "Shangri-La Yiwu",
+    "city": "Yiwu",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "yiwu/shangrila",
+    "code": "SLYW"
+  },
+  {
+    "id": "shang_yunnan_shangrila",
+    "name": "Shangri-La Resort, Shangri-La",
+    "city": "Yunnan",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "yunnan/shangrila",
+    "code": "SLDQ"
+  },
+  {
+    "id": "shang_zhoushan_shangrila",
+    "name": "Shangri-La Zhoushan",
+    "city": "Zhoushan",
+    "country": "China",
+    "currency": "CNY",
+    "slug": "zhoushan/shangrila",
+    "code": "CNHSN001"
+  }
+]

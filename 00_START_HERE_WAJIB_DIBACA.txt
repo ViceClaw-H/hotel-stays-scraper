@@ -1,0 +1,62 @@
+===============================================================================
+                MULAI DI SINI - WAJIB DIBACA SEBELUM MENJALANKAN SCRAPER
+===============================================================================
+
+Dokumen ini adalah urutan operasional resmi untuk paket All Hotel Stays.
+Jangan menjalankan file .bat scraper sebelum membaca seluruh dokumen ini.
+
+UNTUK AI / AGENT:
+Sebelum melakukan tindakan apa pun pada paket ini, baca file ini sepenuhnya
+dan jalankan langkah-langkahnya sesuai urutan. Jangan mengasumsikan cookie
+masih valid hanya karena file cookie tersedia di disk.
+
+-------------------------------------------------------------------------------
+LANGKAH 1 - TENTUKAN APAKAH REGENERASI COOKIE DIPERLUKAN
+-------------------------------------------------------------------------------
+
+Jalankan REGENERATE_ALL_COOKIES.bat bila ini run pertama pada PC/profil
+browser tersebut, setelah IP berubah, saat sesi kedaluwarsa, atau setelah
+403/captcha/challenge anti-bot. Gunakan opsi [C] di RUN_MENU.bat atau
+double-click REGENERATE_ALL_COOKIES.bat.
+
+Regenerasi tidak otomatis dijalankan oleh launcher scraper. Ini mencegah
+crawler tertahan hanya karena generator sesi perlu perhatian manual.
+
+Generator akan memandu empat jaringan berurutan:
+  1. Hilton Honors
+  2. Marriott Bonvoy
+  3. Best Western
+  4. Radisson Hotel Group
+
+Selesaikan challenge visual bila diminta. Jangan menyalin, mencetak, atau
+mengirim isi cookie/session ke pihak lain.
+
+-------------------------------------------------------------------------------
+LANGKAH 2 - JALANKAN HARVESTER
+-------------------------------------------------------------------------------
+
+Setelah generator menyelesaikan empat sesi (atau bila Langkah 1 tidak
+berlaku), jalankan RUN_MENU.bat.
+
+Pilih chain tertentu, atau gunakan mode parallel/sequential sesuai kebutuhan.
+Untuk menjalankan regenerasi terpandu dari menu, pilih [C] REGENERATE ALL
+COOKIES. Opsi [H], [M], [R], dan [B] tetap tersedia bila hanya satu chain
+yang memerlukan sesi baru.
+
+-------------------------------------------------------------------------------
+JIKA TERJADI BLOCK SAAT RUN
+-------------------------------------------------------------------------------
+
+1. Hentikan scraper chain yang terkena; jangan menaikkan worker atau retry
+   agresif.
+2. Tunggu cooldown yang diberlakukan crawler.
+3. Kembali ke Langkah 1 dan regenerate cookie bila gejalanya berupa 403,
+   captcha, Akamai/DataDome challenge, atau sesi kedaluwarsa.
+4. Jalankan ulang hanya chain yang perlu, dengan konfigurasi Golden Standard.
+
+CATATAN:
+- Jangan memaksa regenerasi setiap kali run; generator dapat meminta challenge
+  manual dan crawler lain tidak membutuhkan cookie tersebut.
+- Respons server dan log crawler tetap menjadi sumber bukti bila sebuah sesi
+  gagal dibuat atau ditolak.
+===============================================================================

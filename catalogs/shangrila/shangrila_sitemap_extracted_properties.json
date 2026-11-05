@@ -1,0 +1,30 @@
+{
+  "hotel-closure/SLCZ": {
+    "slug": "hotel-closure/SLCZ",
+    "city": "hotel-closure",
+    "property": "SLCZ",
+    "canonical_url": "https://www.shangri-la.com/en/hotel-closure/SLCZ/",
+    "brand": "JEN"
+  },
+  "hotel-closure/THCZ": {
+    "slug": "hotel-closure/THCZ",
+    "city": "hotel-closure",
+    "property": "THCZ",
+    "canonical_url": "https://www.shangri-la.com/en/hotel-closure/THCZ/",
+    "brand": "JEN"
+  },
+  "hotel-closure/SLHI": {
+    "slug": "hotel-closure/SLHI",
+    "city": "hotel-closure",
+    "property": "SLHI",
+    "canonical_url": "https://www.shangri-la.com/en/hotel-closure/SLHI/",
+    "brand": "JEN"
+  },
+  "hotel-closure/SLDH": {
+    "slug": "hotel-closure/SLDH",
+    "city": "hotel-closure",
+    "property": "SLDH",
+    "canonical_url": "https://www.shangri-la.com/en/hotel-closure/SLDH/",
+    "brand": "JEN"
+  }
+}

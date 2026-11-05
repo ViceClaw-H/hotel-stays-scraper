@@ -1,0 +1,552 @@
+[
+  {
+    "hotel_name": "Shangri-La Phnom Penh",
+    "url": "https://www.shangri-la.com/en/phnompenh/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Baotou",
+    "url": "https://www.shangri-la.com/en/baotou/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Beihai",
+    "url": "https://www.shangri-la.com/en/beihai/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Beijing by Shangri-La",
+    "url": "https://www.hoteljen.com/en/beijing/centraldistrict",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "China World Hotel, Beijing, A Shangri-La Hotel",
+    "url": "https://www.shangri-la.com/en/beijing/chinaworld/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Kerry Hotel, Beijing",
+    "url": "https://www.shangri-la.com/en/beijing/kerry/",
+    "brand": "Kerry Hotels"
+  },
+  {
+    "hotel_name": "China World Summit Wing, Beijing, A Shangri-La Hotel",
+    "url": "https://www.shangri-la.com/en/beijing/chinaworldsummitwing/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Shougang Park, Beijing",
+    "url": "https://www.shangri-la.com/en/beijing/shangrilashougangpark/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Beijing",
+    "url": "https://www.shangri-la.com/en/beijing/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Changchun",
+    "url": "https://www.shangri-la.com/en/changchun/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Chengdu",
+    "url": "https://www.shangri-la.com/en/chengdu/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Dalian",
+    "url": "https://www.shangri-la.com/en/dalian/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Fuzhou",
+    "url": "https://www.shangri-la.com/en/fuzhou/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Guangzhou",
+    "url": "https://www.shangri-la.com/en/guangzhou/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Guilin",
+    "url": "https://www.shangri-la.com/en/guilin/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "The Silk Lakehouse, Shangri-La Hangzhou",
+    "url": "https://www.shangri-la.com/en/hangzhou/shangrila/thesilklakehouse/?hotelCode=CNHGH004&hotel=The%20Silk%20Lakehouse%2C%20Shangri-La%20Hangzhou&city=Hangzhou&cityEn=Hangzhou",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Hangzhou",
+    "url": "https://www.shangri-la.com/en/hangzhou/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Midtown Shangri-La, Hangzhou",
+    "url": "https://www.shangri-la.com/en/hangzhou/midtownshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Hangzhou by Shangri-La",
+    "url": "https://www.hoteljen.com/en/hangzhou/gongshudistrict",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Harbin",
+    "url": "https://www.shangri-la.com/en/harbin/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Songbei, Harbin",
+    "url": "https://www.shangri-la.com/en/harbin/songbeishangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Hefei",
+    "url": "https://www.shangri-la.com/en/hefei/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Huhhot",
+    "url": "https://www.shangri-la.com/en/huhhot/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Jinan",
+    "url": "https://www.shangri-la.com/en/jinan/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Kunming by Shangri-La",
+    "url": "https://www.hoteljen.com/en/kunming/panlongdistrict",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Kunming",
+    "url": "https://www.shangri-la.com/en/kunming/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Lhasa",
+    "url": "https://www.shangri-la.com/en/lhasa/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Manzhouli",
+    "url": "https://www.shangri-la.com/en/manzhouli/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Nanchang",
+    "url": "https://www.shangri-la.com/en/nanchang/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Nanjing",
+    "url": "https://www.shangri-la.com/en/nanjing/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Nanning",
+    "url": "https://www.shangri-la.com/en/nanning/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Ningbo",
+    "url": "https://www.shangri-la.com/en/ningbo/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Putian",
+    "url": "https://www.shangri-la.com/en/putian/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Qingdao",
+    "url": "https://www.shangri-la.com/en/qingdao/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Qinhuangdao",
+    "url": "https://www.shangri-la.com/en/qinhuangdao/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Qufu",
+    "url": "https://www.shangri-la.com/en/qufu/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Sanya",
+    "url": "https://www.shangri-la.com/en/sanya/shangrilasanya/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Jing An Shangri-La, Shanghai",
+    "url": "https://www.shangri-la.com/en/shanghai/jinganshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Qiantan, Shanghai",
+    "url": "https://www.shangri-la.com/en/shanghai/qiantanshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Traders Hongqiao Airport, Shanghai",
+    "url": "https://www.shangri-la.com/en/shanghai/tradershongqiaoairport/",
+    "brand": "Traders Hotels"
+  },
+  {
+    "hotel_name": "Pudong Shangri-La, Shanghai",
+    "url": "https://www.shangri-la.com/en/shanghai/pudongshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Kerry Hotel Pudong, Shanghai",
+    "url": "https://www.shangri-la.com/en/shanghai/kerryhotelpudong/",
+    "brand": "Kerry Hotels"
+  },
+  {
+    "hotel_name": "Shangri-La Hongqiao Airport, Shanghai",
+    "url": "https://www.shangri-la.com/en/shanghai/shangrilahongqiaoairport/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Shenyang by Shangri-La",
+    "url": "https://www.hoteljen.com/en/shenyang/hepingdistrict",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Shenyang",
+    "url": "https://www.shangri-la.com/en/shenyang/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Shenzhen",
+    "url": "https://www.shangri-la.com/en/shenzhen/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Shenzhen Qianhai by Shangri-La",
+    "url": "https://www.hoteljen.com/en/shenzhen/qianhai",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Futian Shangri-La, Shenzhen",
+    "url": "https://www.shangri-la.com/en/shenzhen/futianshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Nanshan, Shenzhen",
+    "url": "https://www.shangri-la.com/en/shenzhen/nanshanshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Yuanqu, Suzhou",
+    "url": "https://www.shangri-la.com/en/suzhou/jinjilakeshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Suzhou",
+    "url": "https://www.shangri-la.com/en/suzhou/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Tangshan",
+    "url": "https://www.shangri-la.com/en/tangshan/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Tianjin",
+    "url": "https://www.shangri-la.com/en/tianjin/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Wenzhou",
+    "url": "https://www.shangri-la.com/en/wenzhou/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Wuhan",
+    "url": "https://www.shangri-la.com/en/wuhan/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Xiamen",
+    "url": "https://www.shangri-la.com/en/xiamen/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Xian",
+    "url": "https://www.shangri-la.com/en/xian/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Yangzhou",
+    "url": "https://www.shangri-la.com/en/yangzhou/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Yiwu",
+    "url": "https://www.shangri-la.com/en/yiwu/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Resort, Shangri-La",
+    "url": "https://www.shangri-la.com/en/yunnan/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Zhoushan",
+    "url": "https://www.shangri-la.com/en/zhoushan/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Kowloon Shangri-La, Hong Kong",
+    "url": "https://www.shangri-la.com/en/hongkong/kowloonshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Hong Kong by Shangri-La",
+    "url": "https://www.hoteljen.com/en/hongkong/westerndistrict",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Kerry Hotel, Hong Kong",
+    "url": "https://www.shangri-la.com/en/hongkong/kerry/",
+    "brand": "Kerry Hotels"
+  },
+  {
+    "hotel_name": "Island Shangri-La, Hong Kong",
+    "url": "https://www.shangri-la.com/en/hongkong/islandshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Far Eastern, Tainan",
+    "url": "https://www.shangri-la.com/en/tainan/fareasternplazashangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Far Eastern, Taipei",
+    "url": "https://www.shangri-la.com/en/taipei/fareasternplazashangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Eros, New Delhi",
+    "url": "https://www.shangri-la.com/en/newdelhi/erosshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Residences, Jakarta",
+    "url": "https://www.shangri-la.com/en/jakarta/shangrilaresidences/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Jakarta",
+    "url": "https://www.shangri-la.com/en/jakarta/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Surabaya",
+    "url": "https://www.shangri-la.com/en/surabaya/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Tokyo",
+    "url": "https://www.shangri-la.com/en/tokyo/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Tanjung Aru, Kota Kinabalu",
+    "url": "https://www.shangri-la.com/en/kotakinabalu/tanjungaruresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Rasa Ria, Kota Kinabalu",
+    "url": "https://www.shangri-la.com/en/kotakinabalu/rasariaresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Traders Hotel, Kuala Lumpur",
+    "url": "https://www.shangri-la.com/en/kualalumpur/traders/",
+    "brand": "Traders Hotels"
+  },
+  {
+    "hotel_name": "Shangri-La Kuala Lumpur",
+    "url": "https://www.shangri-la.com/en/kualalumpur/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Penang Georgetown by Shangri-La",
+    "url": "https://www.hoteljen.com/en/penang/georgetown",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Golden Sands, Penang",
+    "url": "https://www.shangri-la.com/en/penang/goldensandsresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Rasa Sayang, Penang",
+    "url": "https://www.shangri-la.com/en/penang/rasasayangresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Villingili, Maldives",
+    "url": "https://www.shangri-la.com/en/male/villingiliresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Maldives Mal\u00e9 by Shangri-La",
+    "url": "https://www.hoteljen.com/en/male/maldives",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Ulaanbaatar",
+    "url": "https://www.shangri-la.com/en/ulaanbaatar/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Serviced Apartments Yangon",
+    "url": "https://www.shangri-la.com/en/yangon/shangrilaservicedapartments/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Sule Shangri-La, Yangon",
+    "url": "https://www.shangri-la.com/en/yangon/suleshangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Boracay",
+    "url": "https://www.shangri-la.com/en/boracay/boracayresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Mactan, Cebu",
+    "url": "https://www.shangri-la.com/en/cebu/mactanresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Edsa Shangri-La, Manila",
+    "url": "https://www.shangri-la.com/en/manila/edsashangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La The Fort, Manila",
+    "url": "https://www.shangri-la.com/en/manila/shangrilaatthefort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Makati Shangri-La, Manila",
+    "url": "https://www.shangri-la.com/en/manila/makatishangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Singapore Orchardgateway by Shangri-La",
+    "url": "https://www.hoteljen.com/en/singapore/orchardgateway",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Apartments & Residences, Singapore",
+    "url": "https://www.shangri-la.com/en/singapore/shangrilaapartment/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Rasa Sentosa, Singapore",
+    "url": "https://www.shangri-la.com/en/singapore/rasasentosaresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "JEN Singapore Tanglin by Shangri-La",
+    "url": "https://www.hoteljen.com/en/singapore/tanglin",
+    "brand": "JEN by Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Singapore",
+    "url": "https://www.shangri-la.com/en/singapore/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Colombo",
+    "url": "https://www.shangri-la.com/en/colombo/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Hambantota",
+    "url": "https://www.shangri-la.com/en/hambantota/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Bangkok",
+    "url": "https://www.shangri-la.com/en/bangkok/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Chiang Mai",
+    "url": "https://www.shangri-la.com/en/chiangmai/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Jeddah",
+    "url": "https://www.shangri-la.com/en/jeddah/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Traders Hotel, Qaryat Al Beri, Abu Dhabi",
+    "url": "https://www.shangri-la.com/en/abudhabi/traders/",
+    "brand": "Traders Hotels"
+  },
+  {
+    "hotel_name": "Shangri-La Qaryat Al Beri, Abu Dhabi",
+    "url": "https://www.shangri-la.com/en/abudhabi/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Dubai",
+    "url": "https://www.shangri-la.com/en/dubai/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Paris",
+    "url": "https://www.shangri-la.com/en/paris/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Bosphorus, Istanbul",
+    "url": "https://www.shangri-la.com/en/istanbul/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La The Shard, London",
+    "url": "https://www.shangri-la.com/en/london/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Toronto",
+    "url": "https://www.shangri-la.com/en/toronto/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La The Marina, Cairns",
+    "url": "https://www.shangri-la.com/en/cairns/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Sydney",
+    "url": "https://www.shangri-la.com/en/sydney/shangrila/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Yanuca Island, Fiji",
+    "url": "https://www.shangri-la.com/en/yanucaisland/fijianresort/",
+    "brand": "Shangri-La"
+  },
+  {
+    "hotel_name": "Shangri-La Le Touessrok, Mauritius",
+    "url": "https://www.shangri-la.com/en/mauritius/shangrila/",
+    "brand": "Shangri-La"
+  }
+]

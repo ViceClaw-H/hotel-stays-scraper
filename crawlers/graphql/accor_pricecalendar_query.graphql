@@ -1,0 +1,76 @@
+query PriceCalendar($from: Date!, $to: Date!, $hotelId: String!, $hotelId2: ID!, $dateIn: Date!, $dateOut: Date!, $nbAdults: PositiveInt!, $countryMarket: String!, $childrenAges: [NonNegativeInt!], $currency: String, $concession: BestOfferConcession, $use: BestOfferUse) {
+  hotel(hotelId: $hotelId2) {
+    id
+    name
+    brand {
+      code
+      label
+      description
+      __typename
+    }
+    labels {
+      description
+      code
+      label
+      __typename
+    }
+    __typename
+  }
+  hotelOffers(
+    hotelId: $hotelId
+    dateIn: $dateIn
+    dateOut: $dateOut
+    nbAdults: $nbAdults
+    countryMarket: $countryMarket
+    childrenAges: $childrenAges
+    currency: $currency
+    use: $use
+    concession: $concession
+  ) {
+    calendar(from: $from, to: $to) {
+      availability {
+        reasons {
+          code
+          label
+          __typename
+        }
+        status
+        __typename
+      }
+      date
+      offer {
+        lengthOfStay {
+          value
+          unit
+          __typename
+        }
+        categories {
+          code
+          tag
+          description
+          additionalTag
+          __typename
+        }
+        pricing {
+          aggregationType
+          main {
+            formattedAmount
+            __typename
+          }
+          alternative {
+            formattedAmount
+            __typename
+          }
+          __typename
+        }
+        __typename
+      }
+      bestRate {
+        label
+        __typename
+      }
+      __typename
+    }
+    __typename
+  }
+}

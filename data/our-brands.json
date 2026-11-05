@@ -1,0 +1,184 @@
+{
+  "page": {
+    "_info": {
+      "id": 45079
+    },
+    "noindex": false,
+    "name": "Our Brands",
+    "description": "Our Brands",
+    "tierVisibility": [],
+    "canonicalUrl": "https://www.ghadiscovery.com/our-brands",
+    "metaTitle": "Our Collection of Global Hotel Brands - GHA DISCOVERY Loyalty Programme",
+    "metaKeywords": "GHA DISCOVERY, Hotels, stays, hotel stays, hotels nearby, luxury hotels, hotel offers, international hotels, hotel brands, global collection, Anantara, avani, fauchon, araiya, kempinski, leela, tivoli, viceroy, parkroyal, pan pacific, nikki beach, outrigger, nh hotels, shaza, oaks, niccolo, nuo, marco polo, mysk, capella, corinthia, divani, the doyle collection, glo, the set collection, patina, sun international, sukhothai, the residence by cenizaro, ja resorts, lungarno",
+    "metaDescription": "Explore our distinctive global collection of over 55 brands with luxury hotels, resorts and palaces in over 100 countries. Browse our partner hotel brands.",
+    "page": {
+      "layout": "default",
+      "zones": [
+        {
+          "name": "default",
+          "id": 49953,
+          "blocks": [
+            {
+              "__typename": "HeaderLinePageBlock",
+              "_properties": {
+                "id": "385302",
+                "view": "default",
+                "since": null,
+                "till": null
+              },
+              "header": "Our Brands",
+              "text": {
+                "html5": "\n"
+              },
+              "anchorText": null,
+              "alignment": "center",
+              "headerFontColor": "black"
+            },
+            {
+              "__typename": "SimpleHeroBannerPageBlock",
+              "_properties": {
+                "id": "385303",
+                "view": "default",
+                "since": null,
+                "till": null
+              },
+              "image": {
+                "image": {
+                  "uri": "/var/site/storage/images/4/4/4/9/1119444-1-eng-GB/cb035a31fcc6-Our-Brands_JOIN-NOW.jpg",
+                  "alternativeText": "Our-Brands_JOIN-NOW.jpg"
+                },
+                "priority": 0
+              },
+              "showFradient": "1",
+              "header": "Discover unique hotel brands worldwide",
+              "text": {
+                "html5": "<p>Explore the world with GHA DISCOVERY. Experience our global collection of 55&nbsp;distinct brands, each designed for exceptional stays tailored to your travel needs. Your next great escape is waiting &ndash; are you ready?</p>\n"
+              },
+              "button": {
+                "openInNewTab": false,
+                "title": "BOOK NOW",
+                "link": "https://www.ghadiscovery.com/search/hotels?keyword=&clearBookingParams=1&clearHotelSearchParams=1",
+                "internalLink": null,
+                "hideFromLoggedIn": false,
+                "hideFromNeverLoggedIn": false,
+                "hideFromEverLoggedIn": false,
+                "hideFromNonLoggedIn": false
+              },
+              "buttonColor": "primary",
+              "anchorText": null
+            },
+            {
+              "__typename": "ArticleBlockPageBlock",
+              "_properties": {
+                "id": "385304",
+                "view": "image_right",
+                "since": null,
+                "till": null
+              },
+              "header": "Global recognition and rewards",
+              "text": {
+                "html5": "<p>As a GHA DISCOVERY member, your membership is recognised at 1,000&nbsp;hotels worldwide. And that goes for your rewards, too. You&rsquo;ll be able to earn and spend your D$ across the global collection so you can savour every moment, at home and away.</p>\n"
+              },
+              "buttonColor": "primary",
+              "button": null,
+              "backgroundColor": "bg-gradient-ivory",
+              "images": [
+                {
+                  "content": {
+                    "image": {
+                      "uri": "/var/site/storage/images/1/8/8/4/274881-1-eng-GB/Our-Brands_1.png",
+                      "alternativeText": "Brandenburg Gate, the famous historic landmark in Berlin, Germany"
+                    },
+                    "priority": 0
+                  }
+                },
+                {
+                  "content": {
+                    "image": {
+                      "uri": "/var/site/storage/images/4/8/8/4/274884-1-eng-GB/Our-Brands_2.png",
+                      "alternativeText": "Long-tail boats on a pristine beach in Thailand"
+                    },
+                    "priority": 0
+                  }
+                }
+              ],
+              "items": [
+                {
+                  "content": {
+                    "name": "Member Rates — save 10% or more!",
+                    "text": "Member Rates at participating hotels",
+                    "icon": {
+                      "uri": "/content/download/45094/275055?version=2"
+                    }
+                  }
+                },
+                {
+                  "content": {
+                    "name": "D$ rewards currency",
+                    "text": "D$ rewards currency",
+                    "icon": {
+                      "uri": "/content/download/45095/275058?version=3"
+                    }
+                  }
+                },
+                {
+                  "content": {
+                    "name": "Room upgrades",
+                    "text": "Room upgrades",
+                    "icon": {
+                      "uri": "/content/download/45096/275061?version=1"
+                    }
+                  }
+                },
+                {
+                  "content": {
+                    "name": "Flexible check-in and check-out",
+                    "text": "Flexible check-in and check-out",
+                    "icon": {
+                      "uri": "/content/download/45097/275064?version=1"
+                    }
+                  }
+                },
+                {
+                  "content": {
+                    "name": "Local Offers and Experiences",
+                    "text": "Local Offers and Experiences",
+                    "icon": {
+                      "uri": "/content/download/45098/275067?version=1"
+                    }
+                  }
+                }
+              ],
+              "anchorText": null,
+              "appleIcon": null,
+              "appleIconLink": null,
+              "androidIcon": null,
+              "androidIconLink": null
+            },
+            {
+              "__typename": "OurBrandsPageBlock",
+              "_properties": {
+                "id": "385305",
+                "view": "default",
+                "since": null,
+                "till": null
+              },
+              "backgroundColor": "bg-gradient-ivory",
+              "header": "Experience our distinctive collection",
+              "text": {
+                "html5": "<p>&nbsp;</p><p>Though you might have joined us initially through one of our 55&nbsp;hotel brands, you hold the key to a global collection of 1,000&nbsp;hotels, resorts, and palaces across 100 countries. Each brand in our collection is distinct, offering something special for every type of traveller.</p><p>&nbsp;</p><p><strong>A getaway for every vibe, culture and mood</strong></p><p>Our diverse range of hotels and luxury resorts ensures you'll find the perfect stay to match your desires. From mountain retreats, heritage houses and overwater bungalows&nbsp;to business hotels and shopping hotspots.</p><p>&nbsp;</p><p><strong>Diverse design for every taste</strong></p><p>Each brand in our collection brings its own unique flair. Do you love traditional elegance with golden ceilings and baroque details? Or do you prefer modern chic with sleek black-and-white decor? Every hotel is conceptualised to make your stay exceptional.</p><p>&nbsp;</p><p><strong>Exclusive access and offers</strong></p><p>No matter where you are, our hotels provide Experiences, Local Offers and Stay Offers.&nbsp;So go ahead &hellip; Stop by the pool for an afternoon dip, enjoy a luxurious dinner one evening, or disconnect with a weekend staycation. The choice is yours!</p><p>&nbsp;</p><p><strong>Which brand will you try next?</strong></p><p>With so many luxury experiences to choose from, the hardest part is deciding where to go next. Our advice? Let your wanderlust lead the way.</p><p>&nbsp;</p><p><sub>*At participating hotels.&nbsp;Terms and&nbsp;Conditions apply.</sub></p><p>&nbsp;</p>    <a href=\"https://www.ghadiscovery.com/search/hotels?keyword=&amp;clearBookingParams=1&amp;clearHotelSearchParams=1\"\n       class=\"ez-button--primary\">\n        BOOK NOW\n    </a>\n\n"
+              },
+              "anchorText": null
+            }
+          ]
+        }
+      ]
+    },
+    "type": "landing_page",
+    "contentPreview": false,
+    "timeStamp": null
+  },
+  "subHeaderNavItems": [],
+  "subHeaderExplore": "",
+  "isSubHeaderNavThin": false
+}
